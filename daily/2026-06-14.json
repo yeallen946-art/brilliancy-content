@@ -1,0 +1,4059 @@
+{
+  "daily_id": "2026-06-14",
+  "game": {
+    "id": "morphy-isouard-1858-f7f676",
+    "white": "Morphy, Paul",
+    "black": "Duke Karl / Count Isouard",
+    "event": "Paris Opera",
+    "year": 1858,
+    "result": "1-0",
+    "eco": "C41",
+    "hero_color": "white",
+    "title": "The Opera Game",
+    "narrative_intro": "Paris Opera House, 1858. Paul Morphy, the American prodigy, is at the board with White against two aristocrats sharing the black pieces. They would rather watch the opera — and Morphy is about to make the game very short. You are White.",
+    "ply_count": 33,
+    "moves": [
+      {
+        "ply": 1,
+        "san": "e4",
+        "uci": "e2e4",
+        "fen_before": "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1",
+        "is_guess_point": false,
+        "difficulty": 1200.0,
+        "tags": [],
+        "eval_cp": null,
+        "eval_mate": null,
+        "legal_evals": {},
+        "annotation": null,
+        "alt_annotations": {}
+      },
+      {
+        "ply": 2,
+        "san": "e5",
+        "uci": "e7e5",
+        "fen_before": "rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1",
+        "is_guess_point": false,
+        "difficulty": 1200.0,
+        "tags": [],
+        "eval_cp": null,
+        "eval_mate": null,
+        "legal_evals": {},
+        "annotation": null,
+        "alt_annotations": {}
+      },
+      {
+        "ply": 3,
+        "san": "Nf3",
+        "uci": "g1f3",
+        "fen_before": "rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2",
+        "is_guess_point": false,
+        "difficulty": 1200.0,
+        "tags": [],
+        "eval_cp": null,
+        "eval_mate": null,
+        "legal_evals": {},
+        "annotation": null,
+        "alt_annotations": {}
+      },
+      {
+        "ply": 4,
+        "san": "d6",
+        "uci": "d7d6",
+        "fen_before": "rnbqkbnr/pppp1ppp/8/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R b KQkq - 1 2",
+        "is_guess_point": false,
+        "difficulty": 1200.0,
+        "tags": [],
+        "eval_cp": null,
+        "eval_mate": null,
+        "legal_evals": {},
+        "annotation": null,
+        "alt_annotations": {}
+      },
+      {
+        "ply": 5,
+        "san": "d4",
+        "uci": "d2d4",
+        "fen_before": "rnbqkbnr/ppp2ppp/3p4/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 0 3",
+        "is_guess_point": false,
+        "difficulty": 1200.0,
+        "tags": [],
+        "eval_cp": null,
+        "eval_mate": null,
+        "legal_evals": {},
+        "annotation": null,
+        "alt_annotations": {}
+      },
+      {
+        "ply": 6,
+        "san": "Bg4",
+        "uci": "c8g4",
+        "fen_before": "rnbqkbnr/ppp2ppp/3p4/4p3/3PP3/5N2/PPP2PPP/RNBQKB1R b KQkq - 0 3",
+        "is_guess_point": false,
+        "difficulty": 1200.0,
+        "tags": [],
+        "eval_cp": null,
+        "eval_mate": null,
+        "legal_evals": {},
+        "annotation": null,
+        "alt_annotations": {}
+      },
+      {
+        "ply": 7,
+        "san": "dxe5",
+        "uci": "d4e5",
+        "fen_before": "rn1qkbnr/ppp2ppp/3p4/4p3/3PP1b1/5N2/PPP2PPP/RNBQKB1R w KQkq - 1 4",
+        "is_guess_point": false,
+        "difficulty": 1200.0,
+        "tags": [],
+        "eval_cp": null,
+        "eval_mate": null,
+        "legal_evals": {},
+        "annotation": null,
+        "alt_annotations": {}
+      },
+      {
+        "ply": 8,
+        "san": "Bxf3",
+        "uci": "g4f3",
+        "fen_before": "rn1qkbnr/ppp2ppp/3p4/4P3/4P1b1/5N2/PPP2PPP/RNBQKB1R b KQkq - 0 4",
+        "is_guess_point": false,
+        "difficulty": 1200.0,
+        "tags": [],
+        "eval_cp": null,
+        "eval_mate": null,
+        "legal_evals": {},
+        "annotation": null,
+        "alt_annotations": {}
+      },
+      {
+        "ply": 9,
+        "san": "Qxf3",
+        "uci": "d1f3",
+        "fen_before": "rn1qkbnr/ppp2ppp/3p4/4P3/4P3/5b2/PPP2PPP/RNBQKB1R w KQkq - 0 5",
+        "is_guess_point": false,
+        "difficulty": 1200.0,
+        "tags": [],
+        "eval_cp": null,
+        "eval_mate": null,
+        "legal_evals": {},
+        "annotation": null,
+        "alt_annotations": {}
+      },
+      {
+        "ply": 10,
+        "san": "dxe5",
+        "uci": "d6e5",
+        "fen_before": "rn1qkbnr/ppp2ppp/3p4/4P3/4P3/5Q2/PPP2PPP/RNB1KB1R b KQkq - 0 5",
+        "is_guess_point": false,
+        "difficulty": 1200.0,
+        "tags": [],
+        "eval_cp": null,
+        "eval_mate": null,
+        "legal_evals": {},
+        "annotation": null,
+        "alt_annotations": {}
+      },
+      {
+        "ply": 11,
+        "san": "Bc4",
+        "uci": "f1c4",
+        "fen_before": "rn1qkbnr/ppp2ppp/8/4p3/4P3/5Q2/PPP2PPP/RNB1KB1R w KQkq - 0 6",
+        "is_guess_point": false,
+        "difficulty": 1200.0,
+        "tags": [],
+        "eval_cp": null,
+        "eval_mate": null,
+        "legal_evals": {},
+        "annotation": null,
+        "alt_annotations": {}
+      },
+      {
+        "ply": 12,
+        "san": "Nf6",
+        "uci": "g8f6",
+        "fen_before": "rn1qkbnr/ppp2ppp/8/4p3/2B1P3/5Q2/PPP2PPP/RNB1K2R b KQkq - 1 6",
+        "is_guess_point": false,
+        "difficulty": 1200.0,
+        "tags": [],
+        "eval_cp": null,
+        "eval_mate": null,
+        "legal_evals": {},
+        "annotation": null,
+        "alt_annotations": {}
+      },
+      {
+        "ply": 13,
+        "san": "Qb3",
+        "uci": "f3b3",
+        "fen_before": "rn1qkb1r/ppp2ppp/5n2/4p3/2B1P3/5Q2/PPP2PPP/RNB1K2R w KQkq - 2 7",
+        "is_guess_point": false,
+        "difficulty": 1200.0,
+        "tags": [],
+        "eval_cp": null,
+        "eval_mate": null,
+        "legal_evals": {},
+        "annotation": null,
+        "alt_annotations": {}
+      },
+      {
+        "ply": 14,
+        "san": "Qe7",
+        "uci": "d8e7",
+        "fen_before": "rn1qkb1r/ppp2ppp/5n2/4p3/2B1P3/1Q6/PPP2PPP/RNB1K2R b KQkq - 3 7",
+        "is_guess_point": false,
+        "difficulty": 1200.0,
+        "tags": [],
+        "eval_cp": null,
+        "eval_mate": null,
+        "legal_evals": {},
+        "annotation": null,
+        "alt_annotations": {}
+      },
+      {
+        "ply": 15,
+        "san": "Nc3",
+        "uci": "b1c3",
+        "fen_before": "rn2kb1r/ppp1qppp/5n2/4p3/2B1P3/1Q6/PPP2PPP/RNB1K2R w KQkq - 4 8",
+        "is_guess_point": false,
+        "difficulty": 1200.0,
+        "tags": [],
+        "eval_cp": null,
+        "eval_mate": null,
+        "legal_evals": {},
+        "annotation": null,
+        "alt_annotations": {}
+      },
+      {
+        "ply": 16,
+        "san": "c6",
+        "uci": "c7c6",
+        "fen_before": "rn2kb1r/ppp1qppp/5n2/4p3/2B1P3/1QN5/PPP2PPP/R1B1K2R b KQkq - 5 8",
+        "is_guess_point": false,
+        "difficulty": 1200.0,
+        "tags": [],
+        "eval_cp": null,
+        "eval_mate": null,
+        "legal_evals": {},
+        "annotation": null,
+        "alt_annotations": {}
+      },
+      {
+        "ply": 17,
+        "san": "Bg5",
+        "uci": "c1g5",
+        "fen_before": "rn2kb1r/pp2qppp/2p2n2/4p3/2B1P3/1QN5/PPP2PPP/R1B1K2R w KQkq - 0 9",
+        "is_guess_point": true,
+        "difficulty": 1520.0,
+        "tags": [
+          "positional"
+        ],
+        "eval_cp": 250,
+        "eval_mate": null,
+        "legal_evals": {
+          "c1g5": {
+            "cp": 250,
+            "mate": null,
+            "refutation_pv": [
+              "a7a5",
+              "e1c1",
+              "b8a6"
+            ],
+            "motif": "best"
+          },
+          "c1e3": {
+            "cp": 180,
+            "mate": null,
+            "refutation_pv": [
+              "b7b5",
+              "c3b5",
+              "c6b5"
+            ],
+            "motif": "ok"
+          },
+          "a2a4": {
+            "cp": 167,
+            "mate": null,
+            "refutation_pv": [
+              "b8a6",
+              "c1e3",
+              "e7c7"
+            ],
+            "motif": "inaccuracy"
+          },
+          "e1g1": {
+            "cp": 139,
+            "mate": null,
+            "refutation_pv": [
+              "e7c7",
+              "a2a4",
+              "f8d6"
+            ],
+            "motif": "inaccuracy"
+          },
+          "g2g4": {
+            "cp": 134,
+            "mate": null,
+            "refutation_pv": [
+              "b7b5",
+              "c3b5",
+              "c6b5"
+            ],
+            "motif": "inaccuracy"
+          },
+          "c1d2": {
+            "cp": 128,
+            "mate": null,
+            "refutation_pv": [
+              "e7c7",
+              "a2a4",
+              "b8a6"
+            ],
+            "motif": "inaccuracy"
+          },
+          "f2f4": {
+            "cp": 121,
+            "mate": null,
+            "refutation_pv": [
+              "b7b5",
+              "f4e5",
+              "f6d7"
+            ],
+            "motif": "inaccuracy"
+          },
+          "a2a3": {
+            "cp": 103,
+            "mate": null,
+            "refutation_pv": [
+              "e7c7",
+              "a3a4",
+              "f8c5"
+            ],
+            "motif": "inaccuracy"
+          },
+          "e1e2": {
+            "cp": 68,
+            "mate": null,
+            "refutation_pv": [
+              "e7c7",
+              "a2a4",
+              "f8c5"
+            ],
+            "motif": "mistake"
+          },
+          "f2f3": {
+            "cp": 61,
+            "mate": null,
+            "refutation_pv": [
+              "b7b5",
+              "c4e2",
+              "b8d7"
+            ],
+            "motif": "mistake"
+          },
+          "h2h4": {
+            "cp": 16,
+            "mate": null,
+            "refutation_pv": [
+              "b7b5",
+              "c4e2",
+              "b8d7"
+            ],
+            "motif": "mistake"
+          },
+          "h2h3": {
+            "cp": 10,
+            "mate": null,
+            "refutation_pv": [
+              "b7b5",
+              "c4d3",
+              "b8d7"
+            ],
+            "motif": "mistake"
+          },
+          "c4e2": {
+            "cp": 7,
+            "mate": null,
+            "refutation_pv": [
+              "e7c7",
+              "a2a4",
+              "f8c5"
+            ],
+            "motif": "mistake"
+          },
+          "c4d3": {
+            "cp": 1,
+            "mate": null,
+            "refutation_pv": [
+              "e7c7",
+              "a2a4",
+              "b8d7"
+            ],
+            "motif": "mistake"
+          },
+          "c3b1": {
+            "cp": 0,
+            "mate": null,
+            "refutation_pv": [
+              "f6e4",
+              "c1e3",
+              "e7b4"
+            ],
+            "motif": "mistake"
+          },
+          "g2g3": {
+            "cp": -4,
+            "mate": null,
+            "refutation_pv": [
+              "b7b5",
+              "c4f1",
+              "b8d7"
+            ],
+            "motif": "mistake"
+          },
+          "c3d1": {
+            "cp": -12,
+            "mate": null,
+            "refutation_pv": [
+              "f6e4",
+              "e1g1",
+              "e4d6"
+            ],
+            "motif": "mistake"
+          },
+          "c4f1": {
+            "cp": -16,
+            "mate": null,
+            "refutation_pv": [
+              "e7c7",
+              "g2g3",
+              "b8d7"
+            ],
+            "motif": "mistake"
+          },
+          "c3e2": {
+            "cp": -16,
+            "mate": null,
+            "refutation_pv": [
+              "f6e4",
+              "e1g1",
+              "e4c5"
+            ],
+            "motif": "mistake"
+          },
+          "a1b1": {
+            "cp": -20,
+            "mate": null,
+            "refutation_pv": [
+              "b7b5",
+              "c4e2",
+              "b8d7"
+            ],
+            "motif": "mistake"
+          },
+          "h1f1": {
+            "cp": -37,
+            "mate": null,
+            "refutation_pv": [
+              "b7b5",
+              "c4e2",
+              "b8d7"
+            ],
+            "motif": "mistake"
+          },
+          "e1f1": {
+            "cp": -51,
+            "mate": null,
+            "refutation_pv": [
+              "b7b5",
+              "c4e2",
+              "a7a5"
+            ],
+            "motif": "blunder"
+          },
+          "b3a3": {
+            "cp": -51,
+            "mate": null,
+            "refutation_pv": [
+              "e7c7",
+              "a3b3",
+              "b7b5"
+            ],
+            "motif": "blunder"
+          },
+          "h1g1": {
+            "cp": -57,
+            "mate": null,
+            "refutation_pv": [
+              "b7b5",
+              "c4e2",
+              "b8d7"
+            ],
+            "motif": "blunder"
+          },
+          "b3a4": {
+            "cp": -66,
+            "mate": null,
+            "refutation_pv": [
+              "b8d7",
+              "c4e2",
+              "d7c5"
+            ],
+            "motif": "blunder"
+          },
+          "e1d1": {
+            "cp": -85,
+            "mate": null,
+            "refutation_pv": [
+              "b7b5",
+              "c4e2",
+              "b8d7"
+            ],
+            "motif": "blunder"
+          },
+          "c1f4": {
+            "cp": -151,
+            "mate": null,
+            "refutation_pv": [
+              "e5f4",
+              "e1c1",
+              "b8d7"
+            ],
+            "motif": "blunder"
+          },
+          "e1d2": {
+            "cp": -155,
+            "mate": null,
+            "refutation_pv": [
+              "b7b5",
+              "c3b5",
+              "c6b5"
+            ],
+            "motif": "blunder"
+          },
+          "c1h6": {
+            "cp": -271,
+            "mate": null,
+            "refutation_pv": [
+              "g7h6",
+              "e1c1",
+              "b8a6"
+            ],
+            "motif": "blunder"
+          },
+          "c4d5": {
+            "cp": -325,
+            "mate": null,
+            "refutation_pv": [
+              "c6d5",
+              "c1g5",
+              "e7b4"
+            ],
+            "motif": "blunder"
+          },
+          "c3a4": {
+            "cp": -326,
+            "mate": null,
+            "refutation_pv": [
+              "b7b5",
+              "c4b5",
+              "e7b4"
+            ],
+            "motif": "blunder"
+          },
+          "c4b5": {
+            "cp": -342,
+            "mate": null,
+            "refutation_pv": [
+              "c6b5",
+              "c1g5",
+              "e7b4"
+            ],
+            "motif": "blunder"
+          },
+          "c4e6": {
+            "cp": -355,
+            "mate": null,
+            "refutation_pv": [
+              "f7e6",
+              "c1e3",
+              "b8a6"
+            ],
+            "motif": "blunder"
+          },
+          "c3b5": {
+            "cp": -361,
+            "mate": null,
+            "refutation_pv": [
+              "c6b5",
+              "c4b5",
+              "b8c6"
+            ],
+            "motif": "blunder"
+          },
+          "c3d5": {
+            "cp": -374,
+            "mate": null,
+            "refutation_pv": [
+              "c6d5",
+              "e4d5",
+              "e7b4"
+            ],
+            "motif": "blunder"
+          },
+          "c4f7": {
+            "cp": -383,
+            "mate": null,
+            "refutation_pv": [
+              "e7f7",
+              "f2f3",
+              "h7h5"
+            ],
+            "motif": "blunder"
+          },
+          "c4a6": {
+            "cp": -529,
+            "mate": null,
+            "refutation_pv": [
+              "b8a6",
+              "c1e3",
+              "e7c7"
+            ],
+            "motif": "blunder"
+          },
+          "b3b5": {
+            "cp": -667,
+            "mate": null,
+            "refutation_pv": [
+              "c6b5",
+              "c4b5",
+              "b8c6"
+            ],
+            "motif": "blunder"
+          },
+          "b3b7": {
+            "cp": -691,
+            "mate": null,
+            "refutation_pv": [
+              "e7b7",
+              "c4b3",
+              "f8e7"
+            ],
+            "motif": "blunder"
+          },
+          "b3b6": {
+            "cp": -709,
+            "mate": null,
+            "refutation_pv": [
+              "a7b6",
+              "c1g5",
+              "b6b5"
+            ],
+            "motif": "blunder"
+          },
+          "b3b4": {
+            "cp": -756,
+            "mate": null,
+            "refutation_pv": [
+              "e7b4",
+              "c4b3",
+              "f6e4"
+            ],
+            "motif": "blunder"
+          }
+        },
+        "annotation": "Bg5 develops the last minor piece and pins the knight, keeping Black's king stuck in the center. White is clearly better. Be3 is playable but passive; a4, O-O, and g4 are all slower and let Black untangle.",
+        "alt_annotations": {
+          "c1e3": "Solid but passive — it lets Black begin to untangle.",
+          "a2a4": "Useful one day, but too slow while Black's king sits in the center.",
+          "e1g1": "Safe, yet castling here eases the pressure; the initiative matters more.",
+          "g2g4": "Loosening and slow — Black gets time to consolidate."
+        }
+      },
+      {
+        "ply": 18,
+        "san": "b5",
+        "uci": "b7b5",
+        "fen_before": "rn2kb1r/pp2qppp/2p2n2/4p1B1/2B1P3/1QN5/PPP2PPP/R3K2R b KQkq - 1 9",
+        "is_guess_point": false,
+        "difficulty": 1200.0,
+        "tags": [],
+        "eval_cp": null,
+        "eval_mate": null,
+        "legal_evals": {},
+        "annotation": null,
+        "alt_annotations": {}
+      },
+      {
+        "ply": 19,
+        "san": "Nxb5",
+        "uci": "c3b5",
+        "fen_before": "rn2kb1r/p3qppp/2p2n2/1p2p1B1/2B1P3/1QN5/PPP2PPP/R3K2R w KQkq - 0 10",
+        "is_guess_point": true,
+        "difficulty": 1048.0,
+        "tags": [
+          "tactical"
+        ],
+        "eval_cp": 325,
+        "eval_mate": null,
+        "legal_evals": {
+          "c3b5": {
+            "cp": 325,
+            "mate": null,
+            "refutation_pv": [
+              "e7b4",
+              "b5c3",
+              "b4b3"
+            ],
+            "motif": "best"
+          },
+          "g5f6": {
+            "cp": 137,
+            "mate": null,
+            "refutation_pv": [
+              "e7f6",
+              "c3b5",
+              "c6b5"
+            ],
+            "motif": "mistake"
+          },
+          "c4b5": {
+            "cp": 38,
+            "mate": null,
+            "refutation_pv": [
+              "c6b5",
+              "e1c1",
+              "e7c5"
+            ],
+            "motif": "mistake"
+          },
+          "c4e2": {
+            "cp": 36,
+            "mate": null,
+            "refutation_pv": [
+              "b8d7",
+              "e1g1",
+              "d7c5"
+            ],
+            "motif": "mistake"
+          },
+          "c4d5": {
+            "cp": 35,
+            "mate": null,
+            "refutation_pv": [
+              "c6d5",
+              "c3d5",
+              "e7b7"
+            ],
+            "motif": "mistake"
+          },
+          "c4d3": {
+            "cp": 17,
+            "mate": null,
+            "refutation_pv": [
+              "b8d7",
+              "c3e2",
+              "h7h6"
+            ],
+            "motif": "blunder"
+          },
+          "c4f1": {
+            "cp": 0,
+            "mate": null,
+            "refutation_pv": [
+              "b8d7",
+              "a2a4",
+              "d7c5"
+            ],
+            "motif": "blunder"
+          },
+          "a1d1": {
+            "cp": -263,
+            "mate": null,
+            "refutation_pv": [
+              "b5c4",
+              "b3c4",
+              "e7e6"
+            ],
+            "motif": "blunder"
+          },
+          "c3d5": {
+            "cp": -270,
+            "mate": null,
+            "refutation_pv": [
+              "b5c4",
+              "b3a4",
+              "e7b7"
+            ],
+            "motif": "blunder"
+          },
+          "e1c1": {
+            "cp": -307,
+            "mate": null,
+            "refutation_pv": [
+              "b5c4",
+              "b3c4",
+              "e7e6"
+            ],
+            "motif": "blunder"
+          },
+          "e1e2": {
+            "cp": -327,
+            "mate": null,
+            "refutation_pv": [
+              "b5c4",
+              "b3c4",
+              "e7c5"
+            ],
+            "motif": "blunder"
+          },
+          "a2a3": {
+            "cp": -335,
+            "mate": null,
+            "refutation_pv": [
+              "b5c4",
+              "b3a4",
+              "e7b7"
+            ],
+            "motif": "blunder"
+          },
+          "e1g1": {
+            "cp": -348,
+            "mate": null,
+            "refutation_pv": [
+              "b5c4",
+              "b3c4",
+              "e7b4"
+            ],
+            "motif": "blunder"
+          },
+          "f2f4": {
+            "cp": -355,
+            "mate": null,
+            "refutation_pv": [
+              "b5c4",
+              "b3c4",
+              "e7c5"
+            ],
+            "motif": "blunder"
+          },
+          "c3d1": {
+            "cp": -357,
+            "mate": null,
+            "refutation_pv": [
+              "b5c4",
+              "g5f6",
+              "c4b3"
+            ],
+            "motif": "blunder"
+          },
+          "h2h3": {
+            "cp": -363,
+            "mate": null,
+            "refutation_pv": [
+              "b5c4",
+              "b3c4",
+              "e7b4"
+            ],
+            "motif": "blunder"
+          },
+          "c3a4": {
+            "cp": -370,
+            "mate": null,
+            "refutation_pv": [
+              "b5c4",
+              "b3c4",
+              "e7b4"
+            ],
+            "motif": "blunder"
+          },
+          "c4f7": {
+            "cp": -371,
+            "mate": null,
+            "refutation_pv": [
+              "e7f7",
+              "b3f7",
+              "e8f7"
+            ],
+            "motif": "blunder"
+          },
+          "f2f3": {
+            "cp": -372,
+            "mate": null,
+            "refutation_pv": [
+              "b5c4",
+              "b3c4",
+              "e7b4"
+            ],
+            "motif": "blunder"
+          },
+          "g5d2": {
+            "cp": -373,
+            "mate": null,
+            "refutation_pv": [
+              "b5c4",
+              "b3c4",
+              "e7b7"
+            ],
+            "motif": "blunder"
+          },
+          "a1b1": {
+            "cp": -374,
+            "mate": null,
+            "refutation_pv": [
+              "b5c4",
+              "b3c4",
+              "e7b4"
+            ],
+            "motif": "blunder"
+          },
+          "g2g4": {
+            "cp": -374,
+            "mate": null,
+            "refutation_pv": [
+              "b5c4",
+              "b3c4",
+              "e7b4"
+            ],
+            "motif": "blunder"
+          },
+          "e1d1": {
+            "cp": -376,
+            "mate": null,
+            "refutation_pv": [
+              "b5c4",
+              "b3c4",
+              "e7c5"
+            ],
+            "motif": "blunder"
+          },
+          "g2g3": {
+            "cp": -379,
+            "mate": null,
+            "refutation_pv": [
+              "b5c4",
+              "b3c4",
+              "e7b4"
+            ],
+            "motif": "blunder"
+          },
+          "h1f1": {
+            "cp": -381,
+            "mate": null,
+            "refutation_pv": [
+              "b5c4",
+              "g5f6",
+              "c4b3"
+            ],
+            "motif": "blunder"
+          },
+          "g5h4": {
+            "cp": -385,
+            "mate": null,
+            "refutation_pv": [
+              "b5c4",
+              "h4f6",
+              "c4b3"
+            ],
+            "motif": "blunder"
+          },
+          "c3b1": {
+            "cp": -387,
+            "mate": null,
+            "refutation_pv": [
+              "b5c4",
+              "b3c4",
+              "e7b4"
+            ],
+            "motif": "blunder"
+          },
+          "g5e3": {
+            "cp": -387,
+            "mate": null,
+            "refutation_pv": [
+              "b5c4",
+              "b3c4",
+              "e7b4"
+            ],
+            "motif": "blunder"
+          },
+          "a1c1": {
+            "cp": -387,
+            "mate": null,
+            "refutation_pv": [
+              "b5c4",
+              "b3c4",
+              "e7b4"
+            ],
+            "motif": "blunder"
+          },
+          "g5f4": {
+            "cp": -389,
+            "mate": null,
+            "refutation_pv": [
+              "b5c4",
+              "b3c4",
+              "e5f4"
+            ],
+            "motif": "blunder"
+          },
+          "b3b5": {
+            "cp": -393,
+            "mate": null,
+            "refutation_pv": [
+              "c6b5",
+              "c4b5",
+              "e8d8"
+            ],
+            "motif": "blunder"
+          },
+          "h2h4": {
+            "cp": -396,
+            "mate": null,
+            "refutation_pv": [
+              "b5c4",
+              "b3c4",
+              "e7b4"
+            ],
+            "motif": "blunder"
+          },
+          "e1f1": {
+            "cp": -396,
+            "mate": null,
+            "refutation_pv": [
+              "b5c4",
+              "b3c4",
+              "e7c5"
+            ],
+            "motif": "blunder"
+          },
+          "a2a4": {
+            "cp": -397,
+            "mate": null,
+            "refutation_pv": [
+              "b5c4",
+              "b3c4",
+              "e7c5"
+            ],
+            "motif": "blunder"
+          },
+          "h1g1": {
+            "cp": -401,
+            "mate": null,
+            "refutation_pv": [
+              "b5c4",
+              "g5f6",
+              "c4b3"
+            ],
+            "motif": "blunder"
+          },
+          "c3e2": {
+            "cp": -402,
+            "mate": null,
+            "refutation_pv": [
+              "b5c4",
+              "b3f3",
+              "e7e6"
+            ],
+            "motif": "blunder"
+          },
+          "e1d2": {
+            "cp": -410,
+            "mate": null,
+            "refutation_pv": [
+              "b5c4",
+              "b3c4",
+              "e7b4"
+            ],
+            "motif": "blunder"
+          },
+          "g5c1": {
+            "cp": -416,
+            "mate": null,
+            "refutation_pv": [
+              "b5c4",
+              "b3c4",
+              "e7b4"
+            ],
+            "motif": "blunder"
+          },
+          "b3a3": {
+            "cp": -472,
+            "mate": null,
+            "refutation_pv": [
+              "e7a3",
+              "b2a3",
+              "b5c4"
+            ],
+            "motif": "blunder"
+          },
+          "c4e6": {
+            "cp": -482,
+            "mate": null,
+            "refutation_pv": [
+              "e7e6",
+              "g5f6",
+              "g7f6"
+            ],
+            "motif": "blunder"
+          },
+          "g5h6": {
+            "cp": -522,
+            "mate": null,
+            "refutation_pv": [
+              "b5c4",
+              "b3a4",
+              "g7h6"
+            ],
+            "motif": "blunder"
+          },
+          "b3a4": {
+            "cp": -583,
+            "mate": null,
+            "refutation_pv": [
+              "b5a4",
+              "e1c1",
+              "e7c7"
+            ],
+            "motif": "blunder"
+          },
+          "b3b4": {
+            "cp": -646,
+            "mate": null,
+            "refutation_pv": [
+              "e7b4",
+              "c4b3",
+              "b4d6"
+            ],
+            "motif": "blunder"
+          }
+        },
+        "annotation": "Nxb5!! rips open the c-file: after Black recaptures, White's pieces pour toward the stranded king. The timid Bxf6, Bxb5, Be2, and Bd5 all let Black off the hook and squander most of the advantage.",
+        "alt_annotations": {
+          "g5f6": "Trades off an attacker; the pressure fizzles and White is only slightly better.",
+          "c4b5": "Takes the pawn back but releases the bind — most of the edge is gone.",
+          "c4e2": "Passive retreat; Black gets time to develop and the edge slips.",
+          "c4d5": "Tempting, but after the recapture the attack loses steam."
+        }
+      },
+      {
+        "ply": 20,
+        "san": "cxb5",
+        "uci": "c6b5",
+        "fen_before": "rn2kb1r/p3qppp/2p2n2/1N2p1B1/2B1P3/1Q6/PPP2PPP/R3K2R b KQkq - 0 10",
+        "is_guess_point": false,
+        "difficulty": 1200.0,
+        "tags": [],
+        "eval_cp": null,
+        "eval_mate": null,
+        "legal_evals": {},
+        "annotation": null,
+        "alt_annotations": {}
+      },
+      {
+        "ply": 21,
+        "san": "Bxb5+",
+        "uci": "c4b5",
+        "fen_before": "rn2kb1r/p3qppp/5n2/1p2p1B1/2B1P3/1Q6/PPP2PPP/R3K2R w KQkq - 0 11",
+        "is_guess_point": false,
+        "difficulty": 1200.0,
+        "tags": [],
+        "eval_cp": null,
+        "eval_mate": null,
+        "legal_evals": {},
+        "annotation": null,
+        "alt_annotations": {}
+      },
+      {
+        "ply": 22,
+        "san": "Nbd7",
+        "uci": "b8d7",
+        "fen_before": "rn2kb1r/p3qppp/5n2/1B2p1B1/4P3/1Q6/PPP2PPP/R3K2R b KQkq - 0 11",
+        "is_guess_point": false,
+        "difficulty": 1200.0,
+        "tags": [],
+        "eval_cp": null,
+        "eval_mate": null,
+        "legal_evals": {},
+        "annotation": null,
+        "alt_annotations": {}
+      },
+      {
+        "ply": 23,
+        "san": "O-O-O",
+        "uci": "e1c1",
+        "fen_before": "r3kb1r/p2nqppp/5n2/1B2p1B1/4P3/1Q6/PPP2PPP/R3K2R w KQkq - 1 12",
+        "is_guess_point": true,
+        "difficulty": 1036.0,
+        "tags": [
+          "positional"
+        ],
+        "eval_cp": 545,
+        "eval_mate": null,
+        "legal_evals": {
+          "e1c1": {
+            "cp": 545,
+            "mate": null,
+            "refutation_pv": [
+              "e7c5",
+              "g5f6",
+              "g7f6"
+            ],
+            "motif": "best"
+          },
+          "g5f6": {
+            "cp": 354,
+            "mate": null,
+            "refutation_pv": [
+              "g7f6",
+              "e1c1",
+              "a8d8"
+            ],
+            "motif": "mistake"
+          },
+          "a1d1": {
+            "cp": 127,
+            "mate": null,
+            "refutation_pv": [
+              "a8b8",
+              "b5d7",
+              "f6d7"
+            ],
+            "motif": "blunder"
+          },
+          "a2a3": {
+            "cp": 127,
+            "mate": null,
+            "refutation_pv": [
+              "e7e6",
+              "b5c4",
+              "e6g4"
+            ],
+            "motif": "blunder"
+          },
+          "e1g1": {
+            "cp": 116,
+            "mate": null,
+            "refutation_pv": [
+              "e7b4",
+              "g5f6",
+              "b4b3"
+            ],
+            "motif": "blunder"
+          },
+          "c2c3": {
+            "cp": 65,
+            "mate": null,
+            "refutation_pv": [
+              "e7e6",
+              "g5f6",
+              "e6b3"
+            ],
+            "motif": "blunder"
+          },
+          "e1e2": {
+            "cp": 11,
+            "mate": null,
+            "refutation_pv": [
+              "e7e6",
+              "g5f6",
+              "g7f6"
+            ],
+            "motif": "blunder"
+          },
+          "b3d3": {
+            "cp": 3,
+            "mate": null,
+            "refutation_pv": [
+              "e7b4",
+              "c2c3",
+              "b4e4"
+            ],
+            "motif": "blunder"
+          },
+          "f2f3": {
+            "cp": -1,
+            "mate": null,
+            "refutation_pv": [
+              "e7b4",
+              "c2c3",
+              "b4b3"
+            ],
+            "motif": "blunder"
+          },
+          "b5c6": {
+            "cp": -49,
+            "mate": null,
+            "refutation_pv": [
+              "a8c8",
+              "c6a4",
+              "e7b4"
+            ],
+            "motif": "blunder"
+          },
+          "e1f1": {
+            "cp": -65,
+            "mate": null,
+            "refutation_pv": [
+              "e7e6",
+              "b5c4",
+              "e6b6"
+            ],
+            "motif": "blunder"
+          },
+          "g5e3": {
+            "cp": -96,
+            "mate": null,
+            "refutation_pv": [
+              "e7d6",
+              "a1d1",
+              "d6c7"
+            ],
+            "motif": "blunder"
+          },
+          "f2f4": {
+            "cp": -119,
+            "mate": null,
+            "refutation_pv": [
+              "e7b4",
+              "b3b4",
+              "f8b4"
+            ],
+            "motif": "blunder"
+          },
+          "g5h4": {
+            "cp": -119,
+            "mate": null,
+            "refutation_pv": [
+              "e7b4",
+              "b3b4",
+              "f8b4"
+            ],
+            "motif": "blunder"
+          },
+          "b5a4": {
+            "cp": -148,
+            "mate": null,
+            "refutation_pv": [
+              "e7b4",
+              "b3b4",
+              "f8b4"
+            ],
+            "motif": "blunder"
+          },
+          "h2h4": {
+            "cp": -152,
+            "mate": null,
+            "refutation_pv": [
+              "e7b4",
+              "e1e2",
+              "a8b8"
+            ],
+            "motif": "blunder"
+          },
+          "g5d2": {
+            "cp": -158,
+            "mate": null,
+            "refutation_pv": [
+              "a8b8",
+              "e1c1",
+              "a7a6"
+            ],
+            "motif": "blunder"
+          },
+          "b3c4": {
+            "cp": -165,
+            "mate": null,
+            "refutation_pv": [
+              "e7b4",
+              "c4b4",
+              "f8b4"
+            ],
+            "motif": "blunder"
+          },
+          "b3a4": {
+            "cp": -165,
+            "mate": null,
+            "refutation_pv": [
+              "e7b4",
+              "a4b4",
+              "f8b4"
+            ],
+            "motif": "blunder"
+          },
+          "b3c3": {
+            "cp": -167,
+            "mate": null,
+            "refutation_pv": [
+              "e7b4",
+              "c3b4",
+              "f8b4"
+            ],
+            "motif": "blunder"
+          },
+          "h1f1": {
+            "cp": -169,
+            "mate": null,
+            "refutation_pv": [
+              "e7b4",
+              "b3b4",
+              "f8b4"
+            ],
+            "motif": "blunder"
+          },
+          "a2a4": {
+            "cp": -169,
+            "mate": null,
+            "refutation_pv": [
+              "a7a6",
+              "b5c6",
+              "a8c8"
+            ],
+            "motif": "blunder"
+          },
+          "h2h3": {
+            "cp": -176,
+            "mate": null,
+            "refutation_pv": [
+              "e7b4",
+              "e1e2",
+              "a7a6"
+            ],
+            "motif": "blunder"
+          },
+          "h1g1": {
+            "cp": -180,
+            "mate": null,
+            "refutation_pv": [
+              "e7b4",
+              "b3b4",
+              "f8b4"
+            ],
+            "motif": "blunder"
+          },
+          "g2g3": {
+            "cp": -183,
+            "mate": null,
+            "refutation_pv": [
+              "e7b4",
+              "b3b4",
+              "f8b4"
+            ],
+            "motif": "blunder"
+          },
+          "a1c1": {
+            "cp": -200,
+            "mate": null,
+            "refutation_pv": [
+              "e7b4",
+              "e1e2",
+              "b4e4"
+            ],
+            "motif": "blunder"
+          },
+          "g2g4": {
+            "cp": -209,
+            "mate": null,
+            "refutation_pv": [
+              "e7b4",
+              "b3b4",
+              "f8b4"
+            ],
+            "motif": "blunder"
+          },
+          "b5c4": {
+            "cp": -220,
+            "mate": null,
+            "refutation_pv": [
+              "a8b8",
+              "g5f6",
+              "g7f6"
+            ],
+            "motif": "blunder"
+          },
+          "c2c4": {
+            "cp": -225,
+            "mate": null,
+            "refutation_pv": [
+              "a7a6",
+              "b3a4",
+              "e7b4"
+            ],
+            "motif": "blunder"
+          },
+          "b5d7": {
+            "cp": -245,
+            "mate": null,
+            "refutation_pv": [
+              "e7d7",
+              "g5f6",
+              "g7f6"
+            ],
+            "motif": "blunder"
+          },
+          "a1b1": {
+            "cp": -248,
+            "mate": null,
+            "refutation_pv": [
+              "e7b4",
+              "b3b4",
+              "f8b4"
+            ],
+            "motif": "blunder"
+          },
+          "b5e2": {
+            "cp": -255,
+            "mate": null,
+            "refutation_pv": [
+              "a8b8",
+              "g5f6",
+              "g7f6"
+            ],
+            "motif": "blunder"
+          },
+          "b5a6": {
+            "cp": -264,
+            "mate": null,
+            "refutation_pv": [
+              "a8b8",
+              "g5f6",
+              "g7f6"
+            ],
+            "motif": "blunder"
+          },
+          "b5d3": {
+            "cp": -270,
+            "mate": null,
+            "refutation_pv": [
+              "a8b8",
+              "b3a4",
+              "e7c5"
+            ],
+            "motif": "blunder"
+          },
+          "g5c1": {
+            "cp": -272,
+            "mate": null,
+            "refutation_pv": [
+              "a8b8",
+              "e1g1",
+              "a7a6"
+            ],
+            "motif": "blunder"
+          },
+          "e1d1": {
+            "cp": -286,
+            "mate": null,
+            "refutation_pv": [
+              "a7a6",
+              "b5a4",
+              "e8c8"
+            ],
+            "motif": "blunder"
+          },
+          "e1d2": {
+            "cp": -291,
+            "mate": null,
+            "refutation_pv": [
+              "a7a6",
+              "b5a4",
+              "e8c8"
+            ],
+            "motif": "blunder"
+          },
+          "g5f4": {
+            "cp": -301,
+            "mate": null,
+            "refutation_pv": [
+              "e7b4",
+              "c2c3",
+              "b4b3"
+            ],
+            "motif": "blunder"
+          },
+          "b5f1": {
+            "cp": -325,
+            "mate": null,
+            "refutation_pv": [
+              "e7b4",
+              "b3b4",
+              "f8b4"
+            ],
+            "motif": "blunder"
+          },
+          "g5h6": {
+            "cp": -333,
+            "mate": null,
+            "refutation_pv": [
+              "g7h6",
+              "e1g1",
+              "f8g7"
+            ],
+            "motif": "blunder"
+          },
+          "b3a3": {
+            "cp": -369,
+            "mate": null,
+            "refutation_pv": [
+              "e7a3",
+              "b2a3",
+              "a8b8"
+            ],
+            "motif": "blunder"
+          },
+          "b3d5": {
+            "cp": -399,
+            "mate": null,
+            "refutation_pv": [
+              "f6d5",
+              "g5e7",
+              "d5e7"
+            ],
+            "motif": "blunder"
+          },
+          "b3g3": {
+            "cp": -523,
+            "mate": null,
+            "refutation_pv": [
+              "e7b4",
+              "c2c3",
+              "b4b5"
+            ],
+            "motif": "blunder"
+          },
+          "b3f3": {
+            "cp": -552,
+            "mate": null,
+            "refutation_pv": [
+              "e7b4",
+              "c2c3",
+              "b4b5"
+            ],
+            "motif": "blunder"
+          },
+          "b3e3": {
+            "cp": -554,
+            "mate": null,
+            "refutation_pv": [
+              "e7b4",
+              "e3c3",
+              "b4b5"
+            ],
+            "motif": "blunder"
+          },
+          "b3h3": {
+            "cp": -567,
+            "mate": null,
+            "refutation_pv": [
+              "e7b4",
+              "c2c3",
+              "b4b5"
+            ],
+            "motif": "blunder"
+          },
+          "b3f7": {
+            "cp": -583,
+            "mate": null,
+            "refutation_pv": [
+              "e7f7",
+              "g5f6",
+              "a7a6"
+            ],
+            "motif": "blunder"
+          },
+          "b3e6": {
+            "cp": -655,
+            "mate": null,
+            "refutation_pv": [
+              "e7e6",
+              "g5f6",
+              "a7a6"
+            ],
+            "motif": "blunder"
+          },
+          "b3b4": {
+            "cp": -957,
+            "mate": null,
+            "refutation_pv": [
+              "e7b4",
+              "g5d2",
+              "b4b5"
+            ],
+            "motif": "blunder"
+          }
+        },
+        "annotation": "O-O-O drops the rook onto the open d-file, where it bears down on Black's pinned knight and queen — castling as a killing blow. Bxf6 lets a defender off the hook; Rd1, a3, and O-O are all much weaker.",
+        "alt_annotations": {
+          "g5f6": "Releases the pin too soon; White stays better but the bind loosens.",
+          "a1d1": "Bringing the other rook up leaves the king in the center — far less forcing.",
+          "a2a3": "A waiting move that wastes the moment and lets Black breathe.",
+          "e1g1": "Castling the wrong way misplaces the rook and lets Black's bishop into the attack."
+        }
+      },
+      {
+        "ply": 24,
+        "san": "Rd8",
+        "uci": "a8d8",
+        "fen_before": "r3kb1r/p2nqppp/5n2/1B2p1B1/4P3/1Q6/PPP2PPP/2KR3R b kq - 2 12",
+        "is_guess_point": false,
+        "difficulty": 1200.0,
+        "tags": [],
+        "eval_cp": null,
+        "eval_mate": null,
+        "legal_evals": {},
+        "annotation": null,
+        "alt_annotations": {}
+      },
+      {
+        "ply": 25,
+        "san": "Rxd7",
+        "uci": "d1d7",
+        "fen_before": "3rkb1r/p2nqppp/5n2/1B2p1B1/4P3/1Q6/PPP2PPP/2KR3R w k - 3 13",
+        "is_guess_point": true,
+        "difficulty": 1220.0,
+        "tags": [
+          "tactical"
+        ],
+        "eval_cp": 542,
+        "eval_mate": null,
+        "legal_evals": {
+          "d1d7": {
+            "cp": 542,
+            "mate": null,
+            "refutation_pv": [
+              "f6d7",
+              "g5e7",
+              "f8e7"
+            ],
+            "motif": "best"
+          },
+          "d1d3": {
+            "cp": 397,
+            "mate": null,
+            "refutation_pv": [
+              "a7a6",
+              "b5a4",
+              "e7e6"
+            ],
+            "motif": "inaccuracy"
+          },
+          "b5a4": {
+            "cp": 394,
+            "mate": null,
+            "refutation_pv": [
+              "e7e6",
+              "d1d7",
+              "f6d7"
+            ],
+            "motif": "inaccuracy"
+          },
+          "d1d5": {
+            "cp": 385,
+            "mate": null,
+            "refutation_pv": [
+              "h7h6",
+              "g5f6",
+              "e7f6"
+            ],
+            "motif": "mistake"
+          },
+          "c1b1": {
+            "cp": 366,
+            "mate": null,
+            "refutation_pv": [
+              "h7h6",
+              "g5f6",
+              "e7f6"
+            ],
+            "motif": "mistake"
+          },
+          "d1d2": {
+            "cp": 365,
+            "mate": null,
+            "refutation_pv": [
+              "h7h6",
+              "g5f6",
+              "e7f6"
+            ],
+            "motif": "mistake"
+          },
+          "b3a4": {
+            "cp": 361,
+            "mate": null,
+            "refutation_pv": [
+              "e7e6",
+              "g5f6",
+              "g7f6"
+            ],
+            "motif": "mistake"
+          },
+          "a2a3": {
+            "cp": 349,
+            "mate": null,
+            "refutation_pv": [
+              "h7h6",
+              "g5f6",
+              "e7f6"
+            ],
+            "motif": "mistake"
+          },
+          "b3h3": {
+            "cp": 349,
+            "mate": null,
+            "refutation_pv": [
+              "a7a6",
+              "b5a4",
+              "e7b4"
+            ],
+            "motif": "mistake"
+          },
+          "b5c6": {
+            "cp": 344,
+            "mate": null,
+            "refutation_pv": [
+              "e7e6",
+              "b3e6",
+              "f7e6"
+            ],
+            "motif": "mistake"
+          },
+          "b3c4": {
+            "cp": 335,
+            "mate": null,
+            "refutation_pv": [
+              "e7c5",
+              "c4c5",
+              "f8c5"
+            ],
+            "motif": "mistake"
+          },
+          "h1e1": {
+            "cp": 331,
+            "mate": null,
+            "refutation_pv": [
+              "a7a6",
+              "b5a4",
+              "e7e6"
+            ],
+            "motif": "mistake"
+          },
+          "g5f6": {
+            "cp": 331,
+            "mate": null,
+            "refutation_pv": [
+              "e7f6",
+              "b3d5",
+              "f8e7"
+            ],
+            "motif": "mistake"
+          },
+          "h1f1": {
+            "cp": 329,
+            "mate": null,
+            "refutation_pv": [
+              "h7h6",
+              "g5f6",
+              "e7f6"
+            ],
+            "motif": "mistake"
+          },
+          "c2c3": {
+            "cp": 329,
+            "mate": null,
+            "refutation_pv": [
+              "e7c5",
+              "b5d7",
+              "d8d7"
+            ],
+            "motif": "mistake"
+          },
+          "b3c3": {
+            "cp": 320,
+            "mate": null,
+            "refutation_pv": [
+              "e7e6",
+              "g5f6",
+              "g7f6"
+            ],
+            "motif": "mistake"
+          },
+          "g5h4": {
+            "cp": 316,
+            "mate": null,
+            "refutation_pv": [
+              "h7h5",
+              "f2f4",
+              "e7b4"
+            ],
+            "motif": "mistake"
+          },
+          "h2h3": {
+            "cp": 312,
+            "mate": null,
+            "refutation_pv": [
+              "e7c5",
+              "g5f6",
+              "g7f6"
+            ],
+            "motif": "mistake"
+          },
+          "f2f3": {
+            "cp": 296,
+            "mate": null,
+            "refutation_pv": [
+              "e7c5",
+              "g5f6",
+              "g7f6"
+            ],
+            "motif": "mistake"
+          },
+          "h1g1": {
+            "cp": 292,
+            "mate": null,
+            "refutation_pv": [
+              "h7h6",
+              "g5f6",
+              "e7f6"
+            ],
+            "motif": "mistake"
+          },
+          "f2f4": {
+            "cp": 288,
+            "mate": null,
+            "refutation_pv": [
+              "h7h6",
+              "d1d7",
+              "d8d7"
+            ],
+            "motif": "mistake"
+          },
+          "h2h4": {
+            "cp": 282,
+            "mate": null,
+            "refutation_pv": [
+              "h7h6",
+              "g5f6",
+              "e7f6"
+            ],
+            "motif": "mistake"
+          },
+          "g2g3": {
+            "cp": 278,
+            "mate": null,
+            "refutation_pv": [
+              "h7h6",
+              "g5f6",
+              "e7f6"
+            ],
+            "motif": "mistake"
+          },
+          "b3f3": {
+            "cp": 268,
+            "mate": null,
+            "refutation_pv": [
+              "a7a6",
+              "b5a4",
+              "e7e6"
+            ],
+            "motif": "mistake"
+          },
+          "g2g4": {
+            "cp": 252,
+            "mate": null,
+            "refutation_pv": [
+              "h7h6",
+              "g5f6",
+              "e7f6"
+            ],
+            "motif": "mistake"
+          },
+          "b3g3": {
+            "cp": 248,
+            "mate": null,
+            "refutation_pv": [
+              "a7a6",
+              "b5a4",
+              "e7b4"
+            ],
+            "motif": "mistake"
+          },
+          "c2c4": {
+            "cp": 226,
+            "mate": null,
+            "refutation_pv": [
+              "a7a6",
+              "d1d7",
+              "d8d7"
+            ],
+            "motif": "blunder"
+          },
+          "a2a4": {
+            "cp": 166,
+            "mate": null,
+            "refutation_pv": [
+              "a7a6",
+              "b5a6",
+              "e7b4"
+            ],
+            "motif": "blunder"
+          },
+          "b5d7": {
+            "cp": 146,
+            "mate": null,
+            "refutation_pv": [
+              "d8d7",
+              "d1d7",
+              "e7d7"
+            ],
+            "motif": "blunder"
+          },
+          "g5e3": {
+            "cp": 132,
+            "mate": null,
+            "refutation_pv": [
+              "e7b4",
+              "d1d3",
+              "d8b8"
+            ],
+            "motif": "blunder"
+          },
+          "g5d2": {
+            "cp": 97,
+            "mate": null,
+            "refutation_pv": [
+              "a7a6",
+              "b5a4",
+              "e7e6"
+            ],
+            "motif": "blunder"
+          },
+          "b5c4": {
+            "cp": 77,
+            "mate": null,
+            "refutation_pv": [
+              "h7h6",
+              "g5f6",
+              "e7f6"
+            ],
+            "motif": "blunder"
+          },
+          "b3d3": {
+            "cp": 74,
+            "mate": null,
+            "refutation_pv": [
+              "e7e6",
+              "f2f4",
+              "f8e7"
+            ],
+            "motif": "blunder"
+          },
+          "b3e3": {
+            "cp": 71,
+            "mate": null,
+            "refutation_pv": [
+              "a7a6",
+              "b5a4",
+              "e7b4"
+            ],
+            "motif": "blunder"
+          },
+          "b5a6": {
+            "cp": -27,
+            "mate": null,
+            "refutation_pv": [
+              "e7b4",
+              "a6b5",
+              "b4b3"
+            ],
+            "motif": "blunder"
+          },
+          "b5f1": {
+            "cp": -31,
+            "mate": null,
+            "refutation_pv": [
+              "e7b4",
+              "f1b5",
+              "b4b3"
+            ],
+            "motif": "blunder"
+          },
+          "d1f1": {
+            "cp": -42,
+            "mate": null,
+            "refutation_pv": [
+              "e7b4",
+              "f1d1",
+              "b4b3"
+            ],
+            "motif": "blunder"
+          },
+          "b5d3": {
+            "cp": -42,
+            "mate": null,
+            "refutation_pv": [
+              "e7b4",
+              "d3b5",
+              "b4b3"
+            ],
+            "motif": "blunder"
+          },
+          "d1e1": {
+            "cp": -42,
+            "mate": null,
+            "refutation_pv": [
+              "e7b4",
+              "e1d1",
+              "b4b3"
+            ],
+            "motif": "blunder"
+          },
+          "d1g1": {
+            "cp": -42,
+            "mate": null,
+            "refutation_pv": [
+              "e7b4",
+              "g1d1",
+              "b4b3"
+            ],
+            "motif": "blunder"
+          },
+          "b5e2": {
+            "cp": -43,
+            "mate": null,
+            "refutation_pv": [
+              "e7b4",
+              "e2b5",
+              "b4b3"
+            ],
+            "motif": "blunder"
+          },
+          "g5f4": {
+            "cp": -97,
+            "mate": null,
+            "refutation_pv": [
+              "e5f4",
+              "e4e5",
+              "f6e4"
+            ],
+            "motif": "blunder"
+          },
+          "b3d5": {
+            "cp": -197,
+            "mate": null,
+            "refutation_pv": [
+              "f6d5",
+              "g5e7",
+              "e8e7"
+            ],
+            "motif": "blunder"
+          },
+          "c1d2": {
+            "cp": -309,
+            "mate": null,
+            "refutation_pv": [
+              "f6e4",
+              "d2e2",
+              "e7g5"
+            ],
+            "motif": "blunder"
+          },
+          "d1d4": {
+            "cp": -330,
+            "mate": null,
+            "refutation_pv": [
+              "e5d4",
+              "e4e5",
+              "e7e5"
+            ],
+            "motif": "blunder"
+          },
+          "d1d6": {
+            "cp": -379,
+            "mate": null,
+            "refutation_pv": [
+              "e7d6",
+              "h1d1",
+              "d6b4"
+            ],
+            "motif": "blunder"
+          },
+          "g5h6": {
+            "cp": -390,
+            "mate": null,
+            "refutation_pv": [
+              "g7h6",
+              "d1d7",
+              "f6d7"
+            ],
+            "motif": "blunder"
+          },
+          "b3a3": {
+            "cp": -476,
+            "mate": null,
+            "refutation_pv": [
+              "e7a3",
+              "b2a3",
+              "f8a3"
+            ],
+            "motif": "blunder"
+          },
+          "b3f7": {
+            "cp": -487,
+            "mate": null,
+            "refutation_pv": [
+              "e7f7",
+              "g5f6",
+              "g7f6"
+            ],
+            "motif": "blunder"
+          },
+          "b3b4": {
+            "cp": -601,
+            "mate": null,
+            "refutation_pv": [
+              "e7b4",
+              "c2c4",
+              "f8e7"
+            ],
+            "motif": "blunder"
+          },
+          "b3e6": {
+            "cp": -653,
+            "mate": null,
+            "refutation_pv": [
+              "e7e6",
+              "c1b1",
+              "f8e7"
+            ],
+            "motif": "blunder"
+          }
+        },
+        "annotation": "Rxd7! tears down Black's last defender — after the recapture, the second rook swings in and the d-file collapses. Rd3, Ba4, Rd5, and Kb1 keep an edge but let Black survive much longer.",
+        "alt_annotations": {
+          "d1d3": "Lifts the rook but gives Black time to consolidate.",
+          "b5a4": "Keeps the bishop, yet it's slow; Black defends and holds on.",
+          "d1d5": "Active, but Black can kick the rook and the punch is gone.",
+          "c1b1": "Tidying the king is too slow when a forcing finish is available."
+        }
+      },
+      {
+        "ply": 26,
+        "san": "Rxd7",
+        "uci": "d8d7",
+        "fen_before": "3rkb1r/p2Rqppp/5n2/1B2p1B1/4P3/1Q6/PPP2PPP/2K4R b k - 0 13",
+        "is_guess_point": false,
+        "difficulty": 1200.0,
+        "tags": [],
+        "eval_cp": null,
+        "eval_mate": null,
+        "legal_evals": {},
+        "annotation": null,
+        "alt_annotations": {}
+      },
+      {
+        "ply": 27,
+        "san": "Rd1",
+        "uci": "h1d1",
+        "fen_before": "4kb1r/p2rqppp/5n2/1B2p1B1/4P3/1Q6/PPP2PPP/2K4R w k - 0 14",
+        "is_guess_point": true,
+        "difficulty": 788.0,
+        "tags": [
+          "positional"
+        ],
+        "eval_cp": 523,
+        "eval_mate": null,
+        "legal_evals": {
+          "h1d1": {
+            "cp": 523,
+            "mate": null,
+            "refutation_pv": [
+              "e7c5",
+              "g5f6",
+              "f8d6"
+            ],
+            "motif": "best"
+          },
+          "g5f6": {
+            "cp": 270,
+            "mate": null,
+            "refutation_pv": [
+              "e7f6",
+              "b5d7",
+              "e8d7"
+            ],
+            "motif": "mistake"
+          },
+          "c2c3": {
+            "cp": 227,
+            "mate": null,
+            "refutation_pv": [
+              "h7h6",
+              "g5f6",
+              "e7f6"
+            ],
+            "motif": "mistake"
+          },
+          "b5a4": {
+            "cp": 213,
+            "mate": null,
+            "refutation_pv": [
+              "e7d6",
+              "c2c4",
+              "d6c7"
+            ],
+            "motif": "blunder"
+          },
+          "f2f4": {
+            "cp": 207,
+            "mate": null,
+            "refutation_pv": [
+              "e7d6",
+              "b3c3",
+              "f8e7"
+            ],
+            "motif": "blunder"
+          },
+          "b3c3": {
+            "cp": 201,
+            "mate": null,
+            "refutation_pv": [
+              "e7d6",
+              "f2f4",
+              "d6b8"
+            ],
+            "motif": "blunder"
+          },
+          "b3c4": {
+            "cp": 197,
+            "mate": null,
+            "refutation_pv": [
+              "e7d6",
+              "c4c8",
+              "e8e7"
+            ],
+            "motif": "blunder"
+          },
+          "g5h4": {
+            "cp": 184,
+            "mate": null,
+            "refutation_pv": [
+              "e7d6",
+              "c2c4",
+              "a7a6"
+            ],
+            "motif": "blunder"
+          },
+          "f2f3": {
+            "cp": 181,
+            "mate": null,
+            "refutation_pv": [
+              "e7d6",
+              "c2c4",
+              "d6b4"
+            ],
+            "motif": "blunder"
+          },
+          "c1b1": {
+            "cp": 157,
+            "mate": null,
+            "refutation_pv": [
+              "a7a6",
+              "b5a4",
+              "e7d6"
+            ],
+            "motif": "blunder"
+          },
+          "h2h4": {
+            "cp": 144,
+            "mate": null,
+            "refutation_pv": [
+              "a7a6",
+              "b5c6",
+              "e7d6"
+            ],
+            "motif": "blunder"
+          },
+          "b5d7": {
+            "cp": 143,
+            "mate": null,
+            "refutation_pv": [
+              "e7d7",
+              "b3b8",
+              "d7d8"
+            ],
+            "motif": "blunder"
+          },
+          "h1f1": {
+            "cp": 130,
+            "mate": null,
+            "refutation_pv": [
+              "e7d6",
+              "c2c4",
+              "a7a6"
+            ],
+            "motif": "blunder"
+          },
+          "a2a4": {
+            "cp": 125,
+            "mate": null,
+            "refutation_pv": [
+              "a7a6",
+              "b5d7",
+              "e7d7"
+            ],
+            "motif": "blunder"
+          },
+          "h1e1": {
+            "cp": 124,
+            "mate": null,
+            "refutation_pv": [
+              "e7d6",
+              "c2c4",
+              "h7h6"
+            ],
+            "motif": "blunder"
+          },
+          "a2a3": {
+            "cp": 122,
+            "mate": null,
+            "refutation_pv": [
+              "e7d6",
+              "c2c4",
+              "e8e7"
+            ],
+            "motif": "blunder"
+          },
+          "g2g4": {
+            "cp": 120,
+            "mate": null,
+            "refutation_pv": [
+              "e7d6",
+              "c2c4",
+              "e8e7"
+            ],
+            "motif": "blunder"
+          },
+          "h2h3": {
+            "cp": 116,
+            "mate": null,
+            "refutation_pv": [
+              "e7d6",
+              "c2c4",
+              "a7a6"
+            ],
+            "motif": "blunder"
+          },
+          "h1g1": {
+            "cp": 114,
+            "mate": null,
+            "refutation_pv": [
+              "e7d6",
+              "c2c4",
+              "a7a6"
+            ],
+            "motif": "blunder"
+          },
+          "g2g3": {
+            "cp": 108,
+            "mate": null,
+            "refutation_pv": [
+              "e7d6",
+              "c2c4",
+              "d6c7"
+            ],
+            "motif": "blunder"
+          },
+          "g5e3": {
+            "cp": 96,
+            "mate": null,
+            "refutation_pv": [
+              "e7e6",
+              "b5d7",
+              "f6d7"
+            ],
+            "motif": "blunder"
+          },
+          "c2c4": {
+            "cp": 72,
+            "mate": null,
+            "refutation_pv": [
+              "e8d8",
+              "b5d7",
+              "d8d7"
+            ],
+            "motif": "blunder"
+          },
+          "b3a4": {
+            "cp": 56,
+            "mate": null,
+            "refutation_pv": [
+              "e8d8",
+              "g5e3",
+              "d7d6"
+            ],
+            "motif": "blunder"
+          },
+          "b3g3": {
+            "cp": 0,
+            "mate": null,
+            "refutation_pv": [
+              "e7d6",
+              "f2f4",
+              "f6e4"
+            ],
+            "motif": "blunder"
+          },
+          "b3f3": {
+            "cp": 0,
+            "mate": null,
+            "refutation_pv": [
+              "a7a6",
+              "b5d7",
+              "e7d7"
+            ],
+            "motif": "blunder"
+          },
+          "b5c6": {
+            "cp": 0,
+            "mate": null,
+            "refutation_pv": [
+              "e7d6",
+              "b3b7",
+              "f8e7"
+            ],
+            "motif": "blunder"
+          },
+          "b3d3": {
+            "cp": -58,
+            "mate": null,
+            "refutation_pv": [
+              "e8d8",
+              "b5d7",
+              "e7d7"
+            ],
+            "motif": "blunder"
+          },
+          "b3e3": {
+            "cp": -78,
+            "mate": null,
+            "refutation_pv": [
+              "a7a6",
+              "b5a4",
+              "e7b4"
+            ],
+            "motif": "blunder"
+          },
+          "g5d2": {
+            "cp": -80,
+            "mate": null,
+            "refutation_pv": [
+              "e7e6",
+              "b5d7",
+              "f6d7"
+            ],
+            "motif": "blunder"
+          },
+          "b3h3": {
+            "cp": -91,
+            "mate": null,
+            "refutation_pv": [
+              "a7a6",
+              "g5f6",
+              "g7f6"
+            ],
+            "motif": "blunder"
+          },
+          "g5f4": {
+            "cp": -196,
+            "mate": null,
+            "refutation_pv": [
+              "e5f4",
+              "h1d1",
+              "e7e4"
+            ],
+            "motif": "blunder"
+          },
+          "b5c4": {
+            "cp": -235,
+            "mate": null,
+            "refutation_pv": [
+              "e7b4",
+              "c4b5",
+              "e8d8"
+            ],
+            "motif": "blunder"
+          },
+          "b5e2": {
+            "cp": -236,
+            "mate": null,
+            "refutation_pv": [
+              "e7b4",
+              "e2b5",
+              "e8d8"
+            ],
+            "motif": "blunder"
+          },
+          "b5f1": {
+            "cp": -237,
+            "mate": null,
+            "refutation_pv": [
+              "e7b4",
+              "f1b5",
+              "e8d8"
+            ],
+            "motif": "blunder"
+          },
+          "b5d3": {
+            "cp": -238,
+            "mate": null,
+            "refutation_pv": [
+              "e7b4",
+              "d3b5",
+              "e8d8"
+            ],
+            "motif": "blunder"
+          },
+          "b5a6": {
+            "cp": -238,
+            "mate": null,
+            "refutation_pv": [
+              "e7b4",
+              "a6b5",
+              "e8d8"
+            ],
+            "motif": "blunder"
+          },
+          "g5h6": {
+            "cp": -313,
+            "mate": null,
+            "refutation_pv": [
+              "g7h6",
+              "h1d1",
+              "f8g7"
+            ],
+            "motif": "blunder"
+          },
+          "b3d5": {
+            "cp": -343,
+            "mate": null,
+            "refutation_pv": [
+              "f6d5",
+              "g5e7",
+              "f8e7"
+            ],
+            "motif": "blunder"
+          },
+          "b3a3": {
+            "cp": -450,
+            "mate": null,
+            "refutation_pv": [
+              "e7a3",
+              "b2a3",
+              "f8a3"
+            ],
+            "motif": "blunder"
+          },
+          "b3f7": {
+            "cp": -589,
+            "mate": null,
+            "refutation_pv": [
+              "e8f7",
+              "h2h3",
+              "d7d4"
+            ],
+            "motif": "blunder"
+          },
+          "b3b4": {
+            "cp": -635,
+            "mate": null,
+            "refutation_pv": [
+              "e7b4",
+              "b5a6",
+              "b4b6"
+            ],
+            "motif": "blunder"
+          },
+          "b3e6": {
+            "cp": -657,
+            "mate": null,
+            "refutation_pv": [
+              "e7e6",
+              "a2a3",
+              "a7a6"
+            ],
+            "motif": "blunder"
+          }
+        },
+        "annotation": "Rd1 brings the last piece into the attack, piling a second rook onto the pinned knight. Nothing else compares: Bxf6, c3, Ba4, and f4 all squander the initiative.",
+        "alt_annotations": {
+          "g5f6": "Trading the bishop eases Black's defense and softens the attack.",
+          "c2c3": "A quiet pawn move wastes the tempo Black desperately needs.",
+          "b5a4": "Retreating the bishop lets Black reorganize.",
+          "f2f4": "Premature; it opens lines for Black's queen instead."
+        }
+      },
+      {
+        "ply": 28,
+        "san": "Qe6",
+        "uci": "e7e6",
+        "fen_before": "4kb1r/p2rqppp/5n2/1B2p1B1/4P3/1Q6/PPP2PPP/2KR4 b k - 1 14",
+        "is_guess_point": false,
+        "difficulty": 1200.0,
+        "tags": [],
+        "eval_cp": null,
+        "eval_mate": null,
+        "legal_evals": {},
+        "annotation": null,
+        "alt_annotations": {}
+      },
+      {
+        "ply": 29,
+        "san": "Bxd7+",
+        "uci": "b5d7",
+        "fen_before": "4kb1r/p2r1ppp/4qn2/1B2p1B1/4P3/1Q6/PPP2PPP/2KR4 w k - 2 15",
+        "is_guess_point": true,
+        "difficulty": 1576.0,
+        "tags": [
+          "tactical"
+        ],
+        "eval_cp": 697,
+        "eval_mate": null,
+        "legal_evals": {
+          "b5d7": {
+            "cp": 697,
+            "mate": null,
+            "refutation_pv": [
+              "e6d7",
+              "d1d7",
+              "e8d7"
+            ],
+            "motif": "best"
+          },
+          "g5f6": {
+            "cp": 641,
+            "mate": null,
+            "refutation_pv": [
+              "g7f6",
+              "b5d7",
+              "e6d7"
+            ],
+            "motif": "ok"
+          },
+          "b3c3": {
+            "cp": 467,
+            "mate": null,
+            "refutation_pv": [
+              "f8d6",
+              "c3c8",
+              "e8e7"
+            ],
+            "motif": "mistake"
+          },
+          "d1d7": {
+            "cp": 457,
+            "mate": null,
+            "refutation_pv": [
+              "e6b3",
+              "g5f6",
+              "g7f6"
+            ],
+            "motif": "mistake"
+          },
+          "b3e6": {
+            "cp": 426,
+            "mate": null,
+            "refutation_pv": [
+              "f7e6",
+              "g5f6",
+              "e8f7"
+            ],
+            "motif": "mistake"
+          },
+          "f2f3": {
+            "cp": 366,
+            "mate": null,
+            "refutation_pv": [
+              "f8c5",
+              "b3e6",
+              "f7e6"
+            ],
+            "motif": "blunder"
+          },
+          "c2c3": {
+            "cp": 365,
+            "mate": null,
+            "refutation_pv": [
+              "f8c5",
+              "b3e6",
+              "f7e6"
+            ],
+            "motif": "blunder"
+          },
+          "b5a4": {
+            "cp": 363,
+            "mate": null,
+            "refutation_pv": [
+              "e6b3",
+              "a2b3",
+              "h8g8"
+            ],
+            "motif": "blunder"
+          },
+          "c1b1": {
+            "cp": 354,
+            "mate": null,
+            "refutation_pv": [
+              "f8c5",
+              "b3e6",
+              "f7e6"
+            ],
+            "motif": "blunder"
+          },
+          "h2h3": {
+            "cp": 347,
+            "mate": null,
+            "refutation_pv": [
+              "a7a6",
+              "b5a4",
+              "e6b3"
+            ],
+            "motif": "blunder"
+          },
+          "d1d3": {
+            "cp": 336,
+            "mate": null,
+            "refutation_pv": [
+              "f8c5",
+              "b3e6",
+              "f7e6"
+            ],
+            "motif": "blunder"
+          },
+          "f2f4": {
+            "cp": 326,
+            "mate": null,
+            "refutation_pv": [
+              "f8c5",
+              "b3e6",
+              "f7e6"
+            ],
+            "motif": "blunder"
+          },
+          "b3h3": {
+            "cp": 320,
+            "mate": null,
+            "refutation_pv": [
+              "f8c5",
+              "h3e6",
+              "f7e6"
+            ],
+            "motif": "blunder"
+          },
+          "h2h4": {
+            "cp": 316,
+            "mate": null,
+            "refutation_pv": [
+              "f8c5",
+              "b3e6",
+              "f7e6"
+            ],
+            "motif": "blunder"
+          },
+          "a2a3": {
+            "cp": 314,
+            "mate": null,
+            "refutation_pv": [
+              "e6b3",
+              "c2b3",
+              "h8g8"
+            ],
+            "motif": "blunder"
+          },
+          "d1d2": {
+            "cp": 304,
+            "mate": null,
+            "refutation_pv": [
+              "a7a6",
+              "b5a4",
+              "e6b3"
+            ],
+            "motif": "blunder"
+          },
+          "g5h4": {
+            "cp": 287,
+            "mate": null,
+            "refutation_pv": [
+              "a7a6",
+              "b3e6",
+              "f7e6"
+            ],
+            "motif": "blunder"
+          },
+          "g2g3": {
+            "cp": 252,
+            "mate": null,
+            "refutation_pv": [
+              "f8c5",
+              "b3e6",
+              "f7e6"
+            ],
+            "motif": "blunder"
+          },
+          "a2a4": {
+            "cp": 242,
+            "mate": null,
+            "refutation_pv": [
+              "e6g4",
+              "b5d7",
+              "f6d7"
+            ],
+            "motif": "blunder"
+          },
+          "b3d3": {
+            "cp": 241,
+            "mate": null,
+            "refutation_pv": [
+              "f8c5",
+              "g5f6",
+              "e8g8"
+            ],
+            "motif": "blunder"
+          },
+          "b3g3": {
+            "cp": 216,
+            "mate": null,
+            "refutation_pv": [
+              "f8d6",
+              "g5f6",
+              "e6f6"
+            ],
+            "motif": "blunder"
+          },
+          "b3a4": {
+            "cp": 210,
+            "mate": null,
+            "refutation_pv": [
+              "f8c5",
+              "g5f6",
+              "e8g8"
+            ],
+            "motif": "blunder"
+          },
+          "c2c4": {
+            "cp": 196,
+            "mate": null,
+            "refutation_pv": [
+              "f8c5",
+              "g5f6",
+              "e8g8"
+            ],
+            "motif": "blunder"
+          },
+          "g2g4": {
+            "cp": 142,
+            "mate": null,
+            "refutation_pv": [
+              "e6g4",
+              "b5d7",
+              "f6d7"
+            ],
+            "motif": "blunder"
+          },
+          "b3e3": {
+            "cp": 30,
+            "mate": null,
+            "refutation_pv": [
+              "f8d6",
+              "e3a7",
+              "e8e7"
+            ],
+            "motif": "blunder"
+          },
+          "b3f3": {
+            "cp": -52,
+            "mate": null,
+            "refutation_pv": [
+              "f8d6",
+              "b5a4",
+              "e8d8"
+            ],
+            "motif": "blunder"
+          },
+          "g5e3": {
+            "cp": -107,
+            "mate": null,
+            "refutation_pv": [
+              "e6b3",
+              "a2b3",
+              "e8d8"
+            ],
+            "motif": "blunder"
+          },
+          "d1d5": {
+            "cp": -147,
+            "mate": null,
+            "refutation_pv": [
+              "f6d5",
+              "e4d5",
+              "e6d6"
+            ],
+            "motif": "blunder"
+          },
+          "g5d2": {
+            "cp": -191,
+            "mate": null,
+            "refutation_pv": [
+              "e6b3",
+              "a2b3",
+              "a7a6"
+            ],
+            "motif": "blunder"
+          },
+          "d1f1": {
+            "cp": -224,
+            "mate": null,
+            "refutation_pv": [
+              "e6b3",
+              "a2b3",
+              "f6e4"
+            ],
+            "motif": "blunder"
+          },
+          "d1g1": {
+            "cp": -237,
+            "mate": null,
+            "refutation_pv": [
+              "e6b3",
+              "a2b3",
+              "e8d8"
+            ],
+            "motif": "blunder"
+          },
+          "g5f4": {
+            "cp": -245,
+            "mate": null,
+            "refutation_pv": [
+              "e6b3",
+              "c2b3",
+              "e8e7"
+            ],
+            "motif": "blunder"
+          },
+          "d1e1": {
+            "cp": -246,
+            "mate": null,
+            "refutation_pv": [
+              "e6b3",
+              "a2b3",
+              "e8d8"
+            ],
+            "motif": "blunder"
+          },
+          "d1h1": {
+            "cp": -261,
+            "mate": null,
+            "refutation_pv": [
+              "e6b3",
+              "a2b3",
+              "e8d8"
+            ],
+            "motif": "blunder"
+          },
+          "b5c4": {
+            "cp": -282,
+            "mate": null,
+            "refutation_pv": [
+              "d7d1",
+              "c1d1",
+              "e6b6"
+            ],
+            "motif": "blunder"
+          },
+          "g5h6": {
+            "cp": -332,
+            "mate": null,
+            "refutation_pv": [
+              "g7h6",
+              "d1d7",
+              "f6d7"
+            ],
+            "motif": "blunder"
+          },
+          "b5d3": {
+            "cp": -336,
+            "mate": null,
+            "refutation_pv": [
+              "e6b3",
+              "a2b3",
+              "d7b7"
+            ],
+            "motif": "blunder"
+          },
+          "b5c6": {
+            "cp": -348,
+            "mate": null,
+            "refutation_pv": [
+              "e6c6",
+              "b3b8",
+              "e8e7"
+            ],
+            "motif": "blunder"
+          },
+          "d1d4": {
+            "cp": -389,
+            "mate": null,
+            "refutation_pv": [
+              "e5d4",
+              "b3f3",
+              "f6e4"
+            ],
+            "motif": "blunder"
+          },
+          "b5f1": {
+            "cp": -427,
+            "mate": null,
+            "refutation_pv": [
+              "d7d1",
+              "c1d1",
+              "e6b3"
+            ],
+            "motif": "blunder"
+          },
+          "b5e2": {
+            "cp": -428,
+            "mate": null,
+            "refutation_pv": [
+              "e6b3",
+              "a2b3",
+              "d7d1"
+            ],
+            "motif": "blunder"
+          },
+          "b3c4": {
+            "cp": -432,
+            "mate": null,
+            "refutation_pv": [
+              "e6c4",
+              "b5c4",
+              "d7d1"
+            ],
+            "motif": "blunder"
+          },
+          "d1d6": {
+            "cp": -432,
+            "mate": null,
+            "refutation_pv": [
+              "e6b3",
+              "b5d7",
+              "e8e7"
+            ],
+            "motif": "blunder"
+          },
+          "b3d5": {
+            "cp": -457,
+            "mate": null,
+            "refutation_pv": [
+              "f6d5",
+              "e4d5",
+              "e6b6"
+            ],
+            "motif": "blunder"
+          },
+          "b5a6": {
+            "cp": -462,
+            "mate": null,
+            "refutation_pv": [
+              "d7d1",
+              "c1d1",
+              "e6b3"
+            ],
+            "motif": "blunder"
+          },
+          "b3a3": {
+            "cp": -630,
+            "mate": null,
+            "refutation_pv": [
+              "f8a3",
+              "g5f6",
+              "e8g8"
+            ],
+            "motif": "blunder"
+          },
+          "b3b4": {
+            "cp": -664,
+            "mate": null,
+            "refutation_pv": [
+              "f8b4",
+              "g5f6",
+              "e8g8"
+            ],
+            "motif": "blunder"
+          }
+        },
+        "annotation": "Bxd7+ clears the way with check, forcing Black's reply so the rook can crash through next. Bxf6 is also strong, but Qc3, Rxd7, and Qxe6+ let the win slide toward merely better.",
+        "alt_annotations": {
+          "g5f6": "Also crushing — but Bxd7+ is cleaner and more forcing.",
+          "b3c3": "Strong, yet it lets Black wriggle free and defend.",
+          "d1d7": "Right idea, wrong order — Black grabs the White queen first.",
+          "b3e6": "Takes the queen, but after the recapture only a small edge remains."
+        }
+      },
+      {
+        "ply": 30,
+        "san": "Nxd7",
+        "uci": "f6d7",
+        "fen_before": "4kb1r/p2B1ppp/4qn2/4p1B1/4P3/1Q6/PPP2PPP/2KR4 b k - 0 15",
+        "is_guess_point": false,
+        "difficulty": 1200.0,
+        "tags": [],
+        "eval_cp": null,
+        "eval_mate": null,
+        "legal_evals": {},
+        "annotation": null,
+        "alt_annotations": {}
+      },
+      {
+        "ply": 31,
+        "san": "Qb8+",
+        "uci": "b3b8",
+        "fen_before": "4kb1r/p2n1ppp/4q3/4p1B1/4P3/1Q6/PPP2PPP/2KR4 w k - 0 16",
+        "is_guess_point": true,
+        "difficulty": 1768.0,
+        "tags": [
+          "tactical"
+        ],
+        "eval_cp": null,
+        "eval_mate": 2,
+        "legal_evals": {
+          "b3b8": {
+            "cp": null,
+            "mate": 2,
+            "refutation_pv": [
+              "d7b8",
+              "d1d8"
+            ],
+            "motif": "best"
+          },
+          "b3b7": {
+            "cp": 314,
+            "mate": null,
+            "refutation_pv": [
+              "f7f6",
+              "b7c8",
+              "e8e7"
+            ],
+            "motif": "best"
+          },
+          "b3c3": {
+            "cp": 306,
+            "mate": null,
+            "refutation_pv": [
+              "f7f6",
+              "c3c8",
+              "e8e7"
+            ],
+            "motif": "best"
+          },
+          "b3b5": {
+            "cp": 27,
+            "mate": null,
+            "refutation_pv": [
+              "f8e7",
+              "g5e3",
+              "e7d6"
+            ],
+            "motif": "mistake"
+          },
+          "d1d5": {
+            "cp": 13,
+            "mate": null,
+            "refutation_pv": [
+              "f7f6",
+              "g5e3",
+              "e6c6"
+            ],
+            "motif": "blunder"
+          },
+          "d1d7": {
+            "cp": 0,
+            "mate": null,
+            "refutation_pv": [
+              "e8d7",
+              "b3b7",
+              "d7d6"
+            ],
+            "motif": "blunder"
+          },
+          "b3a4": {
+            "cp": -23,
+            "mate": null,
+            "refutation_pv": [
+              "f8c5",
+              "d1d5",
+              "c5b6"
+            ],
+            "motif": "blunder"
+          },
+          "g5e3": {
+            "cp": -100,
+            "mate": null,
+            "refutation_pv": [
+              "e6b3",
+              "a2b3",
+              "e8e7"
+            ],
+            "motif": "blunder"
+          },
+          "c2c4": {
+            "cp": -105,
+            "mate": null,
+            "refutation_pv": [
+              "e6a6",
+              "g5e3",
+              "f8d6"
+            ],
+            "motif": "blunder"
+          },
+          "b3e6": {
+            "cp": -116,
+            "mate": null,
+            "refutation_pv": [
+              "f7e6",
+              "f2f3",
+              "f8c5"
+            ],
+            "motif": "blunder"
+          },
+          "b3d3": {
+            "cp": -125,
+            "mate": null,
+            "refutation_pv": [
+              "f8c5",
+              "d3b5",
+              "c5d4"
+            ],
+            "motif": "blunder"
+          },
+          "c1d2": {
+            "cp": -193,
+            "mate": null,
+            "refutation_pv": [
+              "e6b3",
+              "a2b3",
+              "f8c5"
+            ],
+            "motif": "blunder"
+          },
+          "c2c3": {
+            "cp": -198,
+            "mate": null,
+            "refutation_pv": [
+              "e6b3",
+              "a2b3",
+              "f8c5"
+            ],
+            "motif": "blunder"
+          },
+          "f2f3": {
+            "cp": -208,
+            "mate": null,
+            "refutation_pv": [
+              "e6b3",
+              "a2b3",
+              "f8c5"
+            ],
+            "motif": "blunder"
+          },
+          "g5d2": {
+            "cp": -210,
+            "mate": null,
+            "refutation_pv": [
+              "e6b3",
+              "a2b3",
+              "f8c5"
+            ],
+            "motif": "blunder"
+          },
+          "c1b1": {
+            "cp": -213,
+            "mate": null,
+            "refutation_pv": [
+              "e6b3",
+              "a2b3",
+              "f8c5"
+            ],
+            "motif": "blunder"
+          },
+          "d1d3": {
+            "cp": -218,
+            "mate": null,
+            "refutation_pv": [
+              "e6b3",
+              "a2b3",
+              "f8c5"
+            ],
+            "motif": "blunder"
+          },
+          "b3f3": {
+            "cp": -223,
+            "mate": null,
+            "refutation_pv": [
+              "h7h6",
+              "g5h4",
+              "g7g5"
+            ],
+            "motif": "blunder"
+          },
+          "b3g3": {
+            "cp": -232,
+            "mate": null,
+            "refutation_pv": [
+              "h7h6",
+              "g5d2",
+              "e6a2"
+            ],
+            "motif": "blunder"
+          },
+          "h2h3": {
+            "cp": -234,
+            "mate": null,
+            "refutation_pv": [
+              "e6b3",
+              "a2b3",
+              "f8c5"
+            ],
+            "motif": "blunder"
+          },
+          "h2h4": {
+            "cp": -234,
+            "mate": null,
+            "refutation_pv": [
+              "e6b3",
+              "a2b3",
+              "f8c5"
+            ],
+            "motif": "blunder"
+          },
+          "b3d5": {
+            "cp": -237,
+            "mate": null,
+            "refutation_pv": [
+              "e6d5",
+              "d1d5",
+              "f8c5"
+            ],
+            "motif": "blunder"
+          },
+          "d1f1": {
+            "cp": -251,
+            "mate": null,
+            "refutation_pv": [
+              "e6b3",
+              "a2b3",
+              "f8c5"
+            ],
+            "motif": "blunder"
+          },
+          "g5h4": {
+            "cp": -256,
+            "mate": null,
+            "refutation_pv": [
+              "e6b3",
+              "a2b3",
+              "g7g5"
+            ],
+            "motif": "blunder"
+          },
+          "d1h1": {
+            "cp": -257,
+            "mate": null,
+            "refutation_pv": [
+              "e6b3",
+              "a2b3",
+              "f8c5"
+            ],
+            "motif": "blunder"
+          },
+          "d1e1": {
+            "cp": -257,
+            "mate": null,
+            "refutation_pv": [
+              "e6b3",
+              "a2b3",
+              "f8c5"
+            ],
+            "motif": "blunder"
+          },
+          "d1d2": {
+            "cp": -258,
+            "mate": null,
+            "refutation_pv": [
+              "e6b3",
+              "c2b3",
+              "f8c5"
+            ],
+            "motif": "blunder"
+          },
+          "g2g3": {
+            "cp": -271,
+            "mate": null,
+            "refutation_pv": [
+              "e6b3",
+              "a2b3",
+              "f8c5"
+            ],
+            "motif": "blunder"
+          },
+          "a2a4": {
+            "cp": -275,
+            "mate": null,
+            "refutation_pv": [
+              "e6b3",
+              "c2b3",
+              "f7f6"
+            ],
+            "motif": "blunder"
+          },
+          "d1g1": {
+            "cp": -278,
+            "mate": null,
+            "refutation_pv": [
+              "e6b3",
+              "a2b3",
+              "f8c5"
+            ],
+            "motif": "blunder"
+          },
+          "a2a3": {
+            "cp": -291,
+            "mate": null,
+            "refutation_pv": [
+              "e6b3",
+              "c2b3",
+              "f8c5"
+            ],
+            "motif": "blunder"
+          },
+          "b3e3": {
+            "cp": -296,
+            "mate": null,
+            "refutation_pv": [
+              "f7f6",
+              "e3a7",
+              "f6g5"
+            ],
+            "motif": "blunder"
+          },
+          "b3h3": {
+            "cp": -322,
+            "mate": null,
+            "refutation_pv": [
+              "e6h3",
+              "g2h3",
+              "f8c5"
+            ],
+            "motif": "blunder"
+          },
+          "f2f4": {
+            "cp": -340,
+            "mate": null,
+            "refutation_pv": [
+              "e6b3",
+              "a2b3",
+              "f7f6"
+            ],
+            "motif": "blunder"
+          },
+          "g2g4": {
+            "cp": -349,
+            "mate": null,
+            "refutation_pv": [
+              "e6b3",
+              "a2b3",
+              "h7h5"
+            ],
+            "motif": "blunder"
+          },
+          "g5f6": {
+            "cp": -494,
+            "mate": null,
+            "refutation_pv": [
+              "e6b3",
+              "a2b3",
+              "g7f6"
+            ],
+            "motif": "blunder"
+          },
+          "g5e7": {
+            "cp": -537,
+            "mate": null,
+            "refutation_pv": [
+              "e6b3",
+              "a2b3",
+              "e8e7"
+            ],
+            "motif": "blunder"
+          },
+          "d1d4": {
+            "cp": -553,
+            "mate": null,
+            "refutation_pv": [
+              "e5d4",
+              "b3b7",
+              "f7f6"
+            ],
+            "motif": "blunder"
+          },
+          "g5h6": {
+            "cp": -565,
+            "mate": null,
+            "refutation_pv": [
+              "e6b3",
+              "a2b3",
+              "g7h6"
+            ],
+            "motif": "blunder"
+          },
+          "g5d8": {
+            "cp": -567,
+            "mate": null,
+            "refutation_pv": [
+              "e6b3",
+              "a2b3",
+              "e8d8"
+            ],
+            "motif": "blunder"
+          },
+          "g5f4": {
+            "cp": -588,
+            "mate": null,
+            "refutation_pv": [
+              "e6b3",
+              "a2b3",
+              "e5f4"
+            ],
+            "motif": "blunder"
+          },
+          "d1d6": {
+            "cp": -662,
+            "mate": null,
+            "refutation_pv": [
+              "f8d6",
+              "c2c3",
+              "e8g8"
+            ],
+            "motif": "blunder"
+          },
+          "b3a3": {
+            "cp": -743,
+            "mate": null,
+            "refutation_pv": [
+              "f8a3",
+              "b2a3",
+              "e6a2"
+            ],
+            "motif": "blunder"
+          },
+          "b3b6": {
+            "cp": -756,
+            "mate": null,
+            "refutation_pv": [
+              "e6b6",
+              "g5e3",
+              "b6b7"
+            ],
+            "motif": "blunder"
+          },
+          "b3b4": {
+            "cp": -794,
+            "mate": null,
+            "refutation_pv": [
+              "f8b4",
+              "a2a3",
+              "f7f6"
+            ],
+            "motif": "blunder"
+          },
+          "b3c4": {
+            "cp": -808,
+            "mate": null,
+            "refutation_pv": [
+              "e6c4",
+              "a2a3",
+              "c4c8"
+            ],
+            "motif": "blunder"
+          }
+        },
+        "annotation": "Qb8+!! is the famous queen sacrifice — the knight is forced to take, abandoning the d-file, and the rook mates on the back rank. The greedy Qb7 and Qc3 keep a big edge but miss the forced mate; Qb5 and Rd5 are much worse.",
+        "alt_annotations": {
+          "b3b7": "Keeps a winning attack, but lets the king flee and misses mate in two.",
+          "b3c3": "Strong, yet it allows a longer fight instead of the immediate mate.",
+          "b3b5": "Lets most of the advantage slip — Black gets to defend.",
+          "d1d5": "Misplaces the rook and lets the win slip away."
+        }
+      },
+      {
+        "ply": 32,
+        "san": "Nxb8",
+        "uci": "d7b8",
+        "fen_before": "1Q2kb1r/p2n1ppp/4q3/4p1B1/4P3/8/PPP2PPP/2KR4 b k - 1 16",
+        "is_guess_point": false,
+        "difficulty": 1200.0,
+        "tags": [],
+        "eval_cp": null,
+        "eval_mate": null,
+        "legal_evals": {},
+        "annotation": null,
+        "alt_annotations": {}
+      },
+      {
+        "ply": 33,
+        "san": "Rd8#",
+        "uci": "d1d8",
+        "fen_before": "1n2kb1r/p4ppp/4q3/4p1B1/4P3/8/PPP2PPP/2KR4 w k - 0 17",
+        "is_guess_point": true,
+        "difficulty": 1620.0,
+        "tags": [
+          "tactical"
+        ],
+        "eval_cp": null,
+        "eval_mate": 1,
+        "legal_evals": {
+          "d1d8": {
+            "cp": null,
+            "mate": 1,
+            "refutation_pv": [],
+            "motif": "best"
+          },
+          "f2f4": {
+            "cp": -644,
+            "mate": null,
+            "refutation_pv": [
+              "b8c6",
+              "f4e5",
+              "e6a2"
+            ],
+            "motif": "best"
+          },
+          "g5h4": {
+            "cp": -689,
+            "mate": null,
+            "refutation_pv": [
+              "b8c6",
+              "f2f4",
+              "e6a2"
+            ],
+            "motif": "ok"
+          },
+          "c1b1": {
+            "cp": -797,
+            "mate": null,
+            "refutation_pv": [
+              "b8c6",
+              "f2f4",
+              "f7f6"
+            ],
+            "motif": "mistake"
+          },
+          "g5e3": {
+            "cp": -805,
+            "mate": null,
+            "refutation_pv": [
+              "e6a2",
+              "c2c3",
+              "b8c6"
+            ],
+            "motif": "mistake"
+          },
+          "b2b4": {
+            "cp": -815,
+            "mate": null,
+            "refutation_pv": [
+              "b8c6",
+              "b4b5",
+              "c6d4"
+            ],
+            "motif": "mistake"
+          },
+          "c2c3": {
+            "cp": -817,
+            "mate": null,
+            "refutation_pv": [
+              "b8c6",
+              "f2f4",
+              "f7f6"
+            ],
+            "motif": "mistake"
+          },
+          "g2g4": {
+            "cp": -822,
+            "mate": null,
+            "refutation_pv": [
+              "b8c6",
+              "c2c3",
+              "e6g4"
+            ],
+            "motif": "mistake"
+          },
+          "a2a3": {
+            "cp": -830,
+            "mate": null,
+            "refutation_pv": [
+              "b8c6",
+              "g5e3",
+              "f7f6"
+            ],
+            "motif": "mistake"
+          },
+          "h2h4": {
+            "cp": -831,
+            "mate": null,
+            "refutation_pv": [
+              "f7f6",
+              "a2a3",
+              "b8c6"
+            ],
+            "motif": "mistake"
+          },
+          "d1d5": {
+            "cp": -832,
+            "mate": null,
+            "refutation_pv": [
+              "f7f6",
+              "g5e3",
+              "b8c6"
+            ],
+            "motif": "mistake"
+          },
+          "b2b3": {
+            "cp": -845,
+            "mate": null,
+            "refutation_pv": [
+              "b8c6",
+              "g5e3",
+              "f7f6"
+            ],
+            "motif": "mistake"
+          },
+          "f2f3": {
+            "cp": -845,
+            "mate": null,
+            "refutation_pv": [
+              "b8c6",
+              "c1b1",
+              "f7f6"
+            ],
+            "motif": "mistake"
+          },
+          "g5d8": {
+            "cp": -845,
+            "mate": null,
+            "refutation_pv": [
+              "b8c6",
+              "d8c7",
+              "e6c8"
+            ],
+            "motif": "mistake"
+          },
+          "g2g3": {
+            "cp": -848,
+            "mate": null,
+            "refutation_pv": [
+              "f7f6",
+              "a2a3",
+              "b8c6"
+            ],
+            "motif": "mistake"
+          },
+          "a2a4": {
+            "cp": -848,
+            "mate": null,
+            "refutation_pv": [
+              "b8c6",
+              "c1b1",
+              "e6c8"
+            ],
+            "motif": "mistake"
+          },
+          "g5d2": {
+            "cp": -848,
+            "mate": null,
+            "refutation_pv": [
+              "e6a2",
+              "c2c4",
+              "b8c6"
+            ],
+            "motif": "mistake"
+          },
+          "h2h3": {
+            "cp": -849,
+            "mate": null,
+            "refutation_pv": [
+              "b8c6",
+              "c1b1",
+              "f7f6"
+            ],
+            "motif": "mistake"
+          },
+          "d1d3": {
+            "cp": -853,
+            "mate": null,
+            "refutation_pv": [
+              "f7f6",
+              "g5d2",
+              "b8c6"
+            ],
+            "motif": "mistake"
+          },
+          "d1d2": {
+            "cp": -859,
+            "mate": null,
+            "refutation_pv": [
+              "f7f6",
+              "c2c3",
+              "b8c6"
+            ],
+            "motif": "mistake"
+          },
+          "c2c4": {
+            "cp": -879,
+            "mate": null,
+            "refutation_pv": [
+              "e6c4",
+              "c1b1",
+              "c4e4"
+            ],
+            "motif": "mistake"
+          },
+          "c1d2": {
+            "cp": -882,
+            "mate": null,
+            "refutation_pv": [
+              "b8c6",
+              "d2e1",
+              "f7f6"
+            ],
+            "motif": "mistake"
+          },
+          "d1e1": {
+            "cp": -887,
+            "mate": null,
+            "refutation_pv": [
+              "e6a2",
+              "c2c3",
+              "f7f6"
+            ],
+            "motif": "mistake"
+          },
+          "d1g1": {
+            "cp": -887,
+            "mate": null,
+            "refutation_pv": [
+              "e6a2",
+              "c2c3",
+              "f7f6"
+            ],
+            "motif": "mistake"
+          },
+          "g5f6": {
+            "cp": -887,
+            "mate": null,
+            "refutation_pv": [
+              "b8c6",
+              "f6g5",
+              "f7f6"
+            ],
+            "motif": "mistake"
+          },
+          "d1h1": {
+            "cp": -888,
+            "mate": null,
+            "refutation_pv": [
+              "e6a2",
+              "h1d1",
+              "f7f6"
+            ],
+            "motif": "mistake"
+          },
+          "d1f1": {
+            "cp": -896,
+            "mate": null,
+            "refutation_pv": [
+              "e6a2",
+              "c2c3",
+              "f7f6"
+            ],
+            "motif": "mistake"
+          },
+          "g5f4": {
+            "cp": -907,
+            "mate": null,
+            "refutation_pv": [
+              "e5f4",
+              "c1b1",
+              "b8c6"
+            ],
+            "motif": "mistake"
+          },
+          "g5h6": {
+            "cp": -931,
+            "mate": null,
+            "refutation_pv": [
+              "e6h6",
+              "c1b1",
+              "h6e6"
+            ],
+            "motif": "mistake"
+          },
+          "g5e7": {
+            "cp": -972,
+            "mate": null,
+            "refutation_pv": [
+              "f8e7",
+              "f2f4",
+              "b8c6"
+            ],
+            "motif": "blunder"
+          },
+          "d1d4": {
+            "cp": -1013,
+            "mate": null,
+            "refutation_pv": [
+              "e5d4",
+              "f2f4",
+              "b8c6"
+            ],
+            "motif": "blunder"
+          },
+          "d1d7": {
+            "cp": -1029,
+            "mate": null,
+            "refutation_pv": [
+              "b8d7",
+              "a2a4",
+              "f7f6"
+            ],
+            "motif": "blunder"
+          },
+          "d1d6": {
+            "cp": -1037,
+            "mate": null,
+            "refutation_pv": [
+              "f8d6",
+              "g5e3",
+              "b8c6"
+            ],
+            "motif": "blunder"
+          }
+        },
+        "annotation": "Rd8#!! is the storybook finish — with the knight no longer guarding the back rank, the rook crashes in to deliver mate. Every other move — f4, Bh4, Kb1, Be3 — throws away the whole game.",
+        "alt_annotations": {
+          "f2f4": "Ignores the mate in one, and now White is actually lost.",
+          "g5h4": "Retreating throws away mate; Black takes over.",
+          "c1b1": "A king move when mate was on the board — now White is losing.",
+          "g5e3": "Misses the mate entirely and hands Black the game."
+        }
+      }
+    ]
+  }
+}
