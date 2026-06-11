@@ -3357,7 +3357,7 @@
         "san": "Rd1",
         "uci": "h1d1",
         "fen_before": "4kb1r/p2rqppp/5n2/1B2p1B1/4P3/1Q6/PPP2PPP/2K4R w k - 0 14",
-        "is_guess_point": true,
+        "is_guess_point": false,
         "difficulty": 788.0,
         "tags": [
           "positional"
