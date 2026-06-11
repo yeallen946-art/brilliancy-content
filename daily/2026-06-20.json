@@ -258,7 +258,13 @@
               "e1c1",
               "b8a6"
             ],
-            "motif": "best"
+            "motif": "best",
+            "san": "Bg5",
+            "refutation_san": [
+              "a5",
+              "O-O-O",
+              "Na6"
+            ]
           },
           "c1e3": {
             "cp": 180,
@@ -268,7 +274,13 @@
               "c3b5",
               "c6b5"
             ],
-            "motif": "ok"
+            "motif": "ok",
+            "san": "Be3",
+            "refutation_san": [
+              "b5",
+              "Nxb5",
+              "cxb5"
+            ]
           },
           "a2a4": {
             "cp": 167,
@@ -278,7 +290,13 @@
               "c1e3",
               "e7c7"
             ],
-            "motif": "inaccuracy"
+            "motif": "inaccuracy",
+            "san": "a4",
+            "refutation_san": [
+              "Na6",
+              "Be3",
+              "Qc7"
+            ]
           },
           "e1g1": {
             "cp": 139,
@@ -288,7 +306,13 @@
               "a2a4",
               "f8d6"
             ],
-            "motif": "inaccuracy"
+            "motif": "inaccuracy",
+            "san": "O-O",
+            "refutation_san": [
+              "Qc7",
+              "a4",
+              "Bd6"
+            ]
           },
           "g2g4": {
             "cp": 134,
@@ -298,7 +322,13 @@
               "c3b5",
               "c6b5"
             ],
-            "motif": "inaccuracy"
+            "motif": "inaccuracy",
+            "san": "g4",
+            "refutation_san": [
+              "b5",
+              "Nxb5",
+              "cxb5"
+            ]
           },
           "c1d2": {
             "cp": 128,
@@ -308,7 +338,13 @@
               "a2a4",
               "b8a6"
             ],
-            "motif": "inaccuracy"
+            "motif": "inaccuracy",
+            "san": "Bd2",
+            "refutation_san": [
+              "Qc7",
+              "a4",
+              "Na6"
+            ]
           },
           "f2f4": {
             "cp": 121,
@@ -318,7 +354,13 @@
               "f4e5",
               "f6d7"
             ],
-            "motif": "inaccuracy"
+            "motif": "inaccuracy",
+            "san": "f4",
+            "refutation_san": [
+              "b5",
+              "fxe5",
+              "Nfd7"
+            ]
           },
           "a2a3": {
             "cp": 103,
@@ -328,7 +370,13 @@
               "a3a4",
               "f8c5"
             ],
-            "motif": "inaccuracy"
+            "motif": "inaccuracy",
+            "san": "a3",
+            "refutation_san": [
+              "Qc7",
+              "a4",
+              "Bc5"
+            ]
           },
           "e1e2": {
             "cp": 68,
@@ -338,7 +386,13 @@
               "a2a4",
               "f8c5"
             ],
-            "motif": "mistake"
+            "motif": "mistake",
+            "san": "Ke2",
+            "refutation_san": [
+              "Qc7",
+              "a4",
+              "Bc5"
+            ]
           },
           "f2f3": {
             "cp": 61,
@@ -348,7 +402,13 @@
               "c4e2",
               "b8d7"
             ],
-            "motif": "mistake"
+            "motif": "mistake",
+            "san": "f3",
+            "refutation_san": [
+              "b5",
+              "Be2",
+              "Nbd7"
+            ]
           },
           "h2h4": {
             "cp": 16,
@@ -358,7 +418,13 @@
               "c4e2",
               "b8d7"
             ],
-            "motif": "mistake"
+            "motif": "mistake",
+            "san": "h4",
+            "refutation_san": [
+              "b5",
+              "Be2",
+              "Nbd7"
+            ]
           },
           "h2h3": {
             "cp": 10,
@@ -368,7 +434,13 @@
               "c4d3",
               "b8d7"
             ],
-            "motif": "mistake"
+            "motif": "mistake",
+            "san": "h3",
+            "refutation_san": [
+              "b5",
+              "Bd3",
+              "Nbd7"
+            ]
           },
           "c4e2": {
             "cp": 7,
@@ -378,7 +450,13 @@
               "a2a4",
               "f8c5"
             ],
-            "motif": "mistake"
+            "motif": "mistake",
+            "san": "Be2",
+            "refutation_san": [
+              "Qc7",
+              "a4",
+              "Bc5"
+            ]
           },
           "c4d3": {
             "cp": 1,
@@ -388,7 +466,13 @@
               "a2a4",
               "b8d7"
             ],
-            "motif": "mistake"
+            "motif": "mistake",
+            "san": "Bd3",
+            "refutation_san": [
+              "Qc7",
+              "a4",
+              "Nbd7"
+            ]
           },
           "c3b1": {
             "cp": 0,
@@ -398,7 +482,13 @@
               "c1e3",
               "e7b4"
             ],
-            "motif": "mistake"
+            "motif": "mistake",
+            "san": "Nb1",
+            "refutation_san": [
+              "Nxe4",
+              "Be3",
+              "Qb4+"
+            ]
           },
           "g2g3": {
             "cp": -4,
@@ -408,7 +498,13 @@
               "c4f1",
               "b8d7"
             ],
-            "motif": "mistake"
+            "motif": "mistake",
+            "san": "g3",
+            "refutation_san": [
+              "b5",
+              "Bf1",
+              "Nbd7"
+            ]
           },
           "c3d1": {
             "cp": -12,
@@ -418,7 +514,13 @@
               "e1g1",
               "e4d6"
             ],
-            "motif": "mistake"
+            "motif": "mistake",
+            "san": "Nd1",
+            "refutation_san": [
+              "Nxe4",
+              "O-O",
+              "Nd6"
+            ]
           },
           "c4f1": {
             "cp": -16,
@@ -428,7 +530,13 @@
               "g2g3",
               "b8d7"
             ],
-            "motif": "mistake"
+            "motif": "mistake",
+            "san": "Bf1",
+            "refutation_san": [
+              "Qc7",
+              "g3",
+              "Nbd7"
+            ]
           },
           "c3e2": {
             "cp": -16,
@@ -438,7 +546,13 @@
               "e1g1",
               "e4c5"
             ],
-            "motif": "mistake"
+            "motif": "mistake",
+            "san": "Ne2",
+            "refutation_san": [
+              "Nxe4",
+              "O-O",
+              "Nc5"
+            ]
           },
           "a1b1": {
             "cp": -20,
@@ -448,7 +562,13 @@
               "c4e2",
               "b8d7"
             ],
-            "motif": "mistake"
+            "motif": "mistake",
+            "san": "Rb1",
+            "refutation_san": [
+              "b5",
+              "Be2",
+              "Nbd7"
+            ]
           },
           "h1f1": {
             "cp": -37,
@@ -458,7 +578,13 @@
               "c4e2",
               "b8d7"
             ],
-            "motif": "mistake"
+            "motif": "mistake",
+            "san": "Rf1",
+            "refutation_san": [
+              "b5",
+              "Be2",
+              "Nbd7"
+            ]
           },
           "e1f1": {
             "cp": -51,
@@ -468,7 +594,13 @@
               "c4e2",
               "a7a5"
             ],
-            "motif": "blunder"
+            "motif": "blunder",
+            "san": "Kf1",
+            "refutation_san": [
+              "b5",
+              "Be2",
+              "a5"
+            ]
           },
           "b3a3": {
             "cp": -51,
@@ -478,7 +610,13 @@
               "a3b3",
               "b7b5"
             ],
-            "motif": "blunder"
+            "motif": "blunder",
+            "san": "Qa3",
+            "refutation_san": [
+              "Qc7",
+              "Qb3",
+              "b5"
+            ]
           },
           "h1g1": {
             "cp": -57,
@@ -488,7 +626,13 @@
               "c4e2",
               "b8d7"
             ],
-            "motif": "blunder"
+            "motif": "blunder",
+            "san": "Rg1",
+            "refutation_san": [
+              "b5",
+              "Be2",
+              "Nbd7"
+            ]
           },
           "b3a4": {
             "cp": -66,
@@ -498,7 +642,13 @@
               "c4e2",
               "d7c5"
             ],
-            "motif": "blunder"
+            "motif": "blunder",
+            "san": "Qa4",
+            "refutation_san": [
+              "Nbd7",
+              "Be2",
+              "Nc5"
+            ]
           },
           "e1d1": {
             "cp": -85,
@@ -508,7 +658,13 @@
               "c4e2",
               "b8d7"
             ],
-            "motif": "blunder"
+            "motif": "blunder",
+            "san": "Kd1",
+            "refutation_san": [
+              "b5",
+              "Be2",
+              "Nbd7"
+            ]
           },
           "c1f4": {
             "cp": -151,
@@ -518,7 +674,13 @@
               "e1c1",
               "b8d7"
             ],
-            "motif": "blunder"
+            "motif": "blunder",
+            "san": "Bf4",
+            "refutation_san": [
+              "exf4",
+              "O-O-O",
+              "Nbd7"
+            ]
           },
           "e1d2": {
             "cp": -155,
@@ -528,7 +690,13 @@
               "c3b5",
               "c6b5"
             ],
-            "motif": "blunder"
+            "motif": "blunder",
+            "san": "Kd2",
+            "refutation_san": [
+              "b5",
+              "Nxb5",
+              "cxb5"
+            ]
           },
           "c1h6": {
             "cp": -271,
@@ -538,7 +706,13 @@
               "e1c1",
               "b8a6"
             ],
-            "motif": "blunder"
+            "motif": "blunder",
+            "san": "Bh6",
+            "refutation_san": [
+              "gxh6",
+              "O-O-O",
+              "Na6"
+            ]
           },
           "c4d5": {
             "cp": -325,
@@ -548,7 +722,13 @@
               "c1g5",
               "e7b4"
             ],
-            "motif": "blunder"
+            "motif": "blunder",
+            "san": "Bd5",
+            "refutation_san": [
+              "cxd5",
+              "Bg5",
+              "Qb4"
+            ]
           },
           "c3a4": {
             "cp": -326,
@@ -558,7 +738,13 @@
               "c4b5",
               "e7b4"
             ],
-            "motif": "blunder"
+            "motif": "blunder",
+            "san": "Na4",
+            "refutation_san": [
+              "b5",
+              "Bxb5",
+              "Qb4+"
+            ]
           },
           "c4b5": {
             "cp": -342,
@@ -568,7 +754,13 @@
               "c1g5",
               "e7b4"
             ],
-            "motif": "blunder"
+            "motif": "blunder",
+            "san": "Bb5",
+            "refutation_san": [
+              "cxb5",
+              "Bg5",
+              "Qb4"
+            ]
           },
           "c4e6": {
             "cp": -355,
@@ -578,7 +770,13 @@
               "c1e3",
               "b8a6"
             ],
-            "motif": "blunder"
+            "motif": "blunder",
+            "san": "Be6",
+            "refutation_san": [
+              "fxe6",
+              "Be3",
+              "Na6"
+            ]
           },
           "c3b5": {
             "cp": -361,
@@ -588,7 +786,13 @@
               "c4b5",
               "b8c6"
             ],
-            "motif": "blunder"
+            "motif": "blunder",
+            "san": "Nb5",
+            "refutation_san": [
+              "cxb5",
+              "Bxb5+",
+              "Nc6"
+            ]
           },
           "c3d5": {
             "cp": -374,
@@ -598,7 +802,13 @@
               "e4d5",
               "e7b4"
             ],
-            "motif": "blunder"
+            "motif": "blunder",
+            "san": "Nd5",
+            "refutation_san": [
+              "cxd5",
+              "exd5",
+              "Qb4+"
+            ]
           },
           "c4f7": {
             "cp": -383,
@@ -608,7 +818,13 @@
               "f2f3",
               "h7h5"
             ],
-            "motif": "blunder"
+            "motif": "blunder",
+            "san": "Bxf7+",
+            "refutation_san": [
+              "Qxf7",
+              "f3",
+              "h5"
+            ]
           },
           "c4a6": {
             "cp": -529,
@@ -618,7 +834,13 @@
               "c1e3",
               "e7c7"
             ],
-            "motif": "blunder"
+            "motif": "blunder",
+            "san": "Ba6",
+            "refutation_san": [
+              "Nxa6",
+              "Be3",
+              "Qc7"
+            ]
           },
           "b3b5": {
             "cp": -667,
@@ -628,7 +850,13 @@
               "c4b5",
               "b8c6"
             ],
-            "motif": "blunder"
+            "motif": "blunder",
+            "san": "Qb5",
+            "refutation_san": [
+              "cxb5",
+              "Bxb5+",
+              "Nc6"
+            ]
           },
           "b3b7": {
             "cp": -691,
@@ -638,7 +866,13 @@
               "c4b3",
               "f8e7"
             ],
-            "motif": "blunder"
+            "motif": "blunder",
+            "san": "Qxb7",
+            "refutation_san": [
+              "Qxb7",
+              "Bb3",
+              "Be7"
+            ]
           },
           "b3b6": {
             "cp": -709,
@@ -648,7 +882,13 @@
               "c1g5",
               "b6b5"
             ],
-            "motif": "blunder"
+            "motif": "blunder",
+            "san": "Qb6",
+            "refutation_san": [
+              "axb6",
+              "Bg5",
+              "b5"
+            ]
           },
           "b3b4": {
             "cp": -756,
@@ -658,7 +898,13 @@
               "c4b3",
               "f6e4"
             ],
-            "motif": "blunder"
+            "motif": "blunder",
+            "san": "Qb4",
+            "refutation_san": [
+              "Qxb4",
+              "Bb3",
+              "Nxe4"
+            ]
           }
         },
         "annotation": "Bg5 develops the last minor piece and pins the knight, keeping Black's king stuck in the center. White is clearly better. Be3 is playable but passive; a4, O-O, and g4 are all slower and let Black untangle.",
@@ -704,7 +950,13 @@
               "b5c3",
               "b4b3"
             ],
-            "motif": "best"
+            "motif": "best",
+            "san": "Nxb5",
+            "refutation_san": [
+              "Qb4+",
+              "Nc3",
+              "Qxb3"
+            ]
           },
           "g5f6": {
             "cp": 137,
@@ -714,7 +966,13 @@
               "c3b5",
               "c6b5"
             ],
-            "motif": "mistake"
+            "motif": "mistake",
+            "san": "Bxf6",
+            "refutation_san": [
+              "Qxf6",
+              "Nxb5",
+              "cxb5"
+            ]
           },
           "c4b5": {
             "cp": 38,
@@ -724,7 +982,13 @@
               "e1c1",
               "e7c5"
             ],
-            "motif": "mistake"
+            "motif": "mistake",
+            "san": "Bxb5",
+            "refutation_san": [
+              "cxb5",
+              "O-O-O",
+              "Qc5"
+            ]
           },
           "c4e2": {
             "cp": 36,
@@ -734,7 +998,13 @@
               "e1g1",
               "d7c5"
             ],
-            "motif": "mistake"
+            "motif": "mistake",
+            "san": "Be2",
+            "refutation_san": [
+              "Nbd7",
+              "O-O",
+              "Nc5"
+            ]
           },
           "c4d5": {
             "cp": 35,
@@ -744,7 +1014,13 @@
               "c3d5",
               "e7b7"
             ],
-            "motif": "mistake"
+            "motif": "mistake",
+            "san": "Bd5",
+            "refutation_san": [
+              "cxd5",
+              "Nxd5",
+              "Qb7"
+            ]
           },
           "c4d3": {
             "cp": 17,
@@ -754,7 +1030,13 @@
               "c3e2",
               "h7h6"
             ],
-            "motif": "blunder"
+            "motif": "blunder",
+            "san": "Bd3",
+            "refutation_san": [
+              "Nbd7",
+              "Ne2",
+              "h6"
+            ]
           },
           "c4f1": {
             "cp": 0,
@@ -764,7 +1046,13 @@
               "a2a4",
               "d7c5"
             ],
-            "motif": "blunder"
+            "motif": "blunder",
+            "san": "Bf1",
+            "refutation_san": [
+              "Nbd7",
+              "a4",
+              "Nc5"
+            ]
           },
           "a1d1": {
             "cp": -263,
@@ -774,7 +1062,13 @@
               "b3c4",
               "e7e6"
             ],
-            "motif": "blunder"
+            "motif": "blunder",
+            "san": "Rd1",
+            "refutation_san": [
+              "bxc4",
+              "Qxc4",
+              "Qe6"
+            ]
           },
           "c3d5": {
             "cp": -270,
@@ -784,7 +1078,13 @@
               "b3a4",
               "e7b7"
             ],
-            "motif": "blunder"
+            "motif": "blunder",
+            "san": "Nd5",
+            "refutation_san": [
+              "bxc4",
+              "Qa4",
+              "Qb7"
+            ]
           },
           "e1c1": {
             "cp": -307,
@@ -794,7 +1094,13 @@
               "b3c4",
               "e7e6"
             ],
-            "motif": "blunder"
+            "motif": "blunder",
+            "san": "O-O-O",
+            "refutation_san": [
+              "bxc4",
+              "Qxc4",
+              "Qe6"
+            ]
           },
           "e1e2": {
             "cp": -327,
@@ -804,7 +1110,13 @@
               "b3c4",
               "e7c5"
             ],
-            "motif": "blunder"
+            "motif": "blunder",
+            "san": "Ke2",
+            "refutation_san": [
+              "bxc4",
+              "Qxc4",
+              "Qc5"
+            ]
           },
           "a2a3": {
             "cp": -335,
@@ -814,7 +1126,13 @@
               "b3a4",
               "e7b7"
             ],
-            "motif": "blunder"
+            "motif": "blunder",
+            "san": "a3",
+            "refutation_san": [
+              "bxc4",
+              "Qa4",
+              "Qb7"
+            ]
           },
           "e1g1": {
             "cp": -348,
@@ -824,7 +1142,13 @@
               "b3c4",
               "e7b4"
             ],
-            "motif": "blunder"
+            "motif": "blunder",
+            "san": "O-O",
+            "refutation_san": [
+              "bxc4",
+              "Qxc4",
+              "Qb4"
+            ]
           },
           "f2f4": {
             "cp": -355,
@@ -834,7 +1158,13 @@
               "b3c4",
               "e7c5"
             ],
-            "motif": "blunder"
+            "motif": "blunder",
+            "san": "f4",
+            "refutation_san": [
+              "bxc4",
+              "Qxc4",
+              "Qc5"
+            ]
           },
           "c3d1": {
             "cp": -357,
@@ -844,7 +1174,13 @@
               "g5f6",
               "c4b3"
             ],
-            "motif": "blunder"
+            "motif": "blunder",
+            "san": "Nd1",
+            "refutation_san": [
+              "bxc4",
+              "Bxf6",
+              "cxb3"
+            ]
           },
           "h2h3": {
             "cp": -363,
@@ -854,7 +1190,13 @@
               "b3c4",
               "e7b4"
             ],
-            "motif": "blunder"
+            "motif": "blunder",
+            "san": "h3",
+            "refutation_san": [
+              "bxc4",
+              "Qxc4",
+              "Qb4"
+            ]
           },
           "c3a4": {
             "cp": -370,
@@ -864,7 +1206,13 @@
               "b3c4",
               "e7b4"
             ],
-            "motif": "blunder"
+            "motif": "blunder",
+            "san": "Na4",
+            "refutation_san": [
+              "bxc4",
+              "Qxc4",
+              "Qb4+"
+            ]
           },
           "c4f7": {
             "cp": -371,
@@ -874,7 +1222,13 @@
               "b3f7",
               "e8f7"
             ],
-            "motif": "blunder"
+            "motif": "blunder",
+            "san": "Bxf7+",
+            "refutation_san": [
+              "Qxf7",
+              "Qxf7+",
+              "Kxf7"
+            ]
           },
           "f2f3": {
             "cp": -372,
@@ -884,7 +1238,13 @@
               "b3c4",
               "e7b4"
             ],
-            "motif": "blunder"
+            "motif": "blunder",
+            "san": "f3",
+            "refutation_san": [
+              "bxc4",
+              "Qxc4",
+              "Qb4"
+            ]
           },
           "g5d2": {
             "cp": -373,
@@ -894,7 +1254,13 @@
               "b3c4",
               "e7b7"
             ],
-            "motif": "blunder"
+            "motif": "blunder",
+            "san": "Bd2",
+            "refutation_san": [
+              "bxc4",
+              "Qxc4",
+              "Qb7"
+            ]
           },
           "a1b1": {
             "cp": -374,
@@ -904,7 +1270,13 @@
               "b3c4",
               "e7b4"
             ],
-            "motif": "blunder"
+            "motif": "blunder",
+            "san": "Rb1",
+            "refutation_san": [
+              "bxc4",
+              "Qxc4",
+              "Qb4"
+            ]
           },
           "g2g4": {
             "cp": -374,
@@ -914,7 +1286,13 @@
               "b3c4",
               "e7b4"
             ],
-            "motif": "blunder"
+            "motif": "blunder",
+            "san": "g4",
+            "refutation_san": [
+              "bxc4",
+              "Qxc4",
+              "Qb4"
+            ]
           },
           "e1d1": {
             "cp": -376,
@@ -924,7 +1302,13 @@
               "b3c4",
               "e7c5"
             ],
-            "motif": "blunder"
+            "motif": "blunder",
+            "san": "Kd1",
+            "refutation_san": [
+              "bxc4",
+              "Qxc4",
+              "Qc5"
+            ]
           },
           "g2g3": {
             "cp": -379,
@@ -934,7 +1318,13 @@
               "b3c4",
               "e7b4"
             ],
-            "motif": "blunder"
+            "motif": "blunder",
+            "san": "g3",
+            "refutation_san": [
+              "bxc4",
+              "Qxc4",
+              "Qb4"
+            ]
           },
           "h1f1": {
             "cp": -381,
@@ -944,7 +1334,13 @@
               "g5f6",
               "c4b3"
             ],
-            "motif": "blunder"
+            "motif": "blunder",
+            "san": "Rf1",
+            "refutation_san": [
+              "bxc4",
+              "Bxf6",
+              "cxb3"
+            ]
           },
           "g5h4": {
             "cp": -385,
@@ -954,7 +1350,13 @@
               "h4f6",
               "c4b3"
             ],
-            "motif": "blunder"
+            "motif": "blunder",
+            "san": "Bh4",
+            "refutation_san": [
+              "bxc4",
+              "Bxf6",
+              "cxb3"
+            ]
           },
           "c3b1": {
             "cp": -387,
@@ -964,7 +1366,13 @@
               "b3c4",
               "e7b4"
             ],
-            "motif": "blunder"
+            "motif": "blunder",
+            "san": "Nb1",
+            "refutation_san": [
+              "bxc4",
+              "Qxc4",
+              "Qb4+"
+            ]
           },
           "g5e3": {
             "cp": -387,
@@ -974,7 +1382,13 @@
               "b3c4",
               "e7b4"
             ],
-            "motif": "blunder"
+            "motif": "blunder",
+            "san": "Be3",
+            "refutation_san": [
+              "bxc4",
+              "Qxc4",
+              "Qb4"
+            ]
           },
           "a1c1": {
             "cp": -387,
@@ -984,7 +1398,13 @@
               "b3c4",
               "e7b4"
             ],
-            "motif": "blunder"
+            "motif": "blunder",
+            "san": "Rc1",
+            "refutation_san": [
+              "bxc4",
+              "Qxc4",
+              "Qb4"
+            ]
           },
           "g5f4": {
             "cp": -389,
@@ -994,7 +1414,13 @@
               "b3c4",
               "e5f4"
             ],
-            "motif": "blunder"
+            "motif": "blunder",
+            "san": "Bf4",
+            "refutation_san": [
+              "bxc4",
+              "Qxc4",
+              "exf4"
+            ]
           },
           "b3b5": {
             "cp": -393,
@@ -1004,7 +1430,13 @@
               "c4b5",
               "e8d8"
             ],
-            "motif": "blunder"
+            "motif": "blunder",
+            "san": "Qxb5",
+            "refutation_san": [
+              "cxb5",
+              "Bxb5+",
+              "Kd8"
+            ]
           },
           "h2h4": {
             "cp": -396,
@@ -1014,7 +1446,13 @@
               "b3c4",
               "e7b4"
             ],
-            "motif": "blunder"
+            "motif": "blunder",
+            "san": "h4",
+            "refutation_san": [
+              "bxc4",
+              "Qxc4",
+              "Qb4"
+            ]
           },
           "e1f1": {
             "cp": -396,
@@ -1024,7 +1462,13 @@
               "b3c4",
               "e7c5"
             ],
-            "motif": "blunder"
+            "motif": "blunder",
+            "san": "Kf1",
+            "refutation_san": [
+              "bxc4",
+              "Qxc4",
+              "Qc5"
+            ]
           },
           "a2a4": {
             "cp": -397,
@@ -1034,7 +1478,13 @@
               "b3c4",
               "e7c5"
             ],
-            "motif": "blunder"
+            "motif": "blunder",
+            "san": "a4",
+            "refutation_san": [
+              "bxc4",
+              "Qxc4",
+              "Qc5"
+            ]
           },
           "h1g1": {
             "cp": -401,
@@ -1044,7 +1494,13 @@
               "g5f6",
               "c4b3"
             ],
-            "motif": "blunder"
+            "motif": "blunder",
+            "san": "Rg1",
+            "refutation_san": [
+              "bxc4",
+              "Bxf6",
+              "cxb3"
+            ]
           },
           "c3e2": {
             "cp": -402,
@@ -1054,7 +1510,13 @@
               "b3f3",
               "e7e6"
             ],
-            "motif": "blunder"
+            "motif": "blunder",
+            "san": "Ne2",
+            "refutation_san": [
+              "bxc4",
+              "Qf3",
+              "Qe6"
+            ]
           },
           "e1d2": {
             "cp": -410,
@@ -1064,7 +1526,13 @@
               "b3c4",
               "e7b4"
             ],
-            "motif": "blunder"
+            "motif": "blunder",
+            "san": "Kd2",
+            "refutation_san": [
+              "bxc4",
+              "Qxc4",
+              "Qb4"
+            ]
           },
           "g5c1": {
             "cp": -416,
@@ -1074,7 +1542,13 @@
               "b3c4",
               "e7b4"
             ],
-            "motif": "blunder"
+            "motif": "blunder",
+            "san": "Bc1",
+            "refutation_san": [
+              "bxc4",
+              "Qxc4",
+              "Qb4"
+            ]
           },
           "b3a3": {
             "cp": -472,
@@ -1084,7 +1558,13 @@
               "b2a3",
               "b5c4"
             ],
-            "motif": "blunder"
+            "motif": "blunder",
+            "san": "Qa3",
+            "refutation_san": [
+              "Qxa3",
+              "bxa3",
+              "bxc4"
+            ]
           },
           "c4e6": {
             "cp": -482,
@@ -1094,7 +1574,13 @@
               "g5f6",
               "g7f6"
             ],
-            "motif": "blunder"
+            "motif": "blunder",
+            "san": "Be6",
+            "refutation_san": [
+              "Qxe6",
+              "Bxf6",
+              "gxf6"
+            ]
           },
           "g5h6": {
             "cp": -522,
@@ -1104,7 +1590,13 @@
               "b3a4",
               "g7h6"
             ],
-            "motif": "blunder"
+            "motif": "blunder",
+            "san": "Bh6",
+            "refutation_san": [
+              "bxc4",
+              "Qa4",
+              "gxh6"
+            ]
           },
           "b3a4": {
             "cp": -583,
@@ -1114,7 +1606,13 @@
               "e1c1",
               "e7c7"
             ],
-            "motif": "blunder"
+            "motif": "blunder",
+            "san": "Qa4",
+            "refutation_san": [
+              "bxa4",
+              "O-O-O",
+              "Qc7"
+            ]
           },
           "b3b4": {
             "cp": -646,
@@ -1124,7 +1622,13 @@
               "c4b3",
               "b4d6"
             ],
-            "motif": "blunder"
+            "motif": "blunder",
+            "san": "Qb4",
+            "refutation_san": [
+              "Qxb4",
+              "Bb3",
+              "Qd6"
+            ]
           }
         },
         "annotation": "Nxb5!! rips open the c-file: after Black recaptures, White's pieces pour toward the stranded king. The timid Bxf6, Bxb5, Be2, and Bd5 all let Black off the hook and squander most of the advantage.",
@@ -1198,7 +1702,13 @@
               "g5f6",
               "g7f6"
             ],
-            "motif": "best"
+            "motif": "best",
+            "san": "O-O-O",
+            "refutation_san": [
+              "Qc5",
+              "Bxf6",
+              "gxf6"
+            ]
           },
           "g5f6": {
             "cp": 354,
@@ -1208,7 +1718,13 @@
               "e1c1",
               "a8d8"
             ],
-            "motif": "mistake"
+            "motif": "mistake",
+            "san": "Bxf6",
+            "refutation_san": [
+              "gxf6",
+              "O-O-O",
+              "Rd8"
+            ]
           },
           "a1d1": {
             "cp": 127,
@@ -1218,7 +1734,13 @@
               "b5d7",
               "f6d7"
             ],
-            "motif": "blunder"
+            "motif": "blunder",
+            "san": "Rd1",
+            "refutation_san": [
+              "Rb8",
+              "Bxd7+",
+              "Nxd7"
+            ]
           },
           "a2a3": {
             "cp": 127,
@@ -1228,7 +1750,13 @@
               "b5c4",
               "e6g4"
             ],
-            "motif": "blunder"
+            "motif": "blunder",
+            "san": "a3",
+            "refutation_san": [
+              "Qe6",
+              "Bc4",
+              "Qg4"
+            ]
           },
           "e1g1": {
             "cp": 116,
@@ -1238,7 +1766,13 @@
               "g5f6",
               "b4b3"
             ],
-            "motif": "blunder"
+            "motif": "blunder",
+            "san": "O-O",
+            "refutation_san": [
+              "Qb4",
+              "Bxf6",
+              "Qxb3"
+            ]
           },
           "c2c3": {
             "cp": 65,
@@ -1248,7 +1782,13 @@
               "g5f6",
               "e6b3"
             ],
-            "motif": "blunder"
+            "motif": "blunder",
+            "san": "c3",
+            "refutation_san": [
+              "Qe6",
+              "Bxf6",
+              "Qxb3"
+            ]
           },
           "e1e2": {
             "cp": 11,
@@ -1258,7 +1798,13 @@
               "g5f6",
               "g7f6"
             ],
-            "motif": "blunder"
+            "motif": "blunder",
+            "san": "Ke2",
+            "refutation_san": [
+              "Qe6",
+              "Bxf6",
+              "gxf6"
+            ]
           },
           "b3d3": {
             "cp": 3,
@@ -1268,7 +1814,13 @@
               "c2c3",
               "b4e4"
             ],
-            "motif": "blunder"
+            "motif": "blunder",
+            "san": "Qd3",
+            "refutation_san": [
+              "Qb4+",
+              "c3",
+              "Qxe4+"
+            ]
           },
           "f2f3": {
             "cp": -1,
@@ -1278,7 +1830,13 @@
               "c2c3",
               "b4b3"
             ],
-            "motif": "blunder"
+            "motif": "blunder",
+            "san": "f3",
+            "refutation_san": [
+              "Qb4+",
+              "c3",
+              "Qxb3"
+            ]
           },
           "b5c6": {
             "cp": -49,
@@ -1288,7 +1846,13 @@
               "c6a4",
               "e7b4"
             ],
-            "motif": "blunder"
+            "motif": "blunder",
+            "san": "Bc6",
+            "refutation_san": [
+              "Rc8",
+              "Ba4",
+              "Qb4+"
+            ]
           },
           "e1f1": {
             "cp": -65,
@@ -1298,7 +1862,13 @@
               "b5c4",
               "e6b6"
             ],
-            "motif": "blunder"
+            "motif": "blunder",
+            "san": "Kf1",
+            "refutation_san": [
+              "Qe6",
+              "Bc4",
+              "Qb6"
+            ]
           },
           "g5e3": {
             "cp": -96,
@@ -1308,7 +1878,13 @@
               "a1d1",
               "d6c7"
             ],
-            "motif": "blunder"
+            "motif": "blunder",
+            "san": "Be3",
+            "refutation_san": [
+              "Qd6",
+              "Rd1",
+              "Qc7"
+            ]
           },
           "f2f4": {
             "cp": -119,
@@ -1318,7 +1894,13 @@
               "b3b4",
               "f8b4"
             ],
-            "motif": "blunder"
+            "motif": "blunder",
+            "san": "f4",
+            "refutation_san": [
+              "Qb4+",
+              "Qxb4",
+              "Bxb4+"
+            ]
           },
           "g5h4": {
             "cp": -119,
@@ -1328,7 +1910,13 @@
               "b3b4",
               "f8b4"
             ],
-            "motif": "blunder"
+            "motif": "blunder",
+            "san": "Bh4",
+            "refutation_san": [
+              "Qb4+",
+              "Qxb4",
+              "Bxb4+"
+            ]
           },
           "b5a4": {
             "cp": -148,
@@ -1338,7 +1926,13 @@
               "b3b4",
               "f8b4"
             ],
-            "motif": "blunder"
+            "motif": "blunder",
+            "san": "Ba4",
+            "refutation_san": [
+              "Qb4+",
+              "Qxb4",
+              "Bxb4+"
+            ]
           },
           "h2h4": {
             "cp": -152,
@@ -1348,7 +1942,13 @@
               "e1e2",
               "a8b8"
             ],
-            "motif": "blunder"
+            "motif": "blunder",
+            "san": "h4",
+            "refutation_san": [
+              "Qb4+",
+              "Ke2",
+              "Rb8"
+            ]
           },
           "g5d2": {
             "cp": -158,
@@ -1358,7 +1958,13 @@
               "e1c1",
               "a7a6"
             ],
-            "motif": "blunder"
+            "motif": "blunder",
+            "san": "Bd2",
+            "refutation_san": [
+              "Rb8",
+              "O-O-O",
+              "a6"
+            ]
           },
           "b3c4": {
             "cp": -165,
@@ -1368,7 +1974,13 @@
               "c4b4",
               "f8b4"
             ],
-            "motif": "blunder"
+            "motif": "blunder",
+            "san": "Qc4",
+            "refutation_san": [
+              "Qb4+",
+              "Qxb4",
+              "Bxb4+"
+            ]
           },
           "b3a4": {
             "cp": -165,
@@ -1378,7 +1990,13 @@
               "a4b4",
               "f8b4"
             ],
-            "motif": "blunder"
+            "motif": "blunder",
+            "san": "Qa4",
+            "refutation_san": [
+              "Qb4+",
+              "Qxb4",
+              "Bxb4+"
+            ]
           },
           "b3c3": {
             "cp": -167,
@@ -1388,7 +2006,13 @@
               "c3b4",
               "f8b4"
             ],
-            "motif": "blunder"
+            "motif": "blunder",
+            "san": "Qc3",
+            "refutation_san": [
+              "Qb4",
+              "Qxb4",
+              "Bxb4+"
+            ]
           },
           "h1f1": {
             "cp": -169,
@@ -1398,7 +2022,13 @@
               "b3b4",
               "f8b4"
             ],
-            "motif": "blunder"
+            "motif": "blunder",
+            "san": "Rf1",
+            "refutation_san": [
+              "Qb4+",
+              "Qxb4",
+              "Bxb4+"
+            ]
           },
           "a2a4": {
             "cp": -169,
@@ -1408,7 +2038,13 @@
               "b5c6",
               "a8c8"
             ],
-            "motif": "blunder"
+            "motif": "blunder",
+            "san": "a4",
+            "refutation_san": [
+              "a6",
+              "Bc6",
+              "Rc8"
+            ]
           },
           "h2h3": {
             "cp": -176,
@@ -1418,7 +2054,13 @@
               "e1e2",
               "a7a6"
             ],
-            "motif": "blunder"
+            "motif": "blunder",
+            "san": "h3",
+            "refutation_san": [
+              "Qb4+",
+              "Ke2",
+              "a6"
+            ]
           },
           "h1g1": {
             "cp": -180,
@@ -1428,7 +2070,13 @@
               "b3b4",
               "f8b4"
             ],
-            "motif": "blunder"
+            "motif": "blunder",
+            "san": "Rg1",
+            "refutation_san": [
+              "Qb4+",
+              "Qxb4",
+              "Bxb4+"
+            ]
           },
           "g2g3": {
             "cp": -183,
@@ -1438,7 +2086,13 @@
               "b3b4",
               "f8b4"
             ],
-            "motif": "blunder"
+            "motif": "blunder",
+            "san": "g3",
+            "refutation_san": [
+              "Qb4+",
+              "Qxb4",
+              "Bxb4+"
+            ]
           },
           "a1c1": {
             "cp": -200,
@@ -1448,7 +2102,13 @@
               "e1e2",
               "b4e4"
             ],
-            "motif": "blunder"
+            "motif": "blunder",
+            "san": "Rc1",
+            "refutation_san": [
+              "Qb4+",
+              "Ke2",
+              "Qxe4+"
+            ]
           },
           "g2g4": {
             "cp": -209,
@@ -1458,7 +2118,13 @@
               "b3b4",
               "f8b4"
             ],
-            "motif": "blunder"
+            "motif": "blunder",
+            "san": "g4",
+            "refutation_san": [
+              "Qb4+",
+              "Qxb4",
+              "Bxb4+"
+            ]
           },
           "b5c4": {
             "cp": -220,
@@ -1468,7 +2134,13 @@
               "g5f6",
               "g7f6"
             ],
-            "motif": "blunder"
+            "motif": "blunder",
+            "san": "Bc4",
+            "refutation_san": [
+              "Rb8",
+              "Bxf6",
+              "gxf6"
+            ]
           },
           "c2c4": {
             "cp": -225,
@@ -1478,7 +2150,13 @@
               "b3a4",
               "e7b4"
             ],
-            "motif": "blunder"
+            "motif": "blunder",
+            "san": "c4",
+            "refutation_san": [
+              "a6",
+              "Qa4",
+              "Qb4+"
+            ]
           },
           "b5d7": {
             "cp": -245,
@@ -1488,7 +2166,13 @@
               "g5f6",
               "g7f6"
             ],
-            "motif": "blunder"
+            "motif": "blunder",
+            "san": "Bxd7+",
+            "refutation_san": [
+              "Qxd7",
+              "Bxf6",
+              "gxf6"
+            ]
           },
           "a1b1": {
             "cp": -248,
@@ -1498,7 +2182,13 @@
               "b3b4",
               "f8b4"
             ],
-            "motif": "blunder"
+            "motif": "blunder",
+            "san": "Rb1",
+            "refutation_san": [
+              "Qb4+",
+              "Qxb4",
+              "Bxb4+"
+            ]
           },
           "b5e2": {
             "cp": -255,
@@ -1508,7 +2198,13 @@
               "g5f6",
               "g7f6"
             ],
-            "motif": "blunder"
+            "motif": "blunder",
+            "san": "Be2",
+            "refutation_san": [
+              "Rb8",
+              "Bxf6",
+              "gxf6"
+            ]
           },
           "b5a6": {
             "cp": -264,
@@ -1518,7 +2214,13 @@
               "g5f6",
               "g7f6"
             ],
-            "motif": "blunder"
+            "motif": "blunder",
+            "san": "Ba6",
+            "refutation_san": [
+              "Rb8",
+              "Bxf6",
+              "gxf6"
+            ]
           },
           "b5d3": {
             "cp": -270,
@@ -1528,7 +2230,13 @@
               "b3a4",
               "e7c5"
             ],
-            "motif": "blunder"
+            "motif": "blunder",
+            "san": "Bd3",
+            "refutation_san": [
+              "Rb8",
+              "Qa4",
+              "Qc5"
+            ]
           },
           "g5c1": {
             "cp": -272,
@@ -1538,7 +2246,13 @@
               "e1g1",
               "a7a6"
             ],
-            "motif": "blunder"
+            "motif": "blunder",
+            "san": "Bc1",
+            "refutation_san": [
+              "Rb8",
+              "O-O",
+              "a6"
+            ]
           },
           "e1d1": {
             "cp": -286,
@@ -1548,7 +2262,13 @@
               "b5a4",
               "e8c8"
             ],
-            "motif": "blunder"
+            "motif": "blunder",
+            "san": "Kd1",
+            "refutation_san": [
+              "a6",
+              "Ba4",
+              "O-O-O"
+            ]
           },
           "e1d2": {
             "cp": -291,
@@ -1558,7 +2278,13 @@
               "b5a4",
               "e8c8"
             ],
-            "motif": "blunder"
+            "motif": "blunder",
+            "san": "Kd2",
+            "refutation_san": [
+              "a6",
+              "Ba4",
+              "O-O-O"
+            ]
           },
           "g5f4": {
             "cp": -301,
@@ -1568,7 +2294,13 @@
               "c2c3",
               "b4b3"
             ],
-            "motif": "blunder"
+            "motif": "blunder",
+            "san": "Bf4",
+            "refutation_san": [
+              "Qb4+",
+              "c3",
+              "Qxb3"
+            ]
           },
           "b5f1": {
             "cp": -325,
@@ -1578,7 +2310,13 @@
               "b3b4",
               "f8b4"
             ],
-            "motif": "blunder"
+            "motif": "blunder",
+            "san": "Bf1",
+            "refutation_san": [
+              "Qb4+",
+              "Qxb4",
+              "Bxb4+"
+            ]
           },
           "g5h6": {
             "cp": -333,
@@ -1588,7 +2326,13 @@
               "e1g1",
               "f8g7"
             ],
-            "motif": "blunder"
+            "motif": "blunder",
+            "san": "Bh6",
+            "refutation_san": [
+              "gxh6",
+              "O-O",
+              "Bg7"
+            ]
           },
           "b3a3": {
             "cp": -369,
@@ -1598,7 +2342,13 @@
               "b2a3",
               "a8b8"
             ],
-            "motif": "blunder"
+            "motif": "blunder",
+            "san": "Qa3",
+            "refutation_san": [
+              "Qxa3",
+              "bxa3",
+              "Rb8"
+            ]
           },
           "b3d5": {
             "cp": -399,
@@ -1608,7 +2358,13 @@
               "g5e7",
               "d5e7"
             ],
-            "motif": "blunder"
+            "motif": "blunder",
+            "san": "Qd5",
+            "refutation_san": [
+              "Nxd5",
+              "Bxe7",
+              "Nxe7"
+            ]
           },
           "b3g3": {
             "cp": -523,
@@ -1618,7 +2374,13 @@
               "c2c3",
               "b4b5"
             ],
-            "motif": "blunder"
+            "motif": "blunder",
+            "san": "Qg3",
+            "refutation_san": [
+              "Qb4+",
+              "c3",
+              "Qxb5"
+            ]
           },
           "b3f3": {
             "cp": -552,
@@ -1628,7 +2390,13 @@
               "c2c3",
               "b4b5"
             ],
-            "motif": "blunder"
+            "motif": "blunder",
+            "san": "Qf3",
+            "refutation_san": [
+              "Qb4+",
+              "c3",
+              "Qxb5"
+            ]
           },
           "b3e3": {
             "cp": -554,
@@ -1638,7 +2406,13 @@
               "e3c3",
               "b4b5"
             ],
-            "motif": "blunder"
+            "motif": "blunder",
+            "san": "Qe3",
+            "refutation_san": [
+              "Qb4+",
+              "Qc3",
+              "Qxb5"
+            ]
           },
           "b3h3": {
             "cp": -567,
@@ -1648,7 +2422,13 @@
               "c2c3",
               "b4b5"
             ],
-            "motif": "blunder"
+            "motif": "blunder",
+            "san": "Qh3",
+            "refutation_san": [
+              "Qb4+",
+              "c3",
+              "Qxb5"
+            ]
           },
           "b3f7": {
             "cp": -583,
@@ -1658,7 +2438,13 @@
               "g5f6",
               "a7a6"
             ],
-            "motif": "blunder"
+            "motif": "blunder",
+            "san": "Qxf7+",
+            "refutation_san": [
+              "Qxf7",
+              "Bxf6",
+              "a6"
+            ]
           },
           "b3e6": {
             "cp": -655,
@@ -1668,7 +2454,13 @@
               "g5f6",
               "a7a6"
             ],
-            "motif": "blunder"
+            "motif": "blunder",
+            "san": "Qe6",
+            "refutation_san": [
+              "Qxe6",
+              "Bxf6",
+              "a6"
+            ]
           },
           "b3b4": {
             "cp": -957,
@@ -1678,7 +2470,13 @@
               "g5d2",
               "b4b5"
             ],
-            "motif": "blunder"
+            "motif": "blunder",
+            "san": "Qb4",
+            "refutation_san": [
+              "Qxb4+",
+              "Bd2",
+              "Qxb5"
+            ]
           }
         },
         "annotation": "O-O-O drops the rook onto the open d-file, where it bears down on Black's pinned knight and queen — castling as a killing blow. Bxf6 lets a defender off the hook; Rd1, a3, and O-O are all much weaker.",
@@ -1724,7 +2522,13 @@
               "g5e7",
               "f8e7"
             ],
-            "motif": "best"
+            "motif": "best",
+            "san": "Rxd7",
+            "refutation_san": [
+              "Nxd7",
+              "Bxe7",
+              "Bxe7"
+            ]
           },
           "d1d3": {
             "cp": 397,
@@ -1734,7 +2538,13 @@
               "b5a4",
               "e7e6"
             ],
-            "motif": "inaccuracy"
+            "motif": "inaccuracy",
+            "san": "Rd3",
+            "refutation_san": [
+              "a6",
+              "Ba4",
+              "Qe6"
+            ]
           },
           "b5a4": {
             "cp": 394,
@@ -1744,7 +2554,13 @@
               "d1d7",
               "f6d7"
             ],
-            "motif": "inaccuracy"
+            "motif": "inaccuracy",
+            "san": "Ba4",
+            "refutation_san": [
+              "Qe6",
+              "Rxd7",
+              "Nxd7"
+            ]
           },
           "d1d5": {
             "cp": 385,
@@ -1754,7 +2570,13 @@
               "g5f6",
               "e7f6"
             ],
-            "motif": "mistake"
+            "motif": "mistake",
+            "san": "Rd5",
+            "refutation_san": [
+              "h6",
+              "Bxf6",
+              "Qxf6"
+            ]
           },
           "c1b1": {
             "cp": 366,
@@ -1764,7 +2586,13 @@
               "g5f6",
               "e7f6"
             ],
-            "motif": "mistake"
+            "motif": "mistake",
+            "san": "Kb1",
+            "refutation_san": [
+              "h6",
+              "Bxf6",
+              "Qxf6"
+            ]
           },
           "d1d2": {
             "cp": 365,
@@ -1774,7 +2602,13 @@
               "g5f6",
               "e7f6"
             ],
-            "motif": "mistake"
+            "motif": "mistake",
+            "san": "Rd2",
+            "refutation_san": [
+              "h6",
+              "Bxf6",
+              "Qxf6"
+            ]
           },
           "b3a4": {
             "cp": 361,
@@ -1784,7 +2618,13 @@
               "g5f6",
               "g7f6"
             ],
-            "motif": "mistake"
+            "motif": "mistake",
+            "san": "Qa4",
+            "refutation_san": [
+              "Qe6",
+              "Bxf6",
+              "gxf6"
+            ]
           },
           "a2a3": {
             "cp": 349,
@@ -1794,7 +2634,13 @@
               "g5f6",
               "e7f6"
             ],
-            "motif": "mistake"
+            "motif": "mistake",
+            "san": "a3",
+            "refutation_san": [
+              "h6",
+              "Bxf6",
+              "Qxf6"
+            ]
           },
           "b3h3": {
             "cp": 349,
@@ -1804,7 +2650,13 @@
               "b5a4",
               "e7b4"
             ],
-            "motif": "mistake"
+            "motif": "mistake",
+            "san": "Qh3",
+            "refutation_san": [
+              "a6",
+              "Ba4",
+              "Qb4"
+            ]
           },
           "b5c6": {
             "cp": 344,
@@ -1814,7 +2666,13 @@
               "b3e6",
               "f7e6"
             ],
-            "motif": "mistake"
+            "motif": "mistake",
+            "san": "Bc6",
+            "refutation_san": [
+              "Qe6",
+              "Qxe6+",
+              "fxe6"
+            ]
           },
           "b3c4": {
             "cp": 335,
@@ -1824,7 +2682,13 @@
               "c4c5",
               "f8c5"
             ],
-            "motif": "mistake"
+            "motif": "mistake",
+            "san": "Qc4",
+            "refutation_san": [
+              "Qc5",
+              "Qxc5",
+              "Bxc5"
+            ]
           },
           "h1e1": {
             "cp": 331,
@@ -1834,7 +2698,13 @@
               "b5a4",
               "e7e6"
             ],
-            "motif": "mistake"
+            "motif": "mistake",
+            "san": "Rhe1",
+            "refutation_san": [
+              "a6",
+              "Ba4",
+              "Qe6"
+            ]
           },
           "g5f6": {
             "cp": 331,
@@ -1844,7 +2714,13 @@
               "b3d5",
               "f8e7"
             ],
-            "motif": "mistake"
+            "motif": "mistake",
+            "san": "Bxf6",
+            "refutation_san": [
+              "Qxf6",
+              "Qd5",
+              "Be7"
+            ]
           },
           "h1f1": {
             "cp": 329,
@@ -1854,7 +2730,13 @@
               "g5f6",
               "e7f6"
             ],
-            "motif": "mistake"
+            "motif": "mistake",
+            "san": "Rhf1",
+            "refutation_san": [
+              "h6",
+              "Bxf6",
+              "Qxf6"
+            ]
           },
           "c2c3": {
             "cp": 329,
@@ -1864,7 +2746,13 @@
               "b5d7",
               "d8d7"
             ],
-            "motif": "mistake"
+            "motif": "mistake",
+            "san": "c3",
+            "refutation_san": [
+              "Qc5",
+              "Bxd7+",
+              "Rxd7"
+            ]
           },
           "b3c3": {
             "cp": 320,
@@ -1874,7 +2762,13 @@
               "g5f6",
               "g7f6"
             ],
-            "motif": "mistake"
+            "motif": "mistake",
+            "san": "Qc3",
+            "refutation_san": [
+              "Qe6",
+              "Bxf6",
+              "gxf6"
+            ]
           },
           "g5h4": {
             "cp": 316,
@@ -1884,7 +2778,13 @@
               "f2f4",
               "e7b4"
             ],
-            "motif": "mistake"
+            "motif": "mistake",
+            "san": "Bh4",
+            "refutation_san": [
+              "h5",
+              "f4",
+              "Qb4"
+            ]
           },
           "h2h3": {
             "cp": 312,
@@ -1894,7 +2794,13 @@
               "g5f6",
               "g7f6"
             ],
-            "motif": "mistake"
+            "motif": "mistake",
+            "san": "h3",
+            "refutation_san": [
+              "Qc5",
+              "Bxf6",
+              "gxf6"
+            ]
           },
           "f2f3": {
             "cp": 296,
@@ -1904,7 +2810,13 @@
               "g5f6",
               "g7f6"
             ],
-            "motif": "mistake"
+            "motif": "mistake",
+            "san": "f3",
+            "refutation_san": [
+              "Qc5",
+              "Bxf6",
+              "gxf6"
+            ]
           },
           "h1g1": {
             "cp": 292,
@@ -1914,7 +2826,13 @@
               "g5f6",
               "e7f6"
             ],
-            "motif": "mistake"
+            "motif": "mistake",
+            "san": "Rhg1",
+            "refutation_san": [
+              "h6",
+              "Bxf6",
+              "Qxf6"
+            ]
           },
           "f2f4": {
             "cp": 288,
@@ -1924,7 +2842,13 @@
               "d1d7",
               "d8d7"
             ],
-            "motif": "mistake"
+            "motif": "mistake",
+            "san": "f4",
+            "refutation_san": [
+              "h6",
+              "Rxd7",
+              "Rxd7"
+            ]
           },
           "h2h4": {
             "cp": 282,
@@ -1934,7 +2858,13 @@
               "g5f6",
               "e7f6"
             ],
-            "motif": "mistake"
+            "motif": "mistake",
+            "san": "h4",
+            "refutation_san": [
+              "h6",
+              "Bxf6",
+              "Qxf6"
+            ]
           },
           "g2g3": {
             "cp": 278,
@@ -1944,7 +2874,13 @@
               "g5f6",
               "e7f6"
             ],
-            "motif": "mistake"
+            "motif": "mistake",
+            "san": "g3",
+            "refutation_san": [
+              "h6",
+              "Bxf6",
+              "Qxf6"
+            ]
           },
           "b3f3": {
             "cp": 268,
@@ -1954,7 +2890,13 @@
               "b5a4",
               "e7e6"
             ],
-            "motif": "mistake"
+            "motif": "mistake",
+            "san": "Qf3",
+            "refutation_san": [
+              "a6",
+              "Ba4",
+              "Qe6"
+            ]
           },
           "g2g4": {
             "cp": 252,
@@ -1964,7 +2906,13 @@
               "g5f6",
               "e7f6"
             ],
-            "motif": "mistake"
+            "motif": "mistake",
+            "san": "g4",
+            "refutation_san": [
+              "h6",
+              "Bxf6",
+              "Qxf6"
+            ]
           },
           "b3g3": {
             "cp": 248,
@@ -1974,7 +2922,13 @@
               "b5a4",
               "e7b4"
             ],
-            "motif": "mistake"
+            "motif": "mistake",
+            "san": "Qg3",
+            "refutation_san": [
+              "a6",
+              "Ba4",
+              "Qb4"
+            ]
           },
           "c2c4": {
             "cp": 226,
@@ -1984,7 +2938,13 @@
               "d1d7",
               "d8d7"
             ],
-            "motif": "blunder"
+            "motif": "blunder",
+            "san": "c4",
+            "refutation_san": [
+              "a6",
+              "Rxd7",
+              "Rxd7"
+            ]
           },
           "a2a4": {
             "cp": 166,
@@ -1994,7 +2954,13 @@
               "b5a6",
               "e7b4"
             ],
-            "motif": "blunder"
+            "motif": "blunder",
+            "san": "a4",
+            "refutation_san": [
+              "a6",
+              "Bxa6",
+              "Qb4"
+            ]
           },
           "b5d7": {
             "cp": 146,
@@ -2004,7 +2970,13 @@
               "d1d7",
               "e7d7"
             ],
-            "motif": "blunder"
+            "motif": "blunder",
+            "san": "Bxd7+",
+            "refutation_san": [
+              "Rxd7",
+              "Rxd7",
+              "Qxd7"
+            ]
           },
           "g5e3": {
             "cp": 132,
@@ -2014,7 +2986,13 @@
               "d1d3",
               "d8b8"
             ],
-            "motif": "blunder"
+            "motif": "blunder",
+            "san": "Be3",
+            "refutation_san": [
+              "Qb4",
+              "Rd3",
+              "Rb8"
+            ]
           },
           "g5d2": {
             "cp": 97,
@@ -2024,7 +3002,13 @@
               "b5a4",
               "e7e6"
             ],
-            "motif": "blunder"
+            "motif": "blunder",
+            "san": "Bd2",
+            "refutation_san": [
+              "a6",
+              "Ba4",
+              "Qe6"
+            ]
           },
           "b5c4": {
             "cp": 77,
@@ -2034,7 +3018,13 @@
               "g5f6",
               "e7f6"
             ],
-            "motif": "blunder"
+            "motif": "blunder",
+            "san": "Bc4",
+            "refutation_san": [
+              "h6",
+              "Bxf6",
+              "Qxf6"
+            ]
           },
           "b3d3": {
             "cp": 74,
@@ -2044,7 +3034,13 @@
               "f2f4",
               "f8e7"
             ],
-            "motif": "blunder"
+            "motif": "blunder",
+            "san": "Qd3",
+            "refutation_san": [
+              "Qe6",
+              "f4",
+              "Be7"
+            ]
           },
           "b3e3": {
             "cp": 71,
@@ -2054,7 +3050,13 @@
               "b5a4",
               "e7b4"
             ],
-            "motif": "blunder"
+            "motif": "blunder",
+            "san": "Qe3",
+            "refutation_san": [
+              "a6",
+              "Ba4",
+              "Qb4"
+            ]
           },
           "b5a6": {
             "cp": -27,
@@ -2064,7 +3066,13 @@
               "a6b5",
               "b4b3"
             ],
-            "motif": "blunder"
+            "motif": "blunder",
+            "san": "Ba6",
+            "refutation_san": [
+              "Qb4",
+              "Bb5",
+              "Qxb3"
+            ]
           },
           "b5f1": {
             "cp": -31,
@@ -2074,7 +3082,13 @@
               "f1b5",
               "b4b3"
             ],
-            "motif": "blunder"
+            "motif": "blunder",
+            "san": "Bf1",
+            "refutation_san": [
+              "Qb4",
+              "Bb5",
+              "Qxb3"
+            ]
           },
           "d1f1": {
             "cp": -42,
@@ -2084,7 +3098,13 @@
               "f1d1",
               "b4b3"
             ],
-            "motif": "blunder"
+            "motif": "blunder",
+            "san": "Rdf1",
+            "refutation_san": [
+              "Qb4",
+              "Rd1",
+              "Qxb3"
+            ]
           },
           "b5d3": {
             "cp": -42,
@@ -2094,7 +3114,13 @@
               "d3b5",
               "b4b3"
             ],
-            "motif": "blunder"
+            "motif": "blunder",
+            "san": "Bd3",
+            "refutation_san": [
+              "Qb4",
+              "Bb5",
+              "Qxb3"
+            ]
           },
           "d1e1": {
             "cp": -42,
@@ -2104,7 +3130,13 @@
               "e1d1",
               "b4b3"
             ],
-            "motif": "blunder"
+            "motif": "blunder",
+            "san": "Rde1",
+            "refutation_san": [
+              "Qb4",
+              "Rd1",
+              "Qxb3"
+            ]
           },
           "d1g1": {
             "cp": -42,
@@ -2114,7 +3146,13 @@
               "g1d1",
               "b4b3"
             ],
-            "motif": "blunder"
+            "motif": "blunder",
+            "san": "Rdg1",
+            "refutation_san": [
+              "Qb4",
+              "Rd1",
+              "Qxb3"
+            ]
           },
           "b5e2": {
             "cp": -43,
@@ -2124,7 +3162,13 @@
               "e2b5",
               "b4b3"
             ],
-            "motif": "blunder"
+            "motif": "blunder",
+            "san": "Be2",
+            "refutation_san": [
+              "Qb4",
+              "Bb5",
+              "Qxb3"
+            ]
           },
           "g5f4": {
             "cp": -97,
@@ -2134,7 +3178,13 @@
               "e4e5",
               "f6e4"
             ],
-            "motif": "blunder"
+            "motif": "blunder",
+            "san": "Bf4",
+            "refutation_san": [
+              "exf4",
+              "e5",
+              "Ne4"
+            ]
           },
           "b3d5": {
             "cp": -197,
@@ -2144,7 +3194,13 @@
               "g5e7",
               "e8e7"
             ],
-            "motif": "blunder"
+            "motif": "blunder",
+            "san": "Qd5",
+            "refutation_san": [
+              "Nxd5",
+              "Bxe7",
+              "Kxe7"
+            ]
           },
           "c1d2": {
             "cp": -309,
@@ -2154,7 +3210,13 @@
               "d2e2",
               "e7g5"
             ],
-            "motif": "blunder"
+            "motif": "blunder",
+            "san": "Kd2",
+            "refutation_san": [
+              "Nxe4+",
+              "Ke2",
+              "Qxg5"
+            ]
           },
           "d1d4": {
             "cp": -330,
@@ -2164,7 +3226,13 @@
               "e4e5",
               "e7e5"
             ],
-            "motif": "blunder"
+            "motif": "blunder",
+            "san": "Rd4",
+            "refutation_san": [
+              "exd4",
+              "e5",
+              "Qxe5"
+            ]
           },
           "d1d6": {
             "cp": -379,
@@ -2174,7 +3242,13 @@
               "h1d1",
               "d6b4"
             ],
-            "motif": "blunder"
+            "motif": "blunder",
+            "san": "Rd6",
+            "refutation_san": [
+              "Qxd6",
+              "Rd1",
+              "Qb4"
+            ]
           },
           "g5h6": {
             "cp": -390,
@@ -2184,7 +3258,13 @@
               "d1d7",
               "f6d7"
             ],
-            "motif": "blunder"
+            "motif": "blunder",
+            "san": "Bh6",
+            "refutation_san": [
+              "gxh6",
+              "Rxd7",
+              "Nxd7"
+            ]
           },
           "b3a3": {
             "cp": -476,
@@ -2194,7 +3274,13 @@
               "b2a3",
               "f8a3"
             ],
-            "motif": "blunder"
+            "motif": "blunder",
+            "san": "Qa3",
+            "refutation_san": [
+              "Qxa3",
+              "bxa3",
+              "Bxa3+"
+            ]
           },
           "b3f7": {
             "cp": -487,
@@ -2204,7 +3290,13 @@
               "g5f6",
               "g7f6"
             ],
-            "motif": "blunder"
+            "motif": "blunder",
+            "san": "Qxf7+",
+            "refutation_san": [
+              "Qxf7",
+              "Bxf6",
+              "gxf6"
+            ]
           },
           "b3b4": {
             "cp": -601,
@@ -2214,7 +3306,13 @@
               "c2c4",
               "f8e7"
             ],
-            "motif": "blunder"
+            "motif": "blunder",
+            "san": "Qb4",
+            "refutation_san": [
+              "Qxb4",
+              "c4",
+              "Be7"
+            ]
           },
           "b3e6": {
             "cp": -653,
@@ -2224,7 +3322,13 @@
               "c1b1",
               "f8e7"
             ],
-            "motif": "blunder"
+            "motif": "blunder",
+            "san": "Qe6",
+            "refutation_san": [
+              "Qxe6",
+              "Kb1",
+              "Be7"
+            ]
           }
         },
         "annotation": "Rxd7! tears down Black's last defender — after the recapture, the second rook swings in and the d-file collapses. Rd3, Ba4, Rd5, and Kb1 keep an edge but let Black survive much longer.",
@@ -2270,7 +3374,13 @@
               "g5f6",
               "f8d6"
             ],
-            "motif": "best"
+            "motif": "best",
+            "san": "Rd1",
+            "refutation_san": [
+              "Qc5",
+              "Bxf6",
+              "Bd6"
+            ]
           },
           "g5f6": {
             "cp": 270,
@@ -2280,7 +3390,13 @@
               "b5d7",
               "e8d7"
             ],
-            "motif": "mistake"
+            "motif": "mistake",
+            "san": "Bxf6",
+            "refutation_san": [
+              "Qxf6",
+              "Bxd7+",
+              "Kxd7"
+            ]
           },
           "c2c3": {
             "cp": 227,
@@ -2290,7 +3406,13 @@
               "g5f6",
               "e7f6"
             ],
-            "motif": "mistake"
+            "motif": "mistake",
+            "san": "c3",
+            "refutation_san": [
+              "h6",
+              "Bxf6",
+              "Qxf6"
+            ]
           },
           "b5a4": {
             "cp": 213,
@@ -2300,7 +3422,13 @@
               "c2c4",
               "d6c7"
             ],
-            "motif": "blunder"
+            "motif": "blunder",
+            "san": "Ba4",
+            "refutation_san": [
+              "Qd6",
+              "c4",
+              "Qc7"
+            ]
           },
           "f2f4": {
             "cp": 207,
@@ -2310,7 +3438,13 @@
               "b3c3",
               "f8e7"
             ],
-            "motif": "blunder"
+            "motif": "blunder",
+            "san": "f4",
+            "refutation_san": [
+              "Qd6",
+              "Qc3",
+              "Be7"
+            ]
           },
           "b3c3": {
             "cp": 201,
@@ -2320,7 +3454,13 @@
               "f2f4",
               "d6b8"
             ],
-            "motif": "blunder"
+            "motif": "blunder",
+            "san": "Qc3",
+            "refutation_san": [
+              "Qd6",
+              "f4",
+              "Qb8"
+            ]
           },
           "b3c4": {
             "cp": 197,
@@ -2330,7 +3470,13 @@
               "c4c8",
               "e8e7"
             ],
-            "motif": "blunder"
+            "motif": "blunder",
+            "san": "Qc4",
+            "refutation_san": [
+              "Qd6",
+              "Qc8+",
+              "Ke7"
+            ]
           },
           "g5h4": {
             "cp": 184,
@@ -2340,7 +3486,13 @@
               "c2c4",
               "a7a6"
             ],
-            "motif": "blunder"
+            "motif": "blunder",
+            "san": "Bh4",
+            "refutation_san": [
+              "Qd6",
+              "c4",
+              "a6"
+            ]
           },
           "f2f3": {
             "cp": 181,
@@ -2350,7 +3502,13 @@
               "c2c4",
               "d6b4"
             ],
-            "motif": "blunder"
+            "motif": "blunder",
+            "san": "f3",
+            "refutation_san": [
+              "Qd6",
+              "c4",
+              "Qb4"
+            ]
           },
           "c1b1": {
             "cp": 157,
@@ -2360,7 +3518,13 @@
               "b5a4",
               "e7d6"
             ],
-            "motif": "blunder"
+            "motif": "blunder",
+            "san": "Kb1",
+            "refutation_san": [
+              "a6",
+              "Ba4",
+              "Qd6"
+            ]
           },
           "h2h4": {
             "cp": 144,
@@ -2370,7 +3534,13 @@
               "b5c6",
               "e7d6"
             ],
-            "motif": "blunder"
+            "motif": "blunder",
+            "san": "h4",
+            "refutation_san": [
+              "a6",
+              "Bc6",
+              "Qd6"
+            ]
           },
           "b5d7": {
             "cp": 143,
@@ -2380,7 +3550,13 @@
               "b3b8",
               "d7d8"
             ],
-            "motif": "blunder"
+            "motif": "blunder",
+            "san": "Bxd7+",
+            "refutation_san": [
+              "Qxd7",
+              "Qb8+",
+              "Qd8"
+            ]
           },
           "h1f1": {
             "cp": 130,
@@ -2390,7 +3566,13 @@
               "c2c4",
               "a7a6"
             ],
-            "motif": "blunder"
+            "motif": "blunder",
+            "san": "Rf1",
+            "refutation_san": [
+              "Qd6",
+              "c4",
+              "a6"
+            ]
           },
           "a2a4": {
             "cp": 125,
@@ -2400,7 +3582,13 @@
               "b5d7",
               "e7d7"
             ],
-            "motif": "blunder"
+            "motif": "blunder",
+            "san": "a4",
+            "refutation_san": [
+              "a6",
+              "Bxd7+",
+              "Qxd7"
+            ]
           },
           "h1e1": {
             "cp": 124,
@@ -2410,7 +3598,13 @@
               "c2c4",
               "h7h6"
             ],
-            "motif": "blunder"
+            "motif": "blunder",
+            "san": "Re1",
+            "refutation_san": [
+              "Qd6",
+              "c4",
+              "h6"
+            ]
           },
           "a2a3": {
             "cp": 122,
@@ -2420,7 +3614,13 @@
               "c2c4",
               "e8e7"
             ],
-            "motif": "blunder"
+            "motif": "blunder",
+            "san": "a3",
+            "refutation_san": [
+              "Qd6",
+              "c4",
+              "Ke7"
+            ]
           },
           "g2g4": {
             "cp": 120,
@@ -2430,7 +3630,13 @@
               "c2c4",
               "e8e7"
             ],
-            "motif": "blunder"
+            "motif": "blunder",
+            "san": "g4",
+            "refutation_san": [
+              "Qd6",
+              "c4",
+              "Ke7"
+            ]
           },
           "h2h3": {
             "cp": 116,
@@ -2440,7 +3646,13 @@
               "c2c4",
               "a7a6"
             ],
-            "motif": "blunder"
+            "motif": "blunder",
+            "san": "h3",
+            "refutation_san": [
+              "Qd6",
+              "c4",
+              "a6"
+            ]
           },
           "h1g1": {
             "cp": 114,
@@ -2450,7 +3662,13 @@
               "c2c4",
               "a7a6"
             ],
-            "motif": "blunder"
+            "motif": "blunder",
+            "san": "Rg1",
+            "refutation_san": [
+              "Qd6",
+              "c4",
+              "a6"
+            ]
           },
           "g2g3": {
             "cp": 108,
@@ -2460,7 +3678,13 @@
               "c2c4",
               "d6c7"
             ],
-            "motif": "blunder"
+            "motif": "blunder",
+            "san": "g3",
+            "refutation_san": [
+              "Qd6",
+              "c4",
+              "Qc7"
+            ]
           },
           "g5e3": {
             "cp": 96,
@@ -2470,7 +3694,13 @@
               "b5d7",
               "f6d7"
             ],
-            "motif": "blunder"
+            "motif": "blunder",
+            "san": "Be3",
+            "refutation_san": [
+              "Qe6",
+              "Bxd7+",
+              "Nxd7"
+            ]
           },
           "c2c4": {
             "cp": 72,
@@ -2480,7 +3710,13 @@
               "b5d7",
               "d8d7"
             ],
-            "motif": "blunder"
+            "motif": "blunder",
+            "san": "c4",
+            "refutation_san": [
+              "Kd8",
+              "Bxd7",
+              "Kxd7"
+            ]
           },
           "b3a4": {
             "cp": 56,
@@ -2490,7 +3726,13 @@
               "g5e3",
               "d7d6"
             ],
-            "motif": "blunder"
+            "motif": "blunder",
+            "san": "Qa4",
+            "refutation_san": [
+              "Kd8",
+              "Be3",
+              "Rd6"
+            ]
           },
           "b3g3": {
             "cp": 0,
@@ -2500,7 +3742,13 @@
               "f2f4",
               "f6e4"
             ],
-            "motif": "blunder"
+            "motif": "blunder",
+            "san": "Qg3",
+            "refutation_san": [
+              "Qd6",
+              "f4",
+              "Nxe4"
+            ]
           },
           "b3f3": {
             "cp": 0,
@@ -2510,7 +3758,13 @@
               "b5d7",
               "e7d7"
             ],
-            "motif": "blunder"
+            "motif": "blunder",
+            "san": "Qf3",
+            "refutation_san": [
+              "a6",
+              "Bxd7+",
+              "Qxd7"
+            ]
           },
           "b5c6": {
             "cp": 0,
@@ -2520,7 +3774,13 @@
               "b3b7",
               "f8e7"
             ],
-            "motif": "blunder"
+            "motif": "blunder",
+            "san": "Bc6",
+            "refutation_san": [
+              "Qd6",
+              "Qb7",
+              "Be7"
+            ]
           },
           "b3d3": {
             "cp": -58,
@@ -2530,7 +3790,13 @@
               "b5d7",
               "e7d7"
             ],
-            "motif": "blunder"
+            "motif": "blunder",
+            "san": "Qd3",
+            "refutation_san": [
+              "Kd8",
+              "Bxd7",
+              "Qxd7"
+            ]
           },
           "b3e3": {
             "cp": -78,
@@ -2540,7 +3806,13 @@
               "b5a4",
               "e7b4"
             ],
-            "motif": "blunder"
+            "motif": "blunder",
+            "san": "Qe3",
+            "refutation_san": [
+              "a6",
+              "Ba4",
+              "Qb4"
+            ]
           },
           "g5d2": {
             "cp": -80,
@@ -2550,7 +3822,13 @@
               "b5d7",
               "f6d7"
             ],
-            "motif": "blunder"
+            "motif": "blunder",
+            "san": "Bd2",
+            "refutation_san": [
+              "Qe6",
+              "Bxd7+",
+              "Nxd7"
+            ]
           },
           "b3h3": {
             "cp": -91,
@@ -2560,7 +3838,13 @@
               "g5f6",
               "g7f6"
             ],
-            "motif": "blunder"
+            "motif": "blunder",
+            "san": "Qh3",
+            "refutation_san": [
+              "a6",
+              "Bxf6",
+              "gxf6"
+            ]
           },
           "g5f4": {
             "cp": -196,
@@ -2570,7 +3854,13 @@
               "h1d1",
               "e7e4"
             ],
-            "motif": "blunder"
+            "motif": "blunder",
+            "san": "Bf4",
+            "refutation_san": [
+              "exf4",
+              "Rd1",
+              "Qxe4"
+            ]
           },
           "b5c4": {
             "cp": -235,
@@ -2580,7 +3870,13 @@
               "c4b5",
               "e8d8"
             ],
-            "motif": "blunder"
+            "motif": "blunder",
+            "san": "Bc4",
+            "refutation_san": [
+              "Qb4",
+              "Bb5",
+              "Kd8"
+            ]
           },
           "b5e2": {
             "cp": -236,
@@ -2590,7 +3886,13 @@
               "e2b5",
               "e8d8"
             ],
-            "motif": "blunder"
+            "motif": "blunder",
+            "san": "Be2",
+            "refutation_san": [
+              "Qb4",
+              "Bb5",
+              "Kd8"
+            ]
           },
           "b5f1": {
             "cp": -237,
@@ -2600,7 +3902,13 @@
               "f1b5",
               "e8d8"
             ],
-            "motif": "blunder"
+            "motif": "blunder",
+            "san": "Bf1",
+            "refutation_san": [
+              "Qb4",
+              "Bb5",
+              "Kd8"
+            ]
           },
           "b5d3": {
             "cp": -238,
@@ -2610,7 +3918,13 @@
               "d3b5",
               "e8d8"
             ],
-            "motif": "blunder"
+            "motif": "blunder",
+            "san": "Bd3",
+            "refutation_san": [
+              "Qb4",
+              "Bb5",
+              "Kd8"
+            ]
           },
           "b5a6": {
             "cp": -238,
@@ -2620,7 +3934,13 @@
               "a6b5",
               "e8d8"
             ],
-            "motif": "blunder"
+            "motif": "blunder",
+            "san": "Ba6",
+            "refutation_san": [
+              "Qb4",
+              "Bb5",
+              "Kd8"
+            ]
           },
           "g5h6": {
             "cp": -313,
@@ -2630,7 +3950,13 @@
               "h1d1",
               "f8g7"
             ],
-            "motif": "blunder"
+            "motif": "blunder",
+            "san": "Bh6",
+            "refutation_san": [
+              "gxh6",
+              "Rd1",
+              "Bg7"
+            ]
           },
           "b3d5": {
             "cp": -343,
@@ -2640,7 +3966,13 @@
               "g5e7",
               "f8e7"
             ],
-            "motif": "blunder"
+            "motif": "blunder",
+            "san": "Qd5",
+            "refutation_san": [
+              "Nxd5",
+              "Bxe7",
+              "Bxe7"
+            ]
           },
           "b3a3": {
             "cp": -450,
@@ -2650,7 +3982,13 @@
               "b2a3",
               "f8a3"
             ],
-            "motif": "blunder"
+            "motif": "blunder",
+            "san": "Qa3",
+            "refutation_san": [
+              "Qxa3",
+              "bxa3",
+              "Bxa3+"
+            ]
           },
           "b3f7": {
             "cp": -589,
@@ -2660,7 +3998,13 @@
               "h2h3",
               "d7d4"
             ],
-            "motif": "blunder"
+            "motif": "blunder",
+            "san": "Qxf7+",
+            "refutation_san": [
+              "Kxf7",
+              "h3",
+              "Rd4"
+            ]
           },
           "b3b4": {
             "cp": -635,
@@ -2670,7 +4014,13 @@
               "b5a6",
               "b4b6"
             ],
-            "motif": "blunder"
+            "motif": "blunder",
+            "san": "Qb4",
+            "refutation_san": [
+              "Qxb4",
+              "Ba6",
+              "Qb6"
+            ]
           },
           "b3e6": {
             "cp": -657,
@@ -2680,7 +4030,13 @@
               "a2a3",
               "a7a6"
             ],
-            "motif": "blunder"
+            "motif": "blunder",
+            "san": "Qe6",
+            "refutation_san": [
+              "Qxe6",
+              "a3",
+              "a6"
+            ]
           }
         },
         "annotation": "Rd1 brings the last piece into the attack, piling a second rook onto the pinned knight. Nothing else compares: Bxf6, c3, Ba4, and f4 all squander the initiative.",
@@ -2726,7 +4082,13 @@
               "d1d7",
               "e8d7"
             ],
-            "motif": "best"
+            "motif": "best",
+            "san": "Bxd7+",
+            "refutation_san": [
+              "Qxd7",
+              "Rxd7",
+              "Kxd7"
+            ]
           },
           "g5f6": {
             "cp": 641,
@@ -2736,7 +4098,13 @@
               "b5d7",
               "e6d7"
             ],
-            "motif": "ok"
+            "motif": "ok",
+            "san": "Bxf6",
+            "refutation_san": [
+              "gxf6",
+              "Bxd7+",
+              "Qxd7"
+            ]
           },
           "b3c3": {
             "cp": 467,
@@ -2746,7 +4114,13 @@
               "c3c8",
               "e8e7"
             ],
-            "motif": "mistake"
+            "motif": "mistake",
+            "san": "Qc3",
+            "refutation_san": [
+              "Bd6",
+              "Qc8+",
+              "Ke7"
+            ]
           },
           "d1d7": {
             "cp": 457,
@@ -2756,7 +4130,13 @@
               "g5f6",
               "g7f6"
             ],
-            "motif": "mistake"
+            "motif": "mistake",
+            "san": "Rxd7",
+            "refutation_san": [
+              "Qxb3",
+              "Bxf6",
+              "gxf6"
+            ]
           },
           "b3e6": {
             "cp": 426,
@@ -2766,7 +4146,13 @@
               "g5f6",
               "e8f7"
             ],
-            "motif": "mistake"
+            "motif": "mistake",
+            "san": "Qxe6+",
+            "refutation_san": [
+              "fxe6",
+              "Bxf6",
+              "Kf7"
+            ]
           },
           "f2f3": {
             "cp": 366,
@@ -2776,7 +4162,13 @@
               "b3e6",
               "f7e6"
             ],
-            "motif": "blunder"
+            "motif": "blunder",
+            "san": "f3",
+            "refutation_san": [
+              "Bc5",
+              "Qxe6+",
+              "fxe6"
+            ]
           },
           "c2c3": {
             "cp": 365,
@@ -2786,7 +4178,13 @@
               "b3e6",
               "f7e6"
             ],
-            "motif": "blunder"
+            "motif": "blunder",
+            "san": "c3",
+            "refutation_san": [
+              "Bc5",
+              "Qxe6+",
+              "fxe6"
+            ]
           },
           "b5a4": {
             "cp": 363,
@@ -2796,7 +4194,13 @@
               "a2b3",
               "h8g8"
             ],
-            "motif": "blunder"
+            "motif": "blunder",
+            "san": "Ba4",
+            "refutation_san": [
+              "Qxb3",
+              "axb3",
+              "Rg8"
+            ]
           },
           "c1b1": {
             "cp": 354,
@@ -2806,7 +4210,13 @@
               "b3e6",
               "f7e6"
             ],
-            "motif": "blunder"
+            "motif": "blunder",
+            "san": "Kb1",
+            "refutation_san": [
+              "Bc5",
+              "Qxe6+",
+              "fxe6"
+            ]
           },
           "h2h3": {
             "cp": 347,
@@ -2816,7 +4226,13 @@
               "b5a4",
               "e6b3"
             ],
-            "motif": "blunder"
+            "motif": "blunder",
+            "san": "h3",
+            "refutation_san": [
+              "a6",
+              "Ba4",
+              "Qxb3"
+            ]
           },
           "d1d3": {
             "cp": 336,
@@ -2826,7 +4242,13 @@
               "b3e6",
               "f7e6"
             ],
-            "motif": "blunder"
+            "motif": "blunder",
+            "san": "Rd3",
+            "refutation_san": [
+              "Bc5",
+              "Qxe6+",
+              "fxe6"
+            ]
           },
           "f2f4": {
             "cp": 326,
@@ -2836,7 +4258,13 @@
               "b3e6",
               "f7e6"
             ],
-            "motif": "blunder"
+            "motif": "blunder",
+            "san": "f4",
+            "refutation_san": [
+              "Bc5",
+              "Qxe6+",
+              "fxe6"
+            ]
           },
           "b3h3": {
             "cp": 320,
@@ -2846,7 +4274,13 @@
               "h3e6",
               "f7e6"
             ],
-            "motif": "blunder"
+            "motif": "blunder",
+            "san": "Qh3",
+            "refutation_san": [
+              "Bc5",
+              "Qxe6+",
+              "fxe6"
+            ]
           },
           "h2h4": {
             "cp": 316,
@@ -2856,7 +4290,13 @@
               "b3e6",
               "f7e6"
             ],
-            "motif": "blunder"
+            "motif": "blunder",
+            "san": "h4",
+            "refutation_san": [
+              "Bc5",
+              "Qxe6+",
+              "fxe6"
+            ]
           },
           "a2a3": {
             "cp": 314,
@@ -2866,7 +4306,13 @@
               "c2b3",
               "h8g8"
             ],
-            "motif": "blunder"
+            "motif": "blunder",
+            "san": "a3",
+            "refutation_san": [
+              "Qxb3",
+              "cxb3",
+              "Rg8"
+            ]
           },
           "d1d2": {
             "cp": 304,
@@ -2876,7 +4322,13 @@
               "b5a4",
               "e6b3"
             ],
-            "motif": "blunder"
+            "motif": "blunder",
+            "san": "Rd2",
+            "refutation_san": [
+              "a6",
+              "Ba4",
+              "Qxb3"
+            ]
           },
           "g5h4": {
             "cp": 287,
@@ -2886,7 +4338,13 @@
               "b3e6",
               "f7e6"
             ],
-            "motif": "blunder"
+            "motif": "blunder",
+            "san": "Bh4",
+            "refutation_san": [
+              "a6",
+              "Qxe6+",
+              "fxe6"
+            ]
           },
           "g2g3": {
             "cp": 252,
@@ -2896,7 +4354,13 @@
               "b3e6",
               "f7e6"
             ],
-            "motif": "blunder"
+            "motif": "blunder",
+            "san": "g3",
+            "refutation_san": [
+              "Bc5",
+              "Qxe6+",
+              "fxe6"
+            ]
           },
           "a2a4": {
             "cp": 242,
@@ -2906,7 +4370,13 @@
               "b5d7",
               "f6d7"
             ],
-            "motif": "blunder"
+            "motif": "blunder",
+            "san": "a4",
+            "refutation_san": [
+              "Qg4",
+              "Bxd7+",
+              "Nxd7"
+            ]
           },
           "b3d3": {
             "cp": 241,
@@ -2916,7 +4386,13 @@
               "g5f6",
               "e8g8"
             ],
-            "motif": "blunder"
+            "motif": "blunder",
+            "san": "Qd3",
+            "refutation_san": [
+              "Bc5",
+              "Bxf6",
+              "O-O"
+            ]
           },
           "b3g3": {
             "cp": 216,
@@ -2926,7 +4402,13 @@
               "g5f6",
               "e6f6"
             ],
-            "motif": "blunder"
+            "motif": "blunder",
+            "san": "Qg3",
+            "refutation_san": [
+              "Bd6",
+              "Bxf6",
+              "Qxf6"
+            ]
           },
           "b3a4": {
             "cp": 210,
@@ -2936,7 +4418,13 @@
               "g5f6",
               "e8g8"
             ],
-            "motif": "blunder"
+            "motif": "blunder",
+            "san": "Qa4",
+            "refutation_san": [
+              "Bc5",
+              "Bxf6",
+              "O-O"
+            ]
           },
           "c2c4": {
             "cp": 196,
@@ -2946,7 +4434,13 @@
               "g5f6",
               "e8g8"
             ],
-            "motif": "blunder"
+            "motif": "blunder",
+            "san": "c4",
+            "refutation_san": [
+              "Bc5",
+              "Bxf6",
+              "O-O"
+            ]
           },
           "g2g4": {
             "cp": 142,
@@ -2956,7 +4450,13 @@
               "b5d7",
               "f6d7"
             ],
-            "motif": "blunder"
+            "motif": "blunder",
+            "san": "g4",
+            "refutation_san": [
+              "Qxg4",
+              "Bxd7+",
+              "Nxd7"
+            ]
           },
           "b3e3": {
             "cp": 30,
@@ -2966,7 +4466,13 @@
               "e3a7",
               "e8e7"
             ],
-            "motif": "blunder"
+            "motif": "blunder",
+            "san": "Qe3",
+            "refutation_san": [
+              "Bd6",
+              "Qxa7",
+              "Ke7"
+            ]
           },
           "b3f3": {
             "cp": -52,
@@ -2976,7 +4482,13 @@
               "b5a4",
               "e8d8"
             ],
-            "motif": "blunder"
+            "motif": "blunder",
+            "san": "Qf3",
+            "refutation_san": [
+              "Bd6",
+              "Ba4",
+              "Kd8"
+            ]
           },
           "g5e3": {
             "cp": -107,
@@ -2986,7 +4498,13 @@
               "a2b3",
               "e8d8"
             ],
-            "motif": "blunder"
+            "motif": "blunder",
+            "san": "Be3",
+            "refutation_san": [
+              "Qxb3",
+              "axb3",
+              "Kd8"
+            ]
           },
           "d1d5": {
             "cp": -147,
@@ -2996,7 +4514,13 @@
               "e4d5",
               "e6d6"
             ],
-            "motif": "blunder"
+            "motif": "blunder",
+            "san": "Rd5",
+            "refutation_san": [
+              "Nxd5",
+              "exd5",
+              "Qd6"
+            ]
           },
           "g5d2": {
             "cp": -191,
@@ -3006,7 +4530,13 @@
               "a2b3",
               "a7a6"
             ],
-            "motif": "blunder"
+            "motif": "blunder",
+            "san": "Bd2",
+            "refutation_san": [
+              "Qxb3",
+              "axb3",
+              "a6"
+            ]
           },
           "d1f1": {
             "cp": -224,
@@ -3016,7 +4546,13 @@
               "a2b3",
               "f6e4"
             ],
-            "motif": "blunder"
+            "motif": "blunder",
+            "san": "Rf1",
+            "refutation_san": [
+              "Qxb3",
+              "axb3",
+              "Nxe4"
+            ]
           },
           "d1g1": {
             "cp": -237,
@@ -3026,7 +4562,13 @@
               "a2b3",
               "e8d8"
             ],
-            "motif": "blunder"
+            "motif": "blunder",
+            "san": "Rg1",
+            "refutation_san": [
+              "Qxb3",
+              "axb3",
+              "Kd8"
+            ]
           },
           "g5f4": {
             "cp": -245,
@@ -3036,7 +4578,13 @@
               "c2b3",
               "e8e7"
             ],
-            "motif": "blunder"
+            "motif": "blunder",
+            "san": "Bf4",
+            "refutation_san": [
+              "Qxb3",
+              "cxb3",
+              "Ke7"
+            ]
           },
           "d1e1": {
             "cp": -246,
@@ -3046,7 +4594,13 @@
               "a2b3",
               "e8d8"
             ],
-            "motif": "blunder"
+            "motif": "blunder",
+            "san": "Re1",
+            "refutation_san": [
+              "Qxb3",
+              "axb3",
+              "Kd8"
+            ]
           },
           "d1h1": {
             "cp": -261,
@@ -3056,7 +4610,13 @@
               "a2b3",
               "e8d8"
             ],
-            "motif": "blunder"
+            "motif": "blunder",
+            "san": "Rh1",
+            "refutation_san": [
+              "Qxb3",
+              "axb3",
+              "Kd8"
+            ]
           },
           "b5c4": {
             "cp": -282,
@@ -3066,7 +4626,13 @@
               "c1d1",
               "e6b6"
             ],
-            "motif": "blunder"
+            "motif": "blunder",
+            "san": "Bc4",
+            "refutation_san": [
+              "Rxd1+",
+              "Kxd1",
+              "Qb6"
+            ]
           },
           "g5h6": {
             "cp": -332,
@@ -3076,7 +4642,13 @@
               "d1d7",
               "f6d7"
             ],
-            "motif": "blunder"
+            "motif": "blunder",
+            "san": "Bh6",
+            "refutation_san": [
+              "gxh6",
+              "Rxd7",
+              "Nxd7"
+            ]
           },
           "b5d3": {
             "cp": -336,
@@ -3086,7 +4658,13 @@
               "a2b3",
               "d7b7"
             ],
-            "motif": "blunder"
+            "motif": "blunder",
+            "san": "Bd3",
+            "refutation_san": [
+              "Qxb3",
+              "axb3",
+              "Rb7"
+            ]
           },
           "b5c6": {
             "cp": -348,
@@ -3096,7 +4674,13 @@
               "b3b8",
               "e8e7"
             ],
-            "motif": "blunder"
+            "motif": "blunder",
+            "san": "Bc6",
+            "refutation_san": [
+              "Qxc6",
+              "Qb8+",
+              "Ke7"
+            ]
           },
           "d1d4": {
             "cp": -389,
@@ -3106,7 +4690,13 @@
               "b3f3",
               "f6e4"
             ],
-            "motif": "blunder"
+            "motif": "blunder",
+            "san": "Rd4",
+            "refutation_san": [
+              "exd4",
+              "Qf3",
+              "Nxe4"
+            ]
           },
           "b5f1": {
             "cp": -427,
@@ -3116,7 +4706,13 @@
               "c1d1",
               "e6b3"
             ],
-            "motif": "blunder"
+            "motif": "blunder",
+            "san": "Bf1",
+            "refutation_san": [
+              "Rxd1+",
+              "Kxd1",
+              "Qxb3"
+            ]
           },
           "b5e2": {
             "cp": -428,
@@ -3126,7 +4722,13 @@
               "a2b3",
               "d7d1"
             ],
-            "motif": "blunder"
+            "motif": "blunder",
+            "san": "Be2",
+            "refutation_san": [
+              "Qxb3",
+              "axb3",
+              "Rxd1+"
+            ]
           },
           "b3c4": {
             "cp": -432,
@@ -3136,7 +4738,13 @@
               "b5c4",
               "d7d1"
             ],
-            "motif": "blunder"
+            "motif": "blunder",
+            "san": "Qc4",
+            "refutation_san": [
+              "Qxc4",
+              "Bxc4",
+              "Rxd1+"
+            ]
           },
           "d1d6": {
             "cp": -432,
@@ -3146,7 +4754,13 @@
               "b5d7",
               "e8e7"
             ],
-            "motif": "blunder"
+            "motif": "blunder",
+            "san": "Rd6",
+            "refutation_san": [
+              "Qxb3",
+              "Bxd7+",
+              "Ke7"
+            ]
           },
           "b3d5": {
             "cp": -457,
@@ -3156,7 +4770,13 @@
               "e4d5",
               "e6b6"
             ],
-            "motif": "blunder"
+            "motif": "blunder",
+            "san": "Qd5",
+            "refutation_san": [
+              "Nxd5",
+              "exd5",
+              "Qb6"
+            ]
           },
           "b5a6": {
             "cp": -462,
@@ -3166,7 +4786,13 @@
               "c1d1",
               "e6b3"
             ],
-            "motif": "blunder"
+            "motif": "blunder",
+            "san": "Ba6",
+            "refutation_san": [
+              "Rxd1+",
+              "Kxd1",
+              "Qxb3"
+            ]
           },
           "b3a3": {
             "cp": -630,
@@ -3176,7 +4802,13 @@
               "g5f6",
               "e8g8"
             ],
-            "motif": "blunder"
+            "motif": "blunder",
+            "san": "Qa3",
+            "refutation_san": [
+              "Bxa3",
+              "Bxf6",
+              "O-O"
+            ]
           },
           "b3b4": {
             "cp": -664,
@@ -3186,7 +4818,13 @@
               "g5f6",
               "e8g8"
             ],
-            "motif": "blunder"
+            "motif": "blunder",
+            "san": "Qb4",
+            "refutation_san": [
+              "Bxb4",
+              "Bxf6",
+              "O-O"
+            ]
           }
         },
         "annotation": "Bxd7+ clears the way with check, forcing Black's reply so the rook can crash through next. Bxf6 is also strong, but Qc3, Rxd7, and Qxe6+ let the win slide toward merely better.",
@@ -3231,7 +4869,12 @@
               "d7b8",
               "d1d8"
             ],
-            "motif": "best"
+            "motif": "best",
+            "san": "Qb8+",
+            "refutation_san": [
+              "Nxb8",
+              "Rd8#"
+            ]
           },
           "b3b7": {
             "cp": 314,
@@ -3241,7 +4884,13 @@
               "b7c8",
               "e8e7"
             ],
-            "motif": "best"
+            "motif": "best",
+            "san": "Qb7",
+            "refutation_san": [
+              "f6",
+              "Qc8+",
+              "Ke7"
+            ]
           },
           "b3c3": {
             "cp": 306,
@@ -3251,7 +4900,13 @@
               "c3c8",
               "e8e7"
             ],
-            "motif": "best"
+            "motif": "best",
+            "san": "Qc3",
+            "refutation_san": [
+              "f6",
+              "Qc8+",
+              "Ke7"
+            ]
           },
           "b3b5": {
             "cp": 27,
@@ -3261,7 +4916,13 @@
               "g5e3",
               "e7d6"
             ],
-            "motif": "mistake"
+            "motif": "mistake",
+            "san": "Qb5",
+            "refutation_san": [
+              "Be7",
+              "Be3",
+              "Bd6"
+            ]
           },
           "d1d5": {
             "cp": 13,
@@ -3271,7 +4932,13 @@
               "g5e3",
               "e6c6"
             ],
-            "motif": "blunder"
+            "motif": "blunder",
+            "san": "Rd5",
+            "refutation_san": [
+              "f6",
+              "Be3",
+              "Qc6"
+            ]
           },
           "d1d7": {
             "cp": 0,
@@ -3281,7 +4948,13 @@
               "b3b7",
               "d7d6"
             ],
-            "motif": "blunder"
+            "motif": "blunder",
+            "san": "Rxd7",
+            "refutation_san": [
+              "Kxd7",
+              "Qb7+",
+              "Kd6"
+            ]
           },
           "b3a4": {
             "cp": -23,
@@ -3291,7 +4964,13 @@
               "d1d5",
               "c5b6"
             ],
-            "motif": "blunder"
+            "motif": "blunder",
+            "san": "Qa4",
+            "refutation_san": [
+              "Bc5",
+              "Rd5",
+              "Bb6"
+            ]
           },
           "g5e3": {
             "cp": -100,
@@ -3301,7 +4980,13 @@
               "a2b3",
               "e8e7"
             ],
-            "motif": "blunder"
+            "motif": "blunder",
+            "san": "Be3",
+            "refutation_san": [
+              "Qxb3",
+              "axb3",
+              "Ke7"
+            ]
           },
           "c2c4": {
             "cp": -105,
@@ -3311,7 +4996,13 @@
               "g5e3",
               "f8d6"
             ],
-            "motif": "blunder"
+            "motif": "blunder",
+            "san": "c4",
+            "refutation_san": [
+              "Qa6",
+              "Be3",
+              "Bd6"
+            ]
           },
           "b3e6": {
             "cp": -116,
@@ -3321,7 +5012,13 @@
               "f2f3",
               "f8c5"
             ],
-            "motif": "blunder"
+            "motif": "blunder",
+            "san": "Qxe6+",
+            "refutation_san": [
+              "fxe6",
+              "f3",
+              "Bc5"
+            ]
           },
           "b3d3": {
             "cp": -125,
@@ -3331,7 +5028,13 @@
               "d3b5",
               "c5d4"
             ],
-            "motif": "blunder"
+            "motif": "blunder",
+            "san": "Qd3",
+            "refutation_san": [
+              "Bc5",
+              "Qb5",
+              "Bd4"
+            ]
           },
           "c1d2": {
             "cp": -193,
@@ -3341,7 +5044,13 @@
               "a2b3",
               "f8c5"
             ],
-            "motif": "blunder"
+            "motif": "blunder",
+            "san": "Kd2",
+            "refutation_san": [
+              "Qxb3",
+              "axb3",
+              "Bc5"
+            ]
           },
           "c2c3": {
             "cp": -198,
@@ -3351,7 +5060,13 @@
               "a2b3",
               "f8c5"
             ],
-            "motif": "blunder"
+            "motif": "blunder",
+            "san": "c3",
+            "refutation_san": [
+              "Qxb3",
+              "axb3",
+              "Bc5"
+            ]
           },
           "f2f3": {
             "cp": -208,
@@ -3361,7 +5076,13 @@
               "a2b3",
               "f8c5"
             ],
-            "motif": "blunder"
+            "motif": "blunder",
+            "san": "f3",
+            "refutation_san": [
+              "Qxb3",
+              "axb3",
+              "Bc5"
+            ]
           },
           "g5d2": {
             "cp": -210,
@@ -3371,7 +5092,13 @@
               "a2b3",
               "f8c5"
             ],
-            "motif": "blunder"
+            "motif": "blunder",
+            "san": "Bd2",
+            "refutation_san": [
+              "Qxb3",
+              "axb3",
+              "Bc5"
+            ]
           },
           "c1b1": {
             "cp": -213,
@@ -3381,7 +5108,13 @@
               "a2b3",
               "f8c5"
             ],
-            "motif": "blunder"
+            "motif": "blunder",
+            "san": "Kb1",
+            "refutation_san": [
+              "Qxb3",
+              "axb3",
+              "Bc5"
+            ]
           },
           "d1d3": {
             "cp": -218,
@@ -3391,7 +5124,13 @@
               "a2b3",
               "f8c5"
             ],
-            "motif": "blunder"
+            "motif": "blunder",
+            "san": "Rd3",
+            "refutation_san": [
+              "Qxb3",
+              "axb3",
+              "Bc5"
+            ]
           },
           "b3f3": {
             "cp": -223,
@@ -3401,7 +5140,13 @@
               "g5h4",
               "g7g5"
             ],
-            "motif": "blunder"
+            "motif": "blunder",
+            "san": "Qf3",
+            "refutation_san": [
+              "h6",
+              "Bh4",
+              "g5"
+            ]
           },
           "b3g3": {
             "cp": -232,
@@ -3411,7 +5156,13 @@
               "g5d2",
               "e6a2"
             ],
-            "motif": "blunder"
+            "motif": "blunder",
+            "san": "Qg3",
+            "refutation_san": [
+              "h6",
+              "Bd2",
+              "Qxa2"
+            ]
           },
           "h2h3": {
             "cp": -234,
@@ -3421,7 +5172,13 @@
               "a2b3",
               "f8c5"
             ],
-            "motif": "blunder"
+            "motif": "blunder",
+            "san": "h3",
+            "refutation_san": [
+              "Qxb3",
+              "axb3",
+              "Bc5"
+            ]
           },
           "h2h4": {
             "cp": -234,
@@ -3431,7 +5188,13 @@
               "a2b3",
               "f8c5"
             ],
-            "motif": "blunder"
+            "motif": "blunder",
+            "san": "h4",
+            "refutation_san": [
+              "Qxb3",
+              "axb3",
+              "Bc5"
+            ]
           },
           "b3d5": {
             "cp": -237,
@@ -3441,7 +5204,13 @@
               "d1d5",
               "f8c5"
             ],
-            "motif": "blunder"
+            "motif": "blunder",
+            "san": "Qd5",
+            "refutation_san": [
+              "Qxd5",
+              "Rxd5",
+              "Bc5"
+            ]
           },
           "d1f1": {
             "cp": -251,
@@ -3451,7 +5220,13 @@
               "a2b3",
               "f8c5"
             ],
-            "motif": "blunder"
+            "motif": "blunder",
+            "san": "Rf1",
+            "refutation_san": [
+              "Qxb3",
+              "axb3",
+              "Bc5"
+            ]
           },
           "g5h4": {
             "cp": -256,
@@ -3461,7 +5236,13 @@
               "a2b3",
               "g7g5"
             ],
-            "motif": "blunder"
+            "motif": "blunder",
+            "san": "Bh4",
+            "refutation_san": [
+              "Qxb3",
+              "axb3",
+              "g5"
+            ]
           },
           "d1h1": {
             "cp": -257,
@@ -3471,7 +5252,13 @@
               "a2b3",
               "f8c5"
             ],
-            "motif": "blunder"
+            "motif": "blunder",
+            "san": "Rh1",
+            "refutation_san": [
+              "Qxb3",
+              "axb3",
+              "Bc5"
+            ]
           },
           "d1e1": {
             "cp": -257,
@@ -3481,7 +5268,13 @@
               "a2b3",
               "f8c5"
             ],
-            "motif": "blunder"
+            "motif": "blunder",
+            "san": "Re1",
+            "refutation_san": [
+              "Qxb3",
+              "axb3",
+              "Bc5"
+            ]
           },
           "d1d2": {
             "cp": -258,
@@ -3491,7 +5284,13 @@
               "c2b3",
               "f8c5"
             ],
-            "motif": "blunder"
+            "motif": "blunder",
+            "san": "Rd2",
+            "refutation_san": [
+              "Qxb3",
+              "cxb3",
+              "Bc5"
+            ]
           },
           "g2g3": {
             "cp": -271,
@@ -3501,7 +5300,13 @@
               "a2b3",
               "f8c5"
             ],
-            "motif": "blunder"
+            "motif": "blunder",
+            "san": "g3",
+            "refutation_san": [
+              "Qxb3",
+              "axb3",
+              "Bc5"
+            ]
           },
           "a2a4": {
             "cp": -275,
@@ -3511,7 +5316,13 @@
               "c2b3",
               "f7f6"
             ],
-            "motif": "blunder"
+            "motif": "blunder",
+            "san": "a4",
+            "refutation_san": [
+              "Qxb3",
+              "cxb3",
+              "f6"
+            ]
           },
           "d1g1": {
             "cp": -278,
@@ -3521,7 +5332,13 @@
               "a2b3",
               "f8c5"
             ],
-            "motif": "blunder"
+            "motif": "blunder",
+            "san": "Rg1",
+            "refutation_san": [
+              "Qxb3",
+              "axb3",
+              "Bc5"
+            ]
           },
           "a2a3": {
             "cp": -291,
@@ -3531,7 +5348,13 @@
               "c2b3",
               "f8c5"
             ],
-            "motif": "blunder"
+            "motif": "blunder",
+            "san": "a3",
+            "refutation_san": [
+              "Qxb3",
+              "cxb3",
+              "Bc5"
+            ]
           },
           "b3e3": {
             "cp": -296,
@@ -3541,7 +5364,13 @@
               "e3a7",
               "f6g5"
             ],
-            "motif": "blunder"
+            "motif": "blunder",
+            "san": "Qe3",
+            "refutation_san": [
+              "f6",
+              "Qxa7",
+              "fxg5"
+            ]
           },
           "b3h3": {
             "cp": -322,
@@ -3551,7 +5380,13 @@
               "g2h3",
               "f8c5"
             ],
-            "motif": "blunder"
+            "motif": "blunder",
+            "san": "Qh3",
+            "refutation_san": [
+              "Qxh3",
+              "gxh3",
+              "Bc5"
+            ]
           },
           "f2f4": {
             "cp": -340,
@@ -3561,7 +5396,13 @@
               "a2b3",
               "f7f6"
             ],
-            "motif": "blunder"
+            "motif": "blunder",
+            "san": "f4",
+            "refutation_san": [
+              "Qxb3",
+              "axb3",
+              "f6"
+            ]
           },
           "g2g4": {
             "cp": -349,
@@ -3571,7 +5412,13 @@
               "a2b3",
               "h7h5"
             ],
-            "motif": "blunder"
+            "motif": "blunder",
+            "san": "g4",
+            "refutation_san": [
+              "Qxb3",
+              "axb3",
+              "h5"
+            ]
           },
           "g5f6": {
             "cp": -494,
@@ -3581,7 +5428,13 @@
               "a2b3",
               "g7f6"
             ],
-            "motif": "blunder"
+            "motif": "blunder",
+            "san": "Bf6",
+            "refutation_san": [
+              "Qxb3",
+              "axb3",
+              "gxf6"
+            ]
           },
           "g5e7": {
             "cp": -537,
@@ -3591,7 +5444,13 @@
               "a2b3",
               "e8e7"
             ],
-            "motif": "blunder"
+            "motif": "blunder",
+            "san": "Be7",
+            "refutation_san": [
+              "Qxb3",
+              "axb3",
+              "Kxe7"
+            ]
           },
           "d1d4": {
             "cp": -553,
@@ -3601,7 +5460,13 @@
               "b3b7",
               "f7f6"
             ],
-            "motif": "blunder"
+            "motif": "blunder",
+            "san": "Rd4",
+            "refutation_san": [
+              "exd4",
+              "Qb7",
+              "f6"
+            ]
           },
           "g5h6": {
             "cp": -565,
@@ -3611,7 +5476,13 @@
               "a2b3",
               "g7h6"
             ],
-            "motif": "blunder"
+            "motif": "blunder",
+            "san": "Bh6",
+            "refutation_san": [
+              "Qxb3",
+              "axb3",
+              "gxh6"
+            ]
           },
           "g5d8": {
             "cp": -567,
@@ -3621,7 +5492,13 @@
               "a2b3",
               "e8d8"
             ],
-            "motif": "blunder"
+            "motif": "blunder",
+            "san": "Bd8",
+            "refutation_san": [
+              "Qxb3",
+              "axb3",
+              "Kxd8"
+            ]
           },
           "g5f4": {
             "cp": -588,
@@ -3631,7 +5508,13 @@
               "a2b3",
               "e5f4"
             ],
-            "motif": "blunder"
+            "motif": "blunder",
+            "san": "Bf4",
+            "refutation_san": [
+              "Qxb3",
+              "axb3",
+              "exf4"
+            ]
           },
           "d1d6": {
             "cp": -662,
@@ -3641,7 +5524,13 @@
               "c2c3",
               "e8g8"
             ],
-            "motif": "blunder"
+            "motif": "blunder",
+            "san": "Rd6",
+            "refutation_san": [
+              "Bxd6",
+              "c3",
+              "O-O"
+            ]
           },
           "b3a3": {
             "cp": -743,
@@ -3651,7 +5540,13 @@
               "b2a3",
               "e6a2"
             ],
-            "motif": "blunder"
+            "motif": "blunder",
+            "san": "Qa3",
+            "refutation_san": [
+              "Bxa3",
+              "bxa3",
+              "Qxa2"
+            ]
           },
           "b3b6": {
             "cp": -756,
@@ -3661,7 +5556,13 @@
               "g5e3",
               "b6b7"
             ],
-            "motif": "blunder"
+            "motif": "blunder",
+            "san": "Qb6",
+            "refutation_san": [
+              "Qxb6",
+              "Be3",
+              "Qb7"
+            ]
           },
           "b3b4": {
             "cp": -794,
@@ -3671,7 +5572,13 @@
               "a2a3",
               "f7f6"
             ],
-            "motif": "blunder"
+            "motif": "blunder",
+            "san": "Qb4",
+            "refutation_san": [
+              "Bxb4",
+              "a3",
+              "f6"
+            ]
           },
           "b3c4": {
             "cp": -808,
@@ -3681,7 +5588,13 @@
               "a2a3",
               "c4c8"
             ],
-            "motif": "blunder"
+            "motif": "blunder",
+            "san": "Qc4",
+            "refutation_san": [
+              "Qxc4",
+              "a3",
+              "Qc8"
+            ]
           }
         },
         "annotation": "Qb8+!! is the famous queen sacrifice — the knight is forced to take, abandoning the d-file, and the rook mates on the back rank. The greedy Qb7 and Qc3 keep a big edge but miss the forced mate; Qb5 and Rd5 are much worse.",
@@ -3723,7 +5636,9 @@
             "cp": null,
             "mate": 1,
             "refutation_pv": [],
-            "motif": "best"
+            "motif": "best",
+            "san": "Rd8#",
+            "refutation_san": []
           },
           "f2f4": {
             "cp": -644,
@@ -3733,7 +5648,13 @@
               "f4e5",
               "e6a2"
             ],
-            "motif": "best"
+            "motif": "best",
+            "san": "f4",
+            "refutation_san": [
+              "Nc6",
+              "fxe5",
+              "Qxa2"
+            ]
           },
           "g5h4": {
             "cp": -689,
@@ -3743,7 +5664,13 @@
               "f2f4",
               "e6a2"
             ],
-            "motif": "ok"
+            "motif": "ok",
+            "san": "Bh4",
+            "refutation_san": [
+              "Nc6",
+              "f4",
+              "Qxa2"
+            ]
           },
           "c1b1": {
             "cp": -797,
@@ -3753,7 +5680,13 @@
               "f2f4",
               "f7f6"
             ],
-            "motif": "mistake"
+            "motif": "mistake",
+            "san": "Kb1",
+            "refutation_san": [
+              "Nc6",
+              "f4",
+              "f6"
+            ]
           },
           "g5e3": {
             "cp": -805,
@@ -3763,7 +5696,13 @@
               "c2c3",
               "b8c6"
             ],
-            "motif": "mistake"
+            "motif": "mistake",
+            "san": "Be3",
+            "refutation_san": [
+              "Qxa2",
+              "c3",
+              "Nc6"
+            ]
           },
           "b2b4": {
             "cp": -815,
@@ -3773,7 +5712,13 @@
               "b4b5",
               "c6d4"
             ],
-            "motif": "mistake"
+            "motif": "mistake",
+            "san": "b4",
+            "refutation_san": [
+              "Nc6",
+              "b5",
+              "Nd4"
+            ]
           },
           "c2c3": {
             "cp": -817,
@@ -3783,7 +5728,13 @@
               "f2f4",
               "f7f6"
             ],
-            "motif": "mistake"
+            "motif": "mistake",
+            "san": "c3",
+            "refutation_san": [
+              "Nc6",
+              "f4",
+              "f6"
+            ]
           },
           "g2g4": {
             "cp": -822,
@@ -3793,7 +5744,13 @@
               "c2c3",
               "e6g4"
             ],
-            "motif": "mistake"
+            "motif": "mistake",
+            "san": "g4",
+            "refutation_san": [
+              "Nc6",
+              "c3",
+              "Qxg4"
+            ]
           },
           "a2a3": {
             "cp": -830,
@@ -3803,7 +5760,13 @@
               "g5e3",
               "f7f6"
             ],
-            "motif": "mistake"
+            "motif": "mistake",
+            "san": "a3",
+            "refutation_san": [
+              "Nc6",
+              "Be3",
+              "f6"
+            ]
           },
           "h2h4": {
             "cp": -831,
@@ -3813,7 +5776,13 @@
               "a2a3",
               "b8c6"
             ],
-            "motif": "mistake"
+            "motif": "mistake",
+            "san": "h4",
+            "refutation_san": [
+              "f6",
+              "a3",
+              "Nc6"
+            ]
           },
           "d1d5": {
             "cp": -832,
@@ -3823,7 +5792,13 @@
               "g5e3",
               "b8c6"
             ],
-            "motif": "mistake"
+            "motif": "mistake",
+            "san": "Rd5",
+            "refutation_san": [
+              "f6",
+              "Be3",
+              "Nc6"
+            ]
           },
           "b2b3": {
             "cp": -845,
@@ -3833,7 +5808,13 @@
               "g5e3",
               "f7f6"
             ],
-            "motif": "mistake"
+            "motif": "mistake",
+            "san": "b3",
+            "refutation_san": [
+              "Nc6",
+              "Be3",
+              "f6"
+            ]
           },
           "f2f3": {
             "cp": -845,
@@ -3843,7 +5824,13 @@
               "c1b1",
               "f7f6"
             ],
-            "motif": "mistake"
+            "motif": "mistake",
+            "san": "f3",
+            "refutation_san": [
+              "Nc6",
+              "Kb1",
+              "f6"
+            ]
           },
           "g5d8": {
             "cp": -845,
@@ -3853,7 +5840,13 @@
               "d8c7",
               "e6c8"
             ],
-            "motif": "mistake"
+            "motif": "mistake",
+            "san": "Bd8",
+            "refutation_san": [
+              "Nc6",
+              "Bc7",
+              "Qc8"
+            ]
           },
           "g2g3": {
             "cp": -848,
@@ -3863,7 +5856,13 @@
               "a2a3",
               "b8c6"
             ],
-            "motif": "mistake"
+            "motif": "mistake",
+            "san": "g3",
+            "refutation_san": [
+              "f6",
+              "a3",
+              "Nc6"
+            ]
           },
           "a2a4": {
             "cp": -848,
@@ -3873,7 +5872,13 @@
               "c1b1",
               "e6c8"
             ],
-            "motif": "mistake"
+            "motif": "mistake",
+            "san": "a4",
+            "refutation_san": [
+              "Nc6",
+              "Kb1",
+              "Qc8"
+            ]
           },
           "g5d2": {
             "cp": -848,
@@ -3883,7 +5888,13 @@
               "c2c4",
               "b8c6"
             ],
-            "motif": "mistake"
+            "motif": "mistake",
+            "san": "Bd2",
+            "refutation_san": [
+              "Qxa2",
+              "c4",
+              "Nc6"
+            ]
           },
           "h2h3": {
             "cp": -849,
@@ -3893,7 +5904,13 @@
               "c1b1",
               "f7f6"
             ],
-            "motif": "mistake"
+            "motif": "mistake",
+            "san": "h3",
+            "refutation_san": [
+              "Nc6",
+              "Kb1",
+              "f6"
+            ]
           },
           "d1d3": {
             "cp": -853,
@@ -3903,7 +5920,13 @@
               "g5d2",
               "b8c6"
             ],
-            "motif": "mistake"
+            "motif": "mistake",
+            "san": "Rd3",
+            "refutation_san": [
+              "f6",
+              "Bd2",
+              "Nc6"
+            ]
           },
           "d1d2": {
             "cp": -859,
@@ -3913,7 +5936,13 @@
               "c2c3",
               "b8c6"
             ],
-            "motif": "mistake"
+            "motif": "mistake",
+            "san": "Rd2",
+            "refutation_san": [
+              "f6",
+              "c3",
+              "Nc6"
+            ]
           },
           "c2c4": {
             "cp": -879,
@@ -3923,7 +5952,13 @@
               "c1b1",
               "c4e4"
             ],
-            "motif": "mistake"
+            "motif": "mistake",
+            "san": "c4",
+            "refutation_san": [
+              "Qxc4+",
+              "Kb1",
+              "Qxe4+"
+            ]
           },
           "c1d2": {
             "cp": -882,
@@ -3933,7 +5968,13 @@
               "d2e1",
               "f7f6"
             ],
-            "motif": "mistake"
+            "motif": "mistake",
+            "san": "Kd2",
+            "refutation_san": [
+              "Nc6",
+              "Ke1",
+              "f6"
+            ]
           },
           "d1e1": {
             "cp": -887,
@@ -3943,7 +5984,13 @@
               "c2c3",
               "f7f6"
             ],
-            "motif": "mistake"
+            "motif": "mistake",
+            "san": "Re1",
+            "refutation_san": [
+              "Qxa2",
+              "c3",
+              "f6"
+            ]
           },
           "d1g1": {
             "cp": -887,
@@ -3953,7 +6000,13 @@
               "c2c3",
               "f7f6"
             ],
-            "motif": "mistake"
+            "motif": "mistake",
+            "san": "Rg1",
+            "refutation_san": [
+              "Qxa2",
+              "c3",
+              "f6"
+            ]
           },
           "g5f6": {
             "cp": -887,
@@ -3963,7 +6016,13 @@
               "f6g5",
               "f7f6"
             ],
-            "motif": "mistake"
+            "motif": "mistake",
+            "san": "Bf6",
+            "refutation_san": [
+              "Nc6",
+              "Bg5",
+              "f6"
+            ]
           },
           "d1h1": {
             "cp": -888,
@@ -3973,7 +6032,13 @@
               "h1d1",
               "f7f6"
             ],
-            "motif": "mistake"
+            "motif": "mistake",
+            "san": "Rh1",
+            "refutation_san": [
+              "Qxa2",
+              "Rd1",
+              "f6"
+            ]
           },
           "d1f1": {
             "cp": -896,
@@ -3983,7 +6048,13 @@
               "c2c3",
               "f7f6"
             ],
-            "motif": "mistake"
+            "motif": "mistake",
+            "san": "Rf1",
+            "refutation_san": [
+              "Qxa2",
+              "c3",
+              "f6"
+            ]
           },
           "g5f4": {
             "cp": -907,
@@ -3993,7 +6064,13 @@
               "c1b1",
               "b8c6"
             ],
-            "motif": "mistake"
+            "motif": "mistake",
+            "san": "Bf4",
+            "refutation_san": [
+              "exf4",
+              "Kb1",
+              "Nc6"
+            ]
           },
           "g5h6": {
             "cp": -931,
@@ -4003,7 +6080,13 @@
               "c1b1",
               "h6e6"
             ],
-            "motif": "mistake"
+            "motif": "mistake",
+            "san": "Bh6",
+            "refutation_san": [
+              "Qxh6+",
+              "Kb1",
+              "Qe6"
+            ]
           },
           "g5e7": {
             "cp": -972,
@@ -4013,7 +6096,13 @@
               "f2f4",
               "b8c6"
             ],
-            "motif": "blunder"
+            "motif": "blunder",
+            "san": "Be7",
+            "refutation_san": [
+              "Bxe7",
+              "f4",
+              "Nc6"
+            ]
           },
           "d1d4": {
             "cp": -1013,
@@ -4023,7 +6112,13 @@
               "f2f4",
               "b8c6"
             ],
-            "motif": "blunder"
+            "motif": "blunder",
+            "san": "Rd4",
+            "refutation_san": [
+              "exd4",
+              "f4",
+              "Nc6"
+            ]
           },
           "d1d7": {
             "cp": -1029,
@@ -4033,7 +6128,13 @@
               "a2a4",
               "f7f6"
             ],
-            "motif": "blunder"
+            "motif": "blunder",
+            "san": "Rd7",
+            "refutation_san": [
+              "Nxd7",
+              "a4",
+              "f6"
+            ]
           },
           "d1d6": {
             "cp": -1037,
@@ -4043,7 +6144,13 @@
               "g5e3",
               "b8c6"
             ],
-            "motif": "blunder"
+            "motif": "blunder",
+            "san": "Rd6",
+            "refutation_san": [
+              "Bxd6",
+              "Be3",
+              "Nc6"
+            ]
           }
         },
         "annotation": "Rd8#!! is the storybook finish — with the knight no longer guarding the back rank, the rook crashes in to deliver mate. Every other move — f4, Bh4, Kb1, Be3 — throws away the whole game.",
