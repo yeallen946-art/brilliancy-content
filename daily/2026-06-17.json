@@ -931,12 +931,12 @@
             ]
           }
         },
-        "annotation": "Qd8+!! hurls the queen onto an empty square to tear open the king. Black is forced to take, and the bishop and rook then hunt the king down to mate. The quiet Re1 keeps an edge but misses the kill; Nf3, Bb4, and Qe2 all let Black escape with the extra piece.",
+        "annotation": "Qd8+!! gives up the queen on an empty square - Black's king has to capture, and the engine confirms a forced mate in three. This is the only move that wins on the spot; every quieter try lets the moment pass.",
         "alt_annotations": {
-          "d1e1": "Sensible and still a touch better for White, but it misses the forced mate that starts with Qd8+.",
-          "g1f3": "Too slow: Black's queen escapes with tempo and grabs a pawn, taking over.",
-          "d2b4": "Loose and passive — Black calmly develops and stays firmly on top.",
-          "d3e2": "Retreating the queen concedes the initiative; Black is comfortably better."
+          "d1e1": "Re1 keeps a small plus and is the engine's pick among the quiet moves, but the moment passes - Black untangles and the game goes on.",
+          "g1f3": "Nf3 develops, but Black's queen slips away with tempo and even grabs a pawn on the queenside - the line ends with Black on top.",
+          "d2b4": "Bb4 eyes the dark squares, but it hands Black time to develop and shore up the defense - the attack never lands.",
+          "d3e2": "Qe2 saves the queen but concedes the initiative; Black develops comfortably and stands clearly better."
         }
       },
       {
@@ -1437,12 +1437,12 @@
             ]
           }
         },
-        "annotation": "Bg5+!! is the only move that justifies the queen sacrifice. It drives the king to the side, where the bishop delivers mate next while the rook guards the file. Every alternative leaves White a whole queen down: Nf3, Ba5+, Bf4+, and Bc3+ all simply lose.",
+        "annotation": "Bg5+!! is the point of the queen sacrifice: a check Black can only answer by walking the king out, and the engine shows forced mate next move. The alternatives leave Black firmly in control - this is the only move that justifies what came before.",
         "alt_annotations": {
-          "g1f3": "Develops, but White is a queen down with no follow-up — Black is winning.",
-          "d2a5": "A check, but unlike Bg5+ it doesn't lead to mate — the king escapes and White stays a queen down.",
-          "d2f4": "Another check, yet it doesn't trap the king, and White is still a queen down.",
-          "d2c3": "Same problem: a check with no mate behind it, and White is lost."
+          "g1f3": "Nf3 lets the attack stall; Black weathers the storm, gives some material back on his own terms, and comes out clearly on top.",
+          "d2a5": "Ba5+ is a check Black meets calmly - the king steps aside and the attack runs out of steam with White far behind.",
+          "d2f4": "Bf4+ picks the queen back up after the check, but Black's counterblows land first - the engine has Black clearly winning.",
+          "d2c3": "Bc3+ is the same regain-the-queen idea, and it fails the same way: Black keeps the initiative and White ends up lost."
         }
       },
       {
@@ -2049,12 +2049,12 @@
             ]
           }
         },
-        "annotation": "Bd8#!! completes the mate — the dark-squared bishop gives check while the rook on the open file cuts off the king's escape. Be3, Nf3, f4, and Nh3 all throw the game away and leave White a queen down.",
+        "annotation": "Bd8# - the bishop delivers mate while the rook covers the king's escape squares, and the queen sacrifice is fully repaid. The quiet tries instead simply lose: the attack evaporates and Black takes over.",
         "alt_annotations": {
-          "g5e3": "Retreating wastes the mate in one; White is suddenly losing.",
-          "g1f3": "Ignores the mate in one — now Black is winning.",
-          "f2f4": "A blunder that gives up the forced mate entirely.",
-          "g1h3": "Develops the wrong piece and lets the whole attack evaporate."
+          "g5e3": "Be3 trades blows and leaves Black clearly winning - the moment for the finish is gone.",
+          "g1f3": "Nf3 lets Black force a queen trade and grab the bishop; the endgame is lost for White.",
+          "f2f4": "f4 chases the queen but the bishop falls - Black wins comfortably.",
+          "g1h3": "Nh3 develops the wrong piece at the wrong time; the bishop falls and the game with it."
         }
       }
     ]
