@@ -12,6 +12,8 @@
     "title": "The Opera Game",
     "narrative_intro": "Paris Opera House, 1858. Paul Morphy, the American prodigy, is at the board with White against two aristocrats sharing the black pieces. They would rather watch the opera — and Morphy is about to make the game very short. You are White.",
     "ply_count": 33,
+    "title_zh": "歌剧院之局",
+    "narrative_intro_zh": "1858年,巴黎歌剧院。美国天才保罗·莫菲执白,对面是合执黑棋的两位贵族。他们更想看歌剧,而莫菲即将让这盘棋变得非常短。你执白。",
     "moves": [
       {
         "ply": 1,
@@ -25,7 +27,9 @@
         "eval_mate": null,
         "legal_evals": {},
         "annotation": null,
-        "alt_annotations": {}
+        "alt_annotations": {},
+        "annotation_zh": null,
+        "alt_annotations_zh": {}
       },
       {
         "ply": 2,
@@ -39,7 +43,9 @@
         "eval_mate": null,
         "legal_evals": {},
         "annotation": null,
-        "alt_annotations": {}
+        "alt_annotations": {},
+        "annotation_zh": null,
+        "alt_annotations_zh": {}
       },
       {
         "ply": 3,
@@ -53,7 +59,9 @@
         "eval_mate": null,
         "legal_evals": {},
         "annotation": null,
-        "alt_annotations": {}
+        "alt_annotations": {},
+        "annotation_zh": null,
+        "alt_annotations_zh": {}
       },
       {
         "ply": 4,
@@ -67,7 +75,9 @@
         "eval_mate": null,
         "legal_evals": {},
         "annotation": null,
-        "alt_annotations": {}
+        "alt_annotations": {},
+        "annotation_zh": null,
+        "alt_annotations_zh": {}
       },
       {
         "ply": 5,
@@ -81,7 +91,9 @@
         "eval_mate": null,
         "legal_evals": {},
         "annotation": null,
-        "alt_annotations": {}
+        "alt_annotations": {},
+        "annotation_zh": null,
+        "alt_annotations_zh": {}
       },
       {
         "ply": 6,
@@ -95,7 +107,9 @@
         "eval_mate": null,
         "legal_evals": {},
         "annotation": null,
-        "alt_annotations": {}
+        "alt_annotations": {},
+        "annotation_zh": null,
+        "alt_annotations_zh": {}
       },
       {
         "ply": 7,
@@ -109,7 +123,9 @@
         "eval_mate": null,
         "legal_evals": {},
         "annotation": null,
-        "alt_annotations": {}
+        "alt_annotations": {},
+        "annotation_zh": null,
+        "alt_annotations_zh": {}
       },
       {
         "ply": 8,
@@ -123,7 +139,9 @@
         "eval_mate": null,
         "legal_evals": {},
         "annotation": null,
-        "alt_annotations": {}
+        "alt_annotations": {},
+        "annotation_zh": null,
+        "alt_annotations_zh": {}
       },
       {
         "ply": 9,
@@ -137,7 +155,9 @@
         "eval_mate": null,
         "legal_evals": {},
         "annotation": null,
-        "alt_annotations": {}
+        "alt_annotations": {},
+        "annotation_zh": null,
+        "alt_annotations_zh": {}
       },
       {
         "ply": 10,
@@ -151,7 +171,9 @@
         "eval_mate": null,
         "legal_evals": {},
         "annotation": null,
-        "alt_annotations": {}
+        "alt_annotations": {},
+        "annotation_zh": null,
+        "alt_annotations_zh": {}
       },
       {
         "ply": 11,
@@ -165,7 +187,9 @@
         "eval_mate": null,
         "legal_evals": {},
         "annotation": null,
-        "alt_annotations": {}
+        "alt_annotations": {},
+        "annotation_zh": null,
+        "alt_annotations_zh": {}
       },
       {
         "ply": 12,
@@ -179,7 +203,9 @@
         "eval_mate": null,
         "legal_evals": {},
         "annotation": null,
-        "alt_annotations": {}
+        "alt_annotations": {},
+        "annotation_zh": null,
+        "alt_annotations_zh": {}
       },
       {
         "ply": 13,
@@ -193,7 +219,9 @@
         "eval_mate": null,
         "legal_evals": {},
         "annotation": null,
-        "alt_annotations": {}
+        "alt_annotations": {},
+        "annotation_zh": null,
+        "alt_annotations_zh": {}
       },
       {
         "ply": 14,
@@ -207,7 +235,9 @@
         "eval_mate": null,
         "legal_evals": {},
         "annotation": null,
-        "alt_annotations": {}
+        "alt_annotations": {},
+        "annotation_zh": null,
+        "alt_annotations_zh": {}
       },
       {
         "ply": 15,
@@ -221,7 +251,9 @@
         "eval_mate": null,
         "legal_evals": {},
         "annotation": null,
-        "alt_annotations": {}
+        "alt_annotations": {},
+        "annotation_zh": null,
+        "alt_annotations_zh": {}
       },
       {
         "ply": 16,
@@ -235,7 +267,9 @@
         "eval_mate": null,
         "legal_evals": {},
         "annotation": null,
-        "alt_annotations": {}
+        "alt_annotations": {},
+        "annotation_zh": null,
+        "alt_annotations_zh": {}
       },
       {
         "ply": 17,
@@ -913,6 +947,13 @@
           "a2a4": "a4 is a useful clamp but too slow; Black develops and the advantage shrinks.",
           "e1g1": "O-O is safe, but it spends the critical moment - Black gets coordinated and White's edge fades.",
           "g2g4": "g4 is ambitious but loosening; Black counters on the queenside and the advantage dwindles."
+        },
+        "annotation_zh": "Bg5 调出最后一个轻子,黑方继续被压制——王还留在中路,出子大幅落后。引擎评 +2.5,白方明显占优;慢吞吞的替代着法只会让黑方开始解套。",
+        "alt_annotations_zh": {
+          "c1e3": "Be3 扎实但偏慢——黑方在后翼反击,把一部分压力兑换掉。",
+          "a2a4": "a4 是有用的限制,但太慢;黑方完成出子,优势缩水。",
+          "e1g1": "O-O 安全,却花掉了最关键的一手;黑方调整好阵型,白方的优势褪色。",
+          "g2g4": "g4 有野心但松动;黑方在后翼反扑,优势越来越小。"
         }
       },
       {
@@ -927,7 +968,9 @@
         "eval_mate": null,
         "legal_evals": {},
         "annotation": null,
-        "alt_annotations": {}
+        "alt_annotations": {},
+        "annotation_zh": null,
+        "alt_annotations_zh": {}
       },
       {
         "ply": 19,
@@ -1637,6 +1680,13 @@
           "c4b5": "Bxb5 wins the pawn the slow way - after the recapture the attack is gone and it's nearly level.",
           "c4e2": "Be2 is too modest; Black completes development and White's initiative disappears.",
           "c4d5": "Bd5 looks flashy but Black just accepts - the trades leave only a tiny edge."
+        },
+        "annotation_zh": "Nxb5! 吃下一兵,正好撕开黑方想要扩张的后翼。即使黑方祭出最佳防守——连将加兑后——白方仍有 +3.3,攻势不停。",
+        "alt_annotations_zh": {
+          "g5f6": "Bxf6 兑掉防守者为时过早;黑方回吃后得以巩固,优势缩小。",
+          "c4b5": "Bxb5 用慢办法得兵——黑方回吃后攻势消失,局面几乎拉平。",
+          "c4e2": "Be2 太保守;黑方完成出子,白方的主动权不见了。",
+          "c4d5": "Bd5 看着唬人,黑方照单全收——一连串兑换后只剩微弱优势。"
         }
       },
       {
@@ -1651,7 +1701,9 @@
         "eval_mate": null,
         "legal_evals": {},
         "annotation": null,
-        "alt_annotations": {}
+        "alt_annotations": {},
+        "annotation_zh": null,
+        "alt_annotations_zh": {}
       },
       {
         "ply": 21,
@@ -1665,7 +1717,9 @@
         "eval_mate": null,
         "legal_evals": {},
         "annotation": null,
-        "alt_annotations": {}
+        "alt_annotations": {},
+        "annotation_zh": null,
+        "alt_annotations_zh": {}
       },
       {
         "ply": 22,
@@ -1679,7 +1733,9 @@
         "eval_mate": null,
         "legal_evals": {},
         "annotation": null,
-        "alt_annotations": {}
+        "alt_annotations": {},
+        "annotation_zh": null,
+        "alt_annotations_zh": {}
       },
       {
         "ply": 23,
@@ -2484,6 +2540,12 @@
           "g5f6": "Bxf6 is still clearly better for White, but it releases the grip a notch - the precise move order matters here.",
           "a2a3": "a3 is far too slow; Black's queen finds counterplay and most of the advantage is gone.",
           "e1g1": "O-O castles into the wrong plan: Black's queen check turns into a raid that costs White heavily in the line."
+        },
+        "annotation_zh": "长易位一步两用:王进入安全区,车带着威胁直接参战。引擎 +5.5,白方全军压上,黑方防线已被拉到极限。",
+        "alt_annotations_zh": {
+          "g5f6": "Bxf6 依旧明显占优,但兑得太早,钳制松了一格——这里讲究先后次序。",
+          "a2a3": "a3 太慢;黑后找到反击,优势所剩无几。",
+          "e1g1": "O-O 易错了方向:黑后的将军演变成一场突袭,这条变化里白方损失惨重。"
         }
       },
       {
@@ -2498,7 +2560,9 @@
         "eval_mate": null,
         "legal_evals": {},
         "annotation": null,
-        "alt_annotations": {}
+        "alt_annotations": {},
+        "annotation_zh": null,
+        "alt_annotations_zh": {}
       },
       {
         "ply": 25,
@@ -3336,6 +3400,13 @@
           "b5a4": "Ba4 is a fine regrouping idea, but it gives Black a breath; still better for White, much less forcing.",
           "d1d5": "Rd5 invites harassment; Black gains time and hangs on.",
           "c1b1": "Kb1 is a tidy safety move, but the position asks for action - Black gets to reinforce."
+        },
+        "annotation_zh": "Rxd7! 掀掉防守支柱。黑方必须回吃,随后的强制序列让白方赢得子力、攻势不减——引擎 +5.4 还在上涨。慢着法只会给黑方喘息。",
+        "alt_annotations_zh": {
+          "d1d3": "Rd3 保有大优,却送给黑方整顿的一手——赢棋要多熬很久。",
+          "b5a4": "Ba4 的调度想法不错,可惜慢了半拍;白方仍占优,但强制性差了许多。",
+          "d1d5": "Rd5 招致驱赶;黑方借步数撑住局面。",
+          "c1b1": "Kb1 是稳妥的整理,但局面要的是行动——黑方得以补防。"
         }
       },
       {
@@ -3350,7 +3421,9 @@
         "eval_mate": null,
         "legal_evals": {},
         "annotation": null,
-        "alt_annotations": {}
+        "alt_annotations": {},
+        "annotation_zh": null,
+        "alt_annotations_zh": {}
       },
       {
         "ply": 27,
@@ -4044,6 +4117,13 @@
           "c2c3": "c3 is a quiet move when the position demands urgency; Black reorganizes.",
           "b5a4": "Ba4 retreats at the key moment; the attack cools and Black holds together longer.",
           "f2f4": "f4 opens lines Black can use too; the advantage drops sharply."
+        },
+        "annotation_zh": "Rd1 把最后一个子调入攻击,势头丝毫不减。引擎 +5.2,黑方找不到解套的办法;任何替代方案都会给防守留出呼吸空间。",
+        "alt_annotations_zh": {
+          "g5f6": "Bxf6 兑现太早——一串交换让黑方的防守松了口气;白方仍优,钳制却松了。",
+          "c2c3": "c3 在需要紧迫感的时刻下了一步闲棋;黑方重新组织。",
+          "b5a4": "Ba4 在关键时刻后撤;攻势降温,黑方的防线能撑得更久。",
+          "f2f4": "f4 打开的线路黑方同样能利用;优势骤降。"
         }
       },
       {
@@ -4058,7 +4138,9 @@
         "eval_mate": null,
         "legal_evals": {},
         "annotation": null,
-        "alt_annotations": {}
+        "alt_annotations": {},
+        "annotation_zh": null,
+        "alt_annotations_zh": {}
       },
       {
         "ply": 29,
@@ -4832,6 +4914,13 @@
           "b3c3": "Qc3 keeps a large advantage but releases the pressure for a moment, and Black gets options.",
           "d1d7": "Rxd7 is the right capture with the wrong piece: Black's queen strikes back at White's and the win turns messy.",
           "b3e6": "Qxe6+ trades queens and wins a piece in the line, but the attack loses its punch - much less than the master's move."
+        },
+        "annotation_zh": "Bxd7+ 逼出回吃,黑王继续暴露,强制变化中白方赢得子力——引擎 +7.0,终局在望。",
+        "alt_annotations_zh": {
+          "g5f6": "Bxf6 几乎同样有力——两步都赢——但实战着法是最强制的一条路。",
+          "b3c3": "Qc3 保有大优,却让压力松了一拍,黑方有了选择余地。",
+          "d1d7": "Rxd7 吃对了格子却用错了子:黑后反咬白后,赢棋变得拖泥带水。",
+          "b3e6": "Qxe6+ 兑后并在变化中得子,但攻势失去锋芒——比实战着法差了不少。"
         }
       },
       {
@@ -4846,7 +4935,9 @@
         "eval_mate": null,
         "legal_evals": {},
         "annotation": null,
-        "alt_annotations": {}
+        "alt_annotations": {},
+        "annotation_zh": null,
+        "alt_annotations_zh": {}
       },
       {
         "ply": 31,
@@ -5602,6 +5693,13 @@
           "b3c3": "Qc3 is the same story: still much better for White, but the forced finish slips away.",
           "b3b5": "Qb5 walks into Black's regrouping; nearly all of the advantage evaporates.",
           "d1d5": "Rd5 loses the thread entirely - Black consolidates and the game is level again."
+        },
+        "annotation_zh": "Qb8+!! 弃后——马被迫吃下,这一记调离就足够了:引擎确认下一步强制将杀。稳妥的撤后保有大优,却放走了强制终局。",
+        "alt_annotations_zh": {
+          "b3b7": "Qb7 保持大优,但防守还能继续——立刻终结的机会没了。",
+          "b3c3": "Qc3 同理:白方仍然大优,强制收官却溜走了。",
+          "b3b5": "Qb5 撞上黑方的重组;优势几乎蒸发殆尽。",
+          "d1d5": "Rd5 完全丢掉主线——黑方巩固之后,局面重回均势。"
         }
       },
       {
@@ -5616,7 +5714,9 @@
         "eval_mate": null,
         "legal_evals": {},
         "annotation": null,
-        "alt_annotations": {}
+        "alt_annotations": {},
+        "annotation_zh": null,
+        "alt_annotations_zh": {}
       },
       {
         "ply": 33,
@@ -6158,6 +6258,13 @@
           "g5h4": "Bh4 retreats into a lost position; Black takes over completely.",
           "c1b1": "Kb1 passes - Black mobilizes and wins.",
           "g5e3": "Be3 lets Black's queen snap off a pawn, and the attack flips the other way."
+        },
+        "annotation_zh": "Rd8#——车完成将杀,象封锁王的逃格,弃后组合画上句号。其他任何着法都把胜局拱手让人:黑方的反击立刻接管棋盘。",
+        "alt_annotations_zh": {
+          "f2f4": "f4 放弃了终结,直接陷入败局——黑后四处劫掠,阵型崩塌。",
+          "g5h4": "Bh4 退进一个难以挽回的局面;黑方全面接管。",
+          "c1b1": "Kb1 等于弃权一手——黑方调兵遣将,胜负易主。",
+          "g5e3": "Be3 让黑后顺手叼走一兵,攻守瞬间易位。"
         }
       }
     ]

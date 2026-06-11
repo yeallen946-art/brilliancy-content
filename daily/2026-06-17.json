@@ -12,6 +12,8 @@
     "title": "Reti's Bishop-and-Rook Mate",
     "narrative_intro": "Vienna, 1910. Richard Reti, soon to be a hypermodern pioneer, has White against Savielly Tartakower. Black has just grabbed a knight on e4, expecting a normal game — but the position is about to detonate. You are White.",
     "ply_count": 21,
+    "title_zh": "雷蒂的象车将杀",
+    "narrative_intro_zh": "1910年,维也纳。即将开创超现代学派的理查德·雷蒂执白,对阵萨维利·塔尔塔科维尔。黑方刚刚吃下 e4 上的马,以为这是一盘平常棋——局面马上就要引爆。你执白。",
     "moves": [
       {
         "ply": 1,
@@ -25,7 +27,9 @@
         "eval_mate": null,
         "legal_evals": {},
         "annotation": null,
-        "alt_annotations": {}
+        "alt_annotations": {},
+        "annotation_zh": null,
+        "alt_annotations_zh": {}
       },
       {
         "ply": 2,
@@ -39,7 +43,9 @@
         "eval_mate": null,
         "legal_evals": {},
         "annotation": null,
-        "alt_annotations": {}
+        "alt_annotations": {},
+        "annotation_zh": null,
+        "alt_annotations_zh": {}
       },
       {
         "ply": 3,
@@ -53,7 +59,9 @@
         "eval_mate": null,
         "legal_evals": {},
         "annotation": null,
-        "alt_annotations": {}
+        "alt_annotations": {},
+        "annotation_zh": null,
+        "alt_annotations_zh": {}
       },
       {
         "ply": 4,
@@ -67,7 +75,9 @@
         "eval_mate": null,
         "legal_evals": {},
         "annotation": null,
-        "alt_annotations": {}
+        "alt_annotations": {},
+        "annotation_zh": null,
+        "alt_annotations_zh": {}
       },
       {
         "ply": 5,
@@ -81,7 +91,9 @@
         "eval_mate": null,
         "legal_evals": {},
         "annotation": null,
-        "alt_annotations": {}
+        "alt_annotations": {},
+        "annotation_zh": null,
+        "alt_annotations_zh": {}
       },
       {
         "ply": 6,
@@ -95,7 +107,9 @@
         "eval_mate": null,
         "legal_evals": {},
         "annotation": null,
-        "alt_annotations": {}
+        "alt_annotations": {},
+        "annotation_zh": null,
+        "alt_annotations_zh": {}
       },
       {
         "ply": 7,
@@ -109,7 +123,9 @@
         "eval_mate": null,
         "legal_evals": {},
         "annotation": null,
-        "alt_annotations": {}
+        "alt_annotations": {},
+        "annotation_zh": null,
+        "alt_annotations_zh": {}
       },
       {
         "ply": 8,
@@ -123,7 +139,9 @@
         "eval_mate": null,
         "legal_evals": {},
         "annotation": null,
-        "alt_annotations": {}
+        "alt_annotations": {},
+        "annotation_zh": null,
+        "alt_annotations_zh": {}
       },
       {
         "ply": 9,
@@ -137,7 +155,9 @@
         "eval_mate": null,
         "legal_evals": {},
         "annotation": null,
-        "alt_annotations": {}
+        "alt_annotations": {},
+        "annotation_zh": null,
+        "alt_annotations_zh": {}
       },
       {
         "ply": 10,
@@ -151,7 +171,9 @@
         "eval_mate": null,
         "legal_evals": {},
         "annotation": null,
-        "alt_annotations": {}
+        "alt_annotations": {},
+        "annotation_zh": null,
+        "alt_annotations_zh": {}
       },
       {
         "ply": 11,
@@ -165,7 +187,9 @@
         "eval_mate": null,
         "legal_evals": {},
         "annotation": null,
-        "alt_annotations": {}
+        "alt_annotations": {},
+        "annotation_zh": null,
+        "alt_annotations_zh": {}
       },
       {
         "ply": 12,
@@ -179,7 +203,9 @@
         "eval_mate": null,
         "legal_evals": {},
         "annotation": null,
-        "alt_annotations": {}
+        "alt_annotations": {},
+        "annotation_zh": null,
+        "alt_annotations_zh": {}
       },
       {
         "ply": 13,
@@ -193,7 +219,9 @@
         "eval_mate": null,
         "legal_evals": {},
         "annotation": null,
-        "alt_annotations": {}
+        "alt_annotations": {},
+        "annotation_zh": null,
+        "alt_annotations_zh": {}
       },
       {
         "ply": 14,
@@ -207,7 +235,9 @@
         "eval_mate": null,
         "legal_evals": {},
         "annotation": null,
-        "alt_annotations": {}
+        "alt_annotations": {},
+        "annotation_zh": null,
+        "alt_annotations_zh": {}
       },
       {
         "ply": 15,
@@ -221,7 +251,9 @@
         "eval_mate": null,
         "legal_evals": {},
         "annotation": null,
-        "alt_annotations": {}
+        "alt_annotations": {},
+        "annotation_zh": null,
+        "alt_annotations_zh": {}
       },
       {
         "ply": 16,
@@ -235,7 +267,9 @@
         "eval_mate": null,
         "legal_evals": {},
         "annotation": null,
-        "alt_annotations": {}
+        "alt_annotations": {},
+        "annotation_zh": null,
+        "alt_annotations_zh": {}
       },
       {
         "ply": 17,
@@ -937,6 +971,13 @@
           "g1f3": "Nf3 develops, but Black's queen slips away with tempo and even grabs a pawn on the queenside - the line ends with Black on top.",
           "d2b4": "Bb4 eyes the dark squares, but it hands Black time to develop and shore up the defense - the attack never lands.",
           "d3e2": "Qe2 saves the queen but concedes the initiative; Black develops comfortably and stands clearly better."
+        },
+        "annotation_zh": "Qd8+!! 把后送上一个空格——黑王只能吃,而引擎确认三步内强制将杀。这是当场制胜的一着;任何缓手都会让机会溜走。",
+        "alt_annotations_zh": {
+          "d1e1": "Re1 保持小优,也是安静着法里引擎最认可的一步,但时机一过,黑方理顺子力,棋局继续。",
+          "g1f3": "Nf3 看似出子,黑后却带着先手撤走,还顺势在后翼吃掉一兵——这条变化最终黑方占优。",
+          "d2b4": "Bb4 瞄着黑格,却给了黑方出子巩固的时间——攻势再也组织不起来。",
+          "d3e2": "Qe2 保住了后,却交出了主动权;黑方从容出子,明显占优。"
         }
       },
       {
@@ -951,7 +992,9 @@
         "eval_mate": null,
         "legal_evals": {},
         "annotation": null,
-        "alt_annotations": {}
+        "alt_annotations": {},
+        "annotation_zh": null,
+        "alt_annotations_zh": {}
       },
       {
         "ply": 19,
@@ -1443,6 +1486,13 @@
           "d2a5": "Ba5+ is a check Black meets calmly - the king steps aside and the attack runs out of steam with White far behind.",
           "d2f4": "Bf4+ picks the queen back up after the check, but Black's counterblows land first - the engine has Black clearly winning.",
           "d2c3": "Bc3+ is the same regain-the-queen idea, and it fails the same way: Black keeps the initiative and White ends up lost."
+        },
+        "annotation_zh": "Bg5+!! 是弃后的全部意义:这记将军黑方只能用王应对,引擎显示下一步即强制将杀。其余着法都让黑方稳稳掌局——只有这一步对得起之前的牺牲。",
+        "alt_annotations_zh": {
+          "g1f3": "Nf3 让攻势熄火;黑方稳住阵脚,按自己的节奏归还部分子力,最终明显占优。",
+          "d2a5": "Ba5+ 的将军黑方从容应对——王一闪,攻势就泄了气,白方落后太多。",
+          "d2f4": "Bf4+ 借着将军收回了后,但黑方的反击先到——引擎判黑方大幅领先。",
+          "d2c3": "Bc3+ 是同样的收后思路,败因也相同:黑方握住主动权,白方最终难逃败局。"
         }
       },
       {
@@ -1457,7 +1507,9 @@
         "eval_mate": null,
         "legal_evals": {},
         "annotation": null,
-        "alt_annotations": {}
+        "alt_annotations": {},
+        "annotation_zh": null,
+        "alt_annotations_zh": {}
       },
       {
         "ply": 21,
@@ -2055,6 +2107,13 @@
           "g1f3": "Nf3 lets Black force a queen trade and grab the bishop; the endgame is lost for White.",
           "f2f4": "f4 chases the queen but the bishop falls - Black wins comfortably.",
           "g1h3": "Nh3 develops the wrong piece at the wrong time; the bishop falls and the game with it."
+        },
+        "annotation_zh": "Bd8#——象完成将杀,车封住王的逃格,弃后大功告成。其余安静着法则直接葬送比赛:攻势烟消云散,黑方接管局面。",
+        "alt_annotations_zh": {
+          "g5e3": "Be3 与黑方对换几个回合,结果黑方明显赢面——将杀的时机一去不返。",
+          "g1f3": "Nf3 让黑方逼兑皇后并顺势吃掉白象,残局白方难以为继。",
+          "f2f4": "f4 想驱赶黑后,白象却保不住了——黑方轻松取胜。",
+          "g1h3": "Nh3 在错误的时间出了错误的子;白象失守,棋局随之崩塌。"
         }
       }
     ]
